@@ -7,7 +7,8 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%84%E0%B8%97+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "11583",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 111
   },
   {
     "hospitalName": "วิภาวดี โรงพยาบาลทั่วไปขนาดใหญ่",
@@ -17,7 +18,9 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "11691",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 230
+
   },
   {
     "hospitalName": "รพ.ขนาดเล็กบางขุนเทียน1",
@@ -27,7 +30,8 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%991+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "11706",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 15
   },
   {
     "hospitalName": "รพ.บางปะกอก 9 อินเตอร์เนชั่นแนลโรงพยาบาลทั่วไปขนาดใหญ่",
@@ -37,7 +41,8 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%209%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "21339",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 200
   },
   {
     "hospitalName": "รพ.ทั่วไปขนาดใหญ่ธนบุรี 2",
@@ -47,7 +52,8 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%202+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "11640",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 435
   },
   {
     "hospitalName": "รพ.ทั่วไปขนาดกลางโรงพยาบาลวิชัยเวช แยกไฟฉาย",
@@ -57,7 +63,8 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%84%E0%B8%9F%E0%B8%89%E0%B8%B2%E0%B8%A2+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "11641",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 100
   },
   {
     "hospitalName": "รพ.ทั่วไปขนาดใหญ่ พีเอ็มจี",
@@ -67,7 +74,8 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B8%88%E0%B8%B5+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "11647",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 500
   },
   {
     "hospitalName": "รพ.ทั่วไปขนาดใหญ่เกษมราษฎร์ประชาชื่น",
@@ -77,7 +85,8 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "11687",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 467
   },
   {
     "hospitalName": "รพ.บางโพ โรงพยาบาลทั่วไปขนาดใหญ่",
@@ -87,7 +96,8 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9E%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "11686",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 300
   },
   {
     "hospitalName": "รพ.ทั่วไปขนาดใหญ่ศิครินทร์",
@@ -97,7 +107,8 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A8%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "11582",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 200
   },
   {
     "hospitalName": "รพ.บางปะกอก 8 โรงพยาบาลทั่วไปขนาดใหญ่",
@@ -107,7 +118,8 @@
     "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%208%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     "id": "15147",
     "region": "ภาคกลาง",
-    "province": "กรุงเทพฯ"
+    "province": "กรุงเทพฯ",
+    "Bed": 250
   },
   {
     "hospitalName": "รพ.เกษมราษฎร์ บางแค รพ.ทั่วไปขนาดใหญ่",
