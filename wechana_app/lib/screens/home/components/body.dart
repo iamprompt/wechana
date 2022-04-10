@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:wechana_app/components/text_headline.dart';
-import 'package:wechana_app/model/hospital.dart';
 import 'package:wechana_app/model/hospital_data.dart';
-import 'package:wechana_app/screens/home/components/header.dart';
-import 'package:wechana_app/screens/home/components/map_container.dart';
 import 'package:wechana_app/screens/home/components/hospital_card.dart';
 
 class Body extends StatelessWidget {
@@ -22,8 +19,6 @@ class Body extends StatelessWidget {
                   bottom: MediaQuery.of(context).padding.bottom),
               child: Column(
                 children: <Widget>[
-                  // TextHeadline(text: "My Location"),
-                  // MapHomeContainer(),
                   TextHeadline(text: "Nearby Places"),
                   Column(
                     children: [

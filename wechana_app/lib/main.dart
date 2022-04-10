@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:wechana_app/components/custom_bottom_navbar.dart';
 import 'package:wechana_app/config/theme.dart';
 import 'package:wechana_app/model/hospital.dart';
 import 'package:wechana_app/model/hospital_data.dart';
 import 'package:wechana_app/screens/details/details_screen.dart';
+import 'package:wechana_app/screens/explore/explore_screen.dart';
 import 'package:wechana_app/screens/home/home_screen.dart';
 
 void main() {
@@ -46,6 +48,13 @@ class MyApp extends StatelessWidget {
         builder: (context, state) {
           final Hospital hospital = getHospitalById(state.params['id']!);
           return DetailsScreen(hospital: hospital);
+        },
+      ),
+      GoRoute(
+        name: 'Explore',
+        path: '/explore',
+        builder: (context, state) {
+          return ExploreScreen();
         },
       ),
     ],

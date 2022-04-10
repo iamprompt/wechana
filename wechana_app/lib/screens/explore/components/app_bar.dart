@@ -1,13 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
 
-AppBar detailsAppBar(BuildContext context) {
+AppBar exploreAppBar(BuildContext context) {
   return AppBar(
+    // backgroundColor: Colors.white,
     elevation: 3,
-    leading: IconButton(
-      icon: const Icon(Icons.arrow_back_ios_new_rounded),
-      onPressed: () => context.pop(),
-    ),
     title: RichText(
       text: TextSpan(
         style: Theme.of(context).textTheme.titleLarge,

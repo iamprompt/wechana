@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:go_router/go_router.dart';
 import 'package:wechana_app/model/hospital.dart';
 import 'package:wechana_app/screens/details/components/app_bar.dart';
 import 'package:wechana_app/screens/details/components/body.dart';

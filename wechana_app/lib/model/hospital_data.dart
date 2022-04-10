@@ -24,7 +24,7 @@ List<Hospital> hospitals = [
     id: "11691",
     region: "ภาคกลาง",
     province: "กรุงเทพฯ",
-    geolocation: LatLng(0, 0),
+    geolocation: LatLng(13.846410546297042, 100.56213462619269),
   ),
   Hospital(
     hospitalName: "รพ.ขนาดเล็กบางขุนเทียน1",
@@ -36,7 +36,7 @@ List<Hospital> hospitals = [
     id: "11706",
     region: "ภาคกลาง",
     province: "กรุงเทพฯ",
-    geolocation: LatLng(0, 0),
+    geolocation: LatLng(13.6990490161251, 100.46997129272947),
   ),
   Hospital(
     hospitalName: "รพ.บางปะกอก 9 อินเตอร์เนชั่นแนลโรงพยาบาลทั่วไปขนาดใหญ่",
@@ -48,7 +48,7 @@ List<Hospital> hospitals = [
     id: "21339",
     region: "ภาคกลาง",
     province: "กรุงเทพฯ",
-    geolocation: LatLng(0, 0),
+    geolocation: LatLng(13.681884525350048, 100.474518765985),
   ),
   Hospital(
     hospitalName: "รพ.ทั่วไปขนาดใหญ่ธนบุรี 2",
