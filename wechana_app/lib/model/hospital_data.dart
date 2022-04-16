@@ -10,8 +10,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%84%E0%B8%97+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11583",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(13.713979761106577, 100.58763504893034),
   ),
   Hospital(
@@ -22,8 +22,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11691",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(13.846410546297042, 100.56213462619269),
   ),
   Hospital(
@@ -34,8 +34,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%991+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11706",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(13.6990490161251, 100.46997129272947),
   ),
   Hospital(
@@ -46,8 +46,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%209%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "21339",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(13.681884525350048, 100.474518765985),
   ),
   Hospital(
@@ -58,8 +58,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%202+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11640",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -70,8 +70,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%84%E0%B8%9F%E0%B8%89%E0%B8%B2%E0%B8%A2+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11641",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -82,8 +82,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B8%88%E0%B8%B5+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11647",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -94,8 +94,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11687",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -106,8 +106,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9E%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11686",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -118,8 +118,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A8%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11582",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -130,8 +130,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%208%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "15147",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -142,8 +142,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%20%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%84%20%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11656",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -154,8 +154,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%99%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%8A+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "42141",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -166,8 +166,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%20%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "41700",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -178,8 +178,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "25015",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -190,8 +190,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%99%E0%B8%A7%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%209%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "23781",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -202,8 +202,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%201%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11670",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -214,8 +214,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11668",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -226,8 +226,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%20%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "41556",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -238,8 +238,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B5.%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%A1%E0%B8%94%E0%B8%B4%E0%B8%84%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "14572",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -250,8 +250,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%82%E0%B8%A1+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11661",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -262,8 +262,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "11632",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -274,8 +274,8 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B8%E0%B8%95%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
     id: "42167",
-    region: "ภาคกลาง",
-    province: "กรุงเทพฯ",
+    region: "Central",
+    province: "Bangkok",
     geolocation: LatLng(0, 0),
   ),
   Hospital(
@@ -286,7 +286,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9B%E0%B8%90%E0%B8%A1/@-,-,13z",
     id: "12127",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "นครปฐม",
     geolocation: LatLng(0, 0),
   ),
@@ -298,7 +298,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%A8%E0%B8%A3%E0%B9%8C+%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
     id: "40765",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "นนทบุรี",
     geolocation: LatLng(0, 0),
   ),
@@ -311,7 +311,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%A8%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
     id: "11787",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "นนทบุรี",
     geolocation: LatLng(0, 0),
   ),
@@ -323,7 +323,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2+%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
     id: "22179",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "นนทบุรี",
     geolocation: LatLng(0, 0),
   ),
@@ -335,7 +335,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%94%E0%B8%B4%E0%B8%84%E0%B8%AD%E0%B8%A5+%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
     id: "28810",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "นนทบุรี",
     geolocation: LatLng(0, 0),
   ),
@@ -347,7 +347,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
     id: "11799",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "ปทุมธานี",
     geolocation: LatLng(0, 0),
   ),
@@ -359,7 +359,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
     id: "14354",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "ปทุมธานี",
     geolocation: LatLng(0, 0),
   ),
@@ -371,7 +371,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%89%E0%B8%9E%E0%B8%B2%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%20%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%20%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%20%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B8%B2+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
     id: "42191",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "ปทุมธานี",
     geolocation: LatLng(0, 0),
   ),
@@ -383,7 +383,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%8B%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%94%E0%B8%A5%E0%B8%B5%E0%B8%9F%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%8C%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
     id: "42177",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "ปทุมธานี",
     geolocation: LatLng(0, 0),
   ),
@@ -395,7 +395,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%95%202+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
     id: "11801",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "ปทุมธานี",
     geolocation: LatLng(0, 0),
   ),
@@ -407,7 +407,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
     id: "41685",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "ปทุมธานี",
     geolocation: LatLng(0, 0),
   ),
@@ -419,7 +419,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%AD%E0%B8%AA%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
     id: "14683",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "ปทุมธานี",
     geolocation: LatLng(0, 0),
   ),
@@ -431,7 +431,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2/@-,-,13z",
     id: "15096",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "พระนครศรีอยุธยา",
     geolocation: LatLng(0, 0),
   ),
@@ -443,7 +443,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2/@-,-,13z",
     id: "42233",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "พระนครศรีอยุธยา",
     geolocation: LatLng(0, 0),
   ),
@@ -455,7 +455,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%B2%205+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
     id: "24036",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สมุทรปราการ",
     geolocation: LatLng(0, 0),
   ),
@@ -467,7 +467,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%8B%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
     id: "11770",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สมุทรปราการ",
     geolocation: LatLng(0, 0),
   ),
@@ -479,7 +479,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%203+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
     id: "11777",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สมุทรปราการ",
     geolocation: LatLng(0, 0),
   ),
@@ -491,7 +491,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
     id: "41413",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สมุทรปราการ",
     geolocation: LatLng(0, 0),
   ),
@@ -503,7 +503,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%20%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
     id: "41351",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สมุทรปราการ",
     geolocation: LatLng(0, 0),
   ),
@@ -515,7 +515,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A8%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
     id: "11745",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สมุทรปราการ",
     geolocation: LatLng(0, 0),
   ),
@@ -527,7 +527,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3/@-,-,13z",
     id: "12144",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สมุทรสาคร",
     geolocation: LatLng(0, 0),
   ),
@@ -539,7 +539,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3/@-,-,13z",
     id: "12140",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สมุทรสาคร",
     geolocation: LatLng(0, 0),
   ),
@@ -551,7 +551,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%A2%203+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3/@-,-,13z",
     id: "23924",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สมุทรสาคร",
     geolocation: LatLng(0, 0),
   ),
@@ -563,7 +563,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B8%A2+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3/@-,-,13z",
     id: "22615",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สมุทรสาคร",
     geolocation: LatLng(0, 0),
   ),
@@ -575,7 +575,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8F%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
     id: "11833",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สระบุรี",
     geolocation: LatLng(0, 0),
   ),
@@ -587,7 +587,7 @@ List<Hospital> hospitals = [
     mapUrl:
         "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%87+%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
     id: "12122",
-    region: "ภาคกลาง",
+    region: "Central",
     province: "สุพรรณบุรี",
     geolocation: LatLng(0, 0),
   ),

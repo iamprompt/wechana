@@ -1,4 +1,5 @@
 import 'package:latlong2/latlong.dart';
+import 'package:wechana_app/model/hospital_data.dart';
 
 class Hospital {
   final String id,
@@ -22,4 +23,8 @@ class Hospital {
     required this.tel,
     required this.geolocation,
   });
+}
+
+Hospital getHospitalById(String id) {
+  return hospitals.firstWhere((hospital) => hospital.id == id);
 }

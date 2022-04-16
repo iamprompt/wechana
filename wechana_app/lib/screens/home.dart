@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:wechana_app/screens/explore_region.dart';
 import 'package:wechana_app/screens/nearby.dart';
 import 'package:wechana_app/widgets/appbar.dart';
 
@@ -16,7 +17,7 @@ class _HomeScreenState extends State<HomeScreen> {
   // List of widgets tab
   final List<Widget> tabs = const [
     NearbyScreen(),
-    Text('Tab 2'),
+    ExploreRegionScreen(),
     Text('Tab 3'),
   ];
 

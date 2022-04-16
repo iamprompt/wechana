@@ -1,6 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:wechana_app/model/hospital.dart';
+import 'package:wechana_app/model/region.dart';
+import 'package:wechana_app/model/region_data.dart';
+import 'package:wechana_app/screens/explore_hospital.dart';
+import 'package:wechana_app/screens/explore_province.dart';
 import 'package:wechana_app/screens/home.dart';
+import 'package:wechana_app/screens/hospital_details.dart';
 import 'package:wechana_app/screens/splash.dart';
 
 final router = GoRouter(
@@ -50,9 +56,15 @@ final router = GoRouter(
           path: ':regionSlug',
           pageBuilder: (context, state) {
             final regionSlug = state.params['regionSlug']!;
+            Region region = regions.firstWhere(
+              (r) => r.slug == regionSlug,
+            );
+
             return MaterialPage(
               key: state.pageKey,
-              child: Text(regionSlug),
+              child: ExploreProvinceScreen(
+                region: region,
+              ),
             );
           },
           routes: [
@@ -64,7 +76,10 @@ final router = GoRouter(
                 final provinceSlug = state.params['provinceSlug']!;
                 return MaterialPage(
                   key: state.pageKey,
-                  child: Text(regionSlug + provinceSlug),
+                  child: ExploreHospitalScreen(
+                    regionSlug: regionSlug,
+                    provinceSlug: provinceSlug,
+                  ),
                 );
               },
             ),
@@ -85,9 +100,12 @@ final router = GoRouter(
           path: ':id',
           pageBuilder: (context, state) {
             final id = state.params['id']!;
+            final Hospital hospital = getHospitalById(state.params['id']!);
             return MaterialPage(
               key: state.pageKey,
-              child: Text(id),
+              child: HospitalDetailScreen(
+                hospital: hospital,
+              ),
             );
           },
         ),
