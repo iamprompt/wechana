@@ -9,7 +9,7 @@ class CustomBottonNavBar extends StatelessWidget {
     String currentRoute = GoRouter.of(context).location;
 
     return Container(
-      padding: EdgeInsets.only(
+      padding: const EdgeInsets.only(
         left: 35,
         right: 35,
         top: 10,
@@ -25,9 +25,9 @@ class CustomBottonNavBar extends StatelessWidget {
         // ),
         boxShadow: [
           BoxShadow(
-            offset: Offset(0, -7),
+            offset: const Offset(0, -7),
             blurRadius: 33,
-            color: Color(0xFF6DAED9).withOpacity(0.11),
+            color: const Color(0xFF6DAED9).withOpacity(0.11),
           ),
         ],
       ),
@@ -76,7 +76,7 @@ class NavItem extends StatelessWidget {
       child: Column(
         children: [
           Icon(icon),
-          SizedBox(height: 5),
+          const SizedBox(height: 5),
           Text(label),
         ],
       ),

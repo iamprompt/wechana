@@ -27,11 +27,9 @@ class StreetMap extends StatelessWidget {
               width: 100.0,
               height: 100.0,
               point: geoLocation ?? LatLng(13.7530071, 100.5070797),
-              builder: (ctx) => Container(
-                child: Icon(
-                  Icons.location_on,
-                  color: Colors.red,
-                ),
+              builder: (ctx) => const Icon(
+                Icons.location_on,
+                color: Colors.red,
               ),
             ),
           ],
