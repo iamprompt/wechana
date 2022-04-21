@@ -72,13 +72,16 @@ final router = GoRouter(
               path: ':provinceSlug',
               pageBuilder: (context, state) {
                 final regionSlug = state.params['regionSlug']!;
-                final provinceSlug = state.params['provinceSlug']!;
+                final Region region = regions.firstWhere(
+                  (r) => r.slug == regionSlug,
+                );
+
+                final province = region.provinces.firstWhere(
+                  (p) => p.slug == state.params['provinceSlug']!,
+                );
                 return MaterialPage(
                   key: state.pageKey,
-                  child: ExploreHospitalScreen(
-                    regionSlug: regionSlug,
-                    provinceSlug: provinceSlug,
-                  ),
+                  child: ExploreHospitalScreen(province: province),
                 );
               },
             ),

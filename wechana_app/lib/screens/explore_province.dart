@@ -28,7 +28,15 @@ class _ExploreProvinceScreenState extends State<ExploreProvinceScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: customAppBar,
+      appBar: customAppBar(
+        titleElement: Text(
+          widget.region.name,
+          style: const TextStyle(
+            fontSize: 30,
+            fontWeight: FontWeight.bold,
+          ),
+        ),
+      ),
       body: ListView.builder(
         padding: const EdgeInsets.all(15.0),
         itemCount: _items.length,

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:wechana_app/screens/explore_region.dart';
+import 'package:wechana_app/screens/map.dart';
 import 'package:wechana_app/screens/nearby.dart';
 import 'package:wechana_app/widgets/appbar.dart';
 
@@ -18,7 +19,7 @@ class _HomeScreenState extends State<HomeScreen> {
   final List<Widget> tabs = const [
     NearbyScreen(),
     ExploreRegionScreen(),
-    Text('Tab 3'),
+    MapView(),
   ];
 
   @override
@@ -36,7 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: customAppBar,
+      appBar: customAppBar(titleElement: _getTitleElement(_selectedIndex)),
       backgroundColor: Colors.white,
       body: tabs[_selectedIndex],
       bottomNavigationBar: BottomNavigationBar(
@@ -50,18 +51,59 @@ class _HomeScreenState extends State<HomeScreen> {
             label: 'Explore',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.search_rounded),
-            label: 'Search',
+            icon: Icon(Icons.map_rounded),
+            label: 'Map',
           ),
         ],
         currentIndex: _selectedIndex,
         onTap: _onItemTapped,
         elevation: 10.0,
-        selectedItemColor: const Color(0xFF2F80ED),
-        unselectedItemColor: const Color(0xFF333333),
+        selectedItemColor: const Color(0xFF83D092),
+        unselectedItemColor: const Color(0xFF828282),
         selectedFontSize: 12.0,
         unselectedFontSize: 12.0,
       ),
+    );
+  }
+
+  Widget? _getTitleElement(int index) {
+    if (index == 0) {
+      return NearbyScreen.titleElement;
+    }
+
+    if (index == 1) {
+      return ExploreRegionScreen.titleElement;
+    }
+
+    if (index == 2) {
+      return MapView.titleElement;
+    }
+
+    return Text.rich(
+      TextSpan(
+        style: const TextStyle(
+          fontSize: 30,
+          fontWeight: FontWeight.bold,
+          color: Colors.white,
+        ),
+        children: [
+          const TextSpan(
+            text: 'WeChana',
+            style: TextStyle(
+              fontSize: 30,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          WidgetSpan(
+            alignment: PlaceholderAlignment.middle,
+            child: Container(
+              margin: const EdgeInsets.only(left: 5.0),
+              child: const Icon(Icons.local_hospital_rounded),
+            ),
+          ),
+        ],
+      ),
+      textAlign: TextAlign.center,
     );
   }
 }

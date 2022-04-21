@@ -7,6 +7,32 @@ class ExploreRegionScreen extends StatefulWidget {
   const ExploreRegionScreen({Key? key}) : super(key: key);
 
   static String routeName = 'nearby';
+  static Widget titleElement = Text.rich(
+    TextSpan(
+      style: const TextStyle(
+        fontSize: 30,
+        fontWeight: FontWeight.bold,
+        color: Colors.white,
+      ),
+      children: [
+        const TextSpan(
+          text: 'Explore Hospital',
+          style: TextStyle(
+            fontSize: 30,
+            fontWeight: FontWeight.bold,
+          ),
+        ),
+        WidgetSpan(
+          alignment: PlaceholderAlignment.middle,
+          child: Container(
+            margin: const EdgeInsets.only(left: 5.0),
+            child: const Icon(Icons.local_hospital_rounded),
+          ),
+        ),
+      ],
+    ),
+    textAlign: TextAlign.center,
+  );
 
   @override
   State<ExploreRegionScreen> createState() => _ExploreRegionScreenState();
@@ -18,7 +44,6 @@ class _ExploreRegionScreenState extends State<ExploreRegionScreen> {
   @override
   void initState() {
     super.initState();
-
     _items = regions;
   }
 

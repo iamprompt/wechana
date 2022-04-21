@@ -20,7 +20,7 @@ class _SplashScreenState extends State<SplashScreen> {
         ),
       ),
       child: const Padding(
-        padding: EdgeInsets.only(top: 500),
+        padding: EdgeInsets.only(top: 300),
         child: SpinKitThreeBounce(
           color: Colors.white,
           size: 30.0,

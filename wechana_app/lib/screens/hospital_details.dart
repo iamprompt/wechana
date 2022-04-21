@@ -26,57 +26,53 @@ class _HospitalDetailScreenState extends State<HospitalDetailScreen> {
         if (snapshot.hasData) {
           Hospital hospital = snapshot.data!;
           return Scaffold(
-            extendBodyBehindAppBar: true,
-            appBar: customAppBar,
-            body: Padding(
-              padding: const EdgeInsets.only(top: 100),
-              child: Column(
-                children: <Widget>[
-                  SizedBox(
-                    height: 300,
-                    width: double.infinity,
-                    child: GoogleMap(
-                      initialCameraPosition: CameraPosition(
-                        target: LatLng(
-                          hospital.geolocation.latitude + 0.002,
+            appBar: customAppBar(),
+            body: Column(
+              children: <Widget>[
+                SizedBox(
+                  height: 300,
+                  width: double.infinity,
+                  child: GoogleMap(
+                    initialCameraPosition: CameraPosition(
+                      target: LatLng(
+                        hospital.geolocation.latitude + 0.002,
+                        hospital.geolocation.longitude,
+                      ),
+                      zoom: 15.0,
+                    ),
+                    myLocationButtonEnabled: false,
+                    myLocationEnabled: false,
+                    markers: <Marker>{
+                      Marker(
+                        markerId: MarkerId(hospital.id.toString()),
+                        position: LatLng(
+                          hospital.geolocation.latitude,
                           hospital.geolocation.longitude,
                         ),
-                        zoom: 15.0,
-                      ),
-                      myLocationButtonEnabled: false,
-                      myLocationEnabled: false,
-                      markers: <Marker>{
-                        Marker(
-                          markerId: MarkerId(hospital.id.toString()),
-                          position: LatLng(
-                            hospital.geolocation.latitude,
-                            hospital.geolocation.longitude,
-                          ),
-                          infoWindow: InfoWindow(
-                            title: hospital.name['th']!,
-                            // snippet: hospital.region['th']!,
-                          ),
-                          icon: BitmapDescriptor.defaultMarker,
+                        infoWindow: InfoWindow(
+                          title: hospital.name['en']!,
+                          snippet: hospital.region['en']!,
                         ),
-                      },
+                        icon: BitmapDescriptor.defaultMarker,
+                      ),
+                    },
+                  ),
+                ),
+                Padding(
+                  padding: const EdgeInsets.fromLTRB(25, 25, 25, 15),
+                  child: SizedBox(
+                    width: double.infinity,
+                    child: Text(
+                      hospital.name['en']!,
+                      style: const TextStyle(
+                        fontSize: 32.0,
+                        fontWeight: FontWeight.bold,
+                      ),
+                      textAlign: TextAlign.left,
                     ),
                   ),
-                  Padding(
-                    padding: const EdgeInsets.fromLTRB(25, 25, 25, 15),
-                    child: SizedBox(
-                      width: double.infinity,
-                      child: Text(
-                        hospital.name['th']!,
-                        style: const TextStyle(
-                          fontSize: 32.0,
-                          fontWeight: FontWeight.bold,
-                        ),
-                        textAlign: TextAlign.left,
-                      ),
-                    ),
-                  )
-                ],
-              ),
+                )
+              ],
             ),
           );
         }

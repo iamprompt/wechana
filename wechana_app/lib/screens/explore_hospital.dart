@@ -1,12 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:wechana_app/model/hospital.dart';
+import 'package:wechana_app/model/province.dart';
+import 'package:wechana_app/services/firestore_service.dart';
 import 'package:wechana_app/widgets/appbar.dart';
 import 'package:wechana_app/widgets/title_card.dart';
 
 class ExploreHospitalScreen extends StatefulWidget {
-  final String regionSlug, provinceSlug;
-  const ExploreHospitalScreen(
-      {Key? key, required this.regionSlug, required this.provinceSlug})
+  final Province province;
+  const ExploreHospitalScreen({Key? key, required this.province})
       : super(key: key);
 
   static String routeName = 'explore_hospital';
@@ -16,7 +17,7 @@ class ExploreHospitalScreen extends StatefulWidget {
 }
 
 class _ExploreHospitalScreenState extends State<ExploreHospitalScreen> {
-  List<Hospital> _items = [];
+  final FirestoreService _firestoreService = FirestoreService.instance;
 
   @override
   void initState() {
@@ -27,21 +28,46 @@ class _ExploreHospitalScreenState extends State<ExploreHospitalScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: customAppBar,
-      body: ListView.builder(
-        padding: const EdgeInsets.all(15.0),
-        itemCount: _items.length,
-        itemBuilder: (context, index) {
-          Hospital hosp = _items[index];
+    return StreamBuilder<List<Hospital>>(
+      stream:
+          _firestoreService.getHospitalsByProvinceSlug(widget.province.slug),
+      builder: (context, snapshot) {
+        if (snapshot.hasError) {
+          return const CircularProgressIndicator();
+        }
 
-          return titleCard(
-            context,
-            _items[index].name['th']!,
-            '/hospital/${hosp.id}',
+        if (snapshot.hasData) {
+          List<Hospital> _items = snapshot.data!;
+          return Scaffold(
+            appBar: customAppBar(
+              titleElement: Text(
+                widget.province.name,
+                style: const TextStyle(
+                  fontSize: 30,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+            body: ListView.builder(
+              padding: const EdgeInsets.all(15.0),
+              itemCount: _items.length,
+              itemBuilder: (context, index) {
+                Hospital hosp = _items[index];
+
+                return titleCard(
+                  context,
+                  _items[index].name['en']!,
+                  '/hospital/${hosp.id}',
+                );
+              },
+            ),
           );
-        },
-      ),
+        }
+
+        return const Center(
+          child: CircularProgressIndicator(),
+        );
+      },
     );
   }
 
@@ -52,6 +78,6 @@ class _ExploreHospitalScreenState extends State<ExploreHospitalScreen> {
     //   }).toList();
     // });
 
-    print('Loaded ${_items.length} items');
+    // print('Loaded ${_items.length} items');
   }
 }
