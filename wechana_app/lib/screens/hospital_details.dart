@@ -31,17 +31,21 @@ class _HospitalDetailScreenState extends State<HospitalDetailScreen> {
       stream: _firestoreService.getHospitalById(widget.hId),
       builder: (context, snapshot) {
         if (snapshot.hasError) {
-          return const CircularProgressIndicator();
+          return const CircularProgressIndicator(
+            color: Color(0xFF8CCF75),
+          );
         }
         if (snapshot.hasData) {
           Hospital hospital = snapshot.data!;
           return Scaffold(
             appBar: customAppBar(
+              context: context,
               titleElement: const Text(
                 'Hospital Details',
                 style: TextStyle(
                   color: Colors.white,
                   fontSize: 30,
+                  fontWeight: FontWeight.bold,
                 ),
               ),
             ),
@@ -294,7 +298,9 @@ class _HospitalDetailScreenState extends State<HospitalDetailScreen> {
             ),
           );
         }
-        return const CircularProgressIndicator();
+        return const CircularProgressIndicator(
+          color: Color(0xFF8CCF75),
+        );
       },
     );
   }

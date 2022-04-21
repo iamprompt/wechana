@@ -37,7 +37,10 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: customAppBar(titleElement: _getTitleElement(_selectedIndex)),
+      appBar: customAppBar(
+        context: context,
+        titleElement: _getTitleElement(_selectedIndex),
+      ),
       backgroundColor: Colors.white,
       body: tabs[_selectedIndex],
       bottomNavigationBar: BottomNavigationBar(

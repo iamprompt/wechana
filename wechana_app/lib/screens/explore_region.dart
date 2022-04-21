@@ -96,7 +96,7 @@ class _ExploreRegionScreenState extends State<ExploreRegionScreen> {
               fontWeight: FontWeight.bold,
               foreground: Paint()
                 ..shader = const LinearGradient(
-                  colors: [Color(0xFFDA44BB), Color(0xFF8921AA)],
+                  colors: [Color(0xFF8CCF75), Color(0xFF75CFB8)],
                   begin: Alignment.topCenter,
                   end: Alignment.bottomRight,
                 ).createShader(const Rect.fromLTRB(0, 0, 100, 100)),

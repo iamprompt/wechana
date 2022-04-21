@@ -104,7 +104,10 @@ class _MapViewState extends State<MapView> {
         } else if (snapshot.hasError) {
           return Text('${snapshot.error}');
         }
-        return const Center(child: CircularProgressIndicator());
+        return const Center(
+            child: CircularProgressIndicator(
+          color: Color(0xFF8CCF75),
+        ));
       },
     );
   }

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:wechana_app/model/region.dart';
 import 'package:wechana_app/model/region_data.dart';
+import 'package:wechana_app/screens/aboutus.dart';
 import 'package:wechana_app/screens/explore_hospital.dart';
 import 'package:wechana_app/screens/explore_province.dart';
 import 'package:wechana_app/screens/home.dart';
@@ -110,6 +111,14 @@ final router = GoRouter(
           },
         ),
       ],
+    ),
+    GoRoute(
+      name: 'aboutus',
+      path: '/aboutus',
+      pageBuilder: (context, state) => MaterialPage(
+        key: state.pageKey,
+        child: const AboutUsScreen(),
+      ),
     ),
   ],
   errorPageBuilder: (context, state) => MaterialPage(

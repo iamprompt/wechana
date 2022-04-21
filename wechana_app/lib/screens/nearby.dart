@@ -64,25 +64,30 @@ class _NearbyScreenState extends State<NearbyScreen> {
             builder: (ctx, evt) {
               if (evt.hasData) {
                 List<Hospital> _items = evt.data!;
-                return _buildListView(_items);
-              }
-              if (evt.connectionState == ConnectionState.done && !evt.hasData) {
-                return StreamBuilder<List<Hospital>>(
-                  stream: _firestoreService.getHospitals(),
-                  builder: (ctxx, evt) {
-                    if (evt.hasData) {
-                      List<Hospital> _items = evt.data!;
-                      return _buildListView(_items);
-                    }
-                    return const Center(
-                      child: CircularProgressIndicator(),
-                    );
-                  },
-                );
+                if (_items.isNotEmpty) {
+                  return _buildListView(_items);
+                } else {
+                  return StreamBuilder<List<Hospital>>(
+                    stream: _firestoreService.getHospitals(),
+                    builder: (ctxx, evt) {
+                      if (evt.hasData) {
+                        List<Hospital> _hospitalItems = evt.data!;
+                        return _buildListView(_hospitalItems);
+                      }
+                      return const Center(
+                        child: CircularProgressIndicator(
+                          color: Color(0xFF8CCF75),
+                        ),
+                      );
+                    },
+                  );
+                }
               }
 
               return const Center(
-                child: CircularProgressIndicator(),
+                child: CircularProgressIndicator(
+                  color: Color(0xFF8CCF75),
+                ),
               );
             },
           );
@@ -92,7 +97,9 @@ class _NearbyScreenState extends State<NearbyScreen> {
           );
         }
         return const Center(
-          child: CircularProgressIndicator(),
+          child: CircularProgressIndicator(
+            color: Color(0xFF8CCF75),
+          ),
         );
       },
     );

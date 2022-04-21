@@ -33,13 +33,16 @@ class _ExploreHospitalScreenState extends State<ExploreHospitalScreen> {
           _firestoreService.getHospitalsByProvinceSlug(widget.province.slug),
       builder: (context, snapshot) {
         if (snapshot.hasError) {
-          return const CircularProgressIndicator();
+          return const CircularProgressIndicator(
+            color: Color(0xFF8CCF75),
+          );
         }
 
         if (snapshot.hasData) {
           List<Hospital> _items = snapshot.data!;
           return Scaffold(
             appBar: customAppBar(
+              context: context,
               titleElement: Text(
                 widget.province.name,
                 style: const TextStyle(
@@ -65,7 +68,9 @@ class _ExploreHospitalScreenState extends State<ExploreHospitalScreen> {
         }
 
         return const Center(
-          child: CircularProgressIndicator(),
+          child: CircularProgressIndicator(
+            color: Color(0xFF8CCF75),
+          ),
         );
       },
     );

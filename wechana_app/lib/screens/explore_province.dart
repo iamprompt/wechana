@@ -29,6 +29,7 @@ class _ExploreProvinceScreenState extends State<ExploreProvinceScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: customAppBar(
+        context: context,
         titleElement: Text(
           widget.region.name,
           style: const TextStyle(
