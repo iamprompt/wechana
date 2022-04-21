@@ -87,21 +87,27 @@ class _HospitalDetailScreenState extends State<HospitalDetailScreen> {
                     children: [
                       Padding(
                         padding: const EdgeInsets.only(bottom: 15),
-                        child: Row(
-                          children: [
-                            const Icon(
-                              Icons.location_pin,
-                              color: Color(0xFF8CCF75),
-                            ),
-                            Expanded(
-                              child: Padding(
-                                padding: const EdgeInsets.only(left: 15),
-                                child: Text(
-                                  hospital.address['en']!,
+                        child: GestureDetector(
+                          onTap: () {
+                            launch(
+                                'https://www.google.com/maps/search/?api=1&query=${Uri.encodeComponent(hospital.name['en']!)}&query_place_id=${hospital.googleMapsPlaceId}');
+                          },
+                          child: Row(
+                            children: [
+                              const Icon(
+                                Icons.location_pin,
+                                color: Color(0xFF8CCF75),
+                              ),
+                              Expanded(
+                                child: Padding(
+                                  padding: const EdgeInsets.only(left: 15),
+                                  child: Text(
+                                    hospital.address['en']!,
+                                  ),
                                 ),
                               ),
-                            ),
-                          ],
+                            ],
+                          ),
                         ),
                       ),
                       hospital.tel.isNotEmpty
