@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:wechana_app/model/hospital.dart';
 import 'package:wechana_app/services/firestore_service.dart';
+import 'package:wechana_app/services/geolocator_service.dart';
 import 'package:wechana_app/widgets/appbar.dart';
 
 class HospitalDetailScreen extends StatefulWidget {
@@ -15,6 +17,13 @@ class HospitalDetailScreen extends StatefulWidget {
 
 class _HospitalDetailScreenState extends State<HospitalDetailScreen> {
   final FirestoreService _firestoreService = FirestoreService.instance;
+  Position? _myLocation;
+
+  @override
+  void initState() {
+    super.initState();
+    _getMyLocation();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -85,6 +94,41 @@ class _HospitalDetailScreenState extends State<HospitalDetailScreen> {
                   padding: const EdgeInsets.symmetric(horizontal: 25),
                   child: Column(
                     children: [
+                      _myLocation != null
+                          ? Padding(
+                              padding: const EdgeInsets.only(bottom: 15),
+                              child: GestureDetector(
+                                onTap: () {
+                                  launch(
+                                    'https://www.google.com/maps/dir/?api=1&destination=${Uri.encodeComponent(hospital.address['en']!)}&destination_place_id=${Uri.encodeComponent(hospital.googleMapsPlaceId)}',
+                                  );
+                                },
+                                child: Row(
+                                  children: [
+                                    const Icon(
+                                      Icons.navigation_rounded,
+                                      color: Color(0xFF8CCF75),
+                                    ),
+                                    Expanded(
+                                      child: Padding(
+                                        padding:
+                                            const EdgeInsets.only(left: 15),
+                                        child: Text(
+                                          _convertDistanceMeterToKm(
+                                              _getDistance(
+                                                  _myLocation!.latitude,
+                                                  _myLocation!.longitude,
+                                                  hospital.geolocation.latitude,
+                                                  hospital
+                                                      .geolocation.longitude)),
+                                        ),
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                            )
+                          : Container(),
                       Padding(
                         padding: const EdgeInsets.only(bottom: 15),
                         child: GestureDetector(
@@ -253,5 +297,27 @@ class _HospitalDetailScreenState extends State<HospitalDetailScreen> {
         return const CircularProgressIndicator();
       },
     );
+  }
+
+  Future<void> _getMyLocation() async {
+    final location = await determinePosition();
+    setState(() {
+      _myLocation = location;
+    });
+  }
+
+  double _getDistance(
+      double latStart, double lngStart, double latStop, double lngStop) {
+    return Geolocator.distanceBetween(latStart, lngStart, latStop, lngStop);
+  }
+
+  String _convertDistanceMeterToKm(double distance) {
+    double distanceKm = distance / 1000;
+
+    if (distanceKm > 1) {
+      return '${distanceKm.toStringAsFixed(2)} km';
+    } else {
+      return '${distance.toStringAsFixed(2)} m';
+    }
   }
 }

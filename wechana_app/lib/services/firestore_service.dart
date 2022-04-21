@@ -13,11 +13,14 @@ class FirestoreService {
 
   static FirestoreService get instance => _service;
 
-  Stream<List<Hospital>> getHospitals() {
-    const String path = 'hospitals';
-    final CollectionReference collection = _firebaseFirestore.collection(path);
+  Stream<List<Hospital>> getHospitals({int? limit}) {
+    final CollectionReference collection =
+        _firebaseFirestore.collection('hospitals');
 
-    return collection.limit(10).snapshots().map<List<Hospital>>((event) {
+    return collection
+        .limit(limit ?? 10)
+        .snapshots()
+        .map<List<Hospital>>((event) {
       return event.docs.map<Hospital>(
         (snapshot) {
           final Map<String, dynamic> data =
@@ -29,9 +32,8 @@ class FirestoreService {
   }
 
   Stream<Hospital> getHospitalById(String id) {
-    final String path = 'hospitals/$id';
     final Stream<DocumentSnapshot> snapshots =
-        _firebaseFirestore.doc(path).snapshots();
+        _firebaseFirestore.doc('hospitals/$id').snapshots();
 
     return snapshots.map(
       (DocumentSnapshot snapshot) {
@@ -46,8 +48,8 @@ class FirestoreService {
   }
 
   Stream<List<Hospital>> getHospitalsByProvinceSlug(String slug) {
-    const String path = 'hospitals';
-    final CollectionReference collection = _firebaseFirestore.collection(path);
+    final CollectionReference collection =
+        _firebaseFirestore.collection('hospitals');
 
     return collection
         .where('province.slug', isEqualTo: slug)
@@ -64,9 +66,10 @@ class FirestoreService {
   }
 
   Stream<List<Hospital>> getNearbyHospital(double lat, double lng,
-      {double? radius}) {
+      {double? radius, int? limit}) {
     GeoFirePoint center = geo.point(latitude: lat, longitude: lng);
-    var collection = _firebaseFirestore.collection('hospitals');
+    var collection =
+        _firebaseFirestore.collection('hospitals').limit(limit ?? 10);
     double _radius = radius ?? 10.0;
     String field = 'position';
 

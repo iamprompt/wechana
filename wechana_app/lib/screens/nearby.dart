@@ -65,11 +65,25 @@ class _NearbyScreenState extends State<NearbyScreen> {
               if (evt.hasData) {
                 List<Hospital> _items = evt.data!;
                 return _buildListView(_items);
-              } else {
-                return const Center(
-                  child: CircularProgressIndicator(),
+              }
+              if (evt.connectionState == ConnectionState.done && !evt.hasData) {
+                return StreamBuilder<List<Hospital>>(
+                  stream: _firestoreService.getHospitals(),
+                  builder: (ctxx, evt) {
+                    if (evt.hasData) {
+                      List<Hospital> _items = evt.data!;
+                      return _buildListView(_items);
+                    }
+                    return const Center(
+                      child: CircularProgressIndicator(),
+                    );
+                  },
                 );
               }
+
+              return const Center(
+                child: CircularProgressIndicator(),
+              );
             },
           );
         } else if (event.hasError) {
