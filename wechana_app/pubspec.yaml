@@ -39,13 +39,14 @@ dependencies:
   go_router: ^3.0.7
   flutter_spinkit: ^5.1.0
   google_maps_flutter: ^2.1.3
-  flutter_config: ^2.0.0
   firebase_core: ^1.14.1
   cloud_firestore: ^3.1.12
   provider: ^6.0.2
   json_annotation: ^4.4.0
   geoflutterfire: ^3.0.3
   geolocator: ^8.2.0
+  url_launcher: ^6.0.20
+  url_launcher_web: ^2.0.9
 
 dev_dependencies:
   flutter_test:
@@ -56,6 +57,7 @@ dev_dependencies:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
+  flutter_config: ^2.0.0
   flutter_lints: ^1.0.0
   build_runner: ^2.0.0
   json_serializable: ^6.0.0

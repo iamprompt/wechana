@@ -1,1 +1,1 @@
--keep class com.example.wechana_app.BuildConfig { *; }
+-keep class com.nakama.wechana.BuildConfig { *; }

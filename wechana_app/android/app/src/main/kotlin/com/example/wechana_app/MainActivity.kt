@@ -1,4 +1,4 @@
-package com.example.wechana_app
+package com.nakama.wechana
 
 import io.flutter.embedding.android.FlutterActivity
 
