@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:wechana_app/model/hospital.dart';
-import 'package:wechana_app/model/hospital_data.dart';
 import 'package:wechana_app/widgets/appbar.dart';
 import 'package:wechana_app/widgets/title_card.dart';
 
@@ -38,7 +37,7 @@ class _ExploreHospitalScreenState extends State<ExploreHospitalScreen> {
 
           return titleCard(
             context,
-            _items[index].hospitalName,
+            _items[index].name['th']!,
             '/hospital/${hosp.id}',
           );
         },
@@ -47,11 +46,11 @@ class _ExploreHospitalScreenState extends State<ExploreHospitalScreen> {
   }
 
   Future<void> _loadItems() async {
-    setState(() {
-      _items = hospitals.where((hosp) {
-        return hosp.province.toLowerCase() == widget.provinceSlug.toLowerCase();
-      }).toList();
-    });
+    // setState(() {
+    //   _items = hospitals.where((hosp) {
+    //     return hosp.province.toLowerCase() == widget.provinceSlug.toLowerCase();
+    //   }).toList();
+    // });
 
     print('Loaded ${_items.length} items');
   }

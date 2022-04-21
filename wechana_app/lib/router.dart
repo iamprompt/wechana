@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:wechana_app/model/hospital.dart';
 import 'package:wechana_app/model/region.dart';
 import 'package:wechana_app/model/region_data.dart';
 import 'package:wechana_app/screens/explore_hospital.dart';
@@ -99,12 +98,10 @@ final router = GoRouter(
           name: 'hospital_detail',
           path: ':id',
           pageBuilder: (context, state) {
-            final id = state.params['id']!;
-            final Hospital hospital = getHospitalById(state.params['id']!);
             return MaterialPage(
               key: state.pageKey,
               child: HospitalDetailScreen(
-                hospital: hospital,
+                hId: state.params['id']!,
               ),
             );
           },

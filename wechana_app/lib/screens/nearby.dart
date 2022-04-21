@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:wechana_app/model/hospital.dart';
-import 'package:wechana_app/model/hospital_data.dart';
+import 'package:wechana_app/services/firestore_service.dart';
+import 'package:wechana_app/services/geolocator_service.dart';
 import 'package:wechana_app/widgets/title_card.dart';
+import 'package:geolocator/geolocator.dart';
 
 class NearbyScreen extends StatefulWidget {
   const NearbyScreen({Key? key}) : super(key: key);
@@ -13,39 +15,36 @@ class NearbyScreen extends StatefulWidget {
 }
 
 class _NearbyScreenState extends State<NearbyScreen> {
+  final FirestoreService _firestoreService = FirestoreService.instance;
   List<Hospital> _items = [];
 
   @override
   void initState() {
     super.initState();
-
     _loadItems();
   }
 
   @override
   Widget build(BuildContext context) {
     return ListView.builder(
-      padding: const EdgeInsets.all(15.0),
+      padding: const EdgeInsets.all(15),
       itemCount: _items.length,
       itemBuilder: (context, index) {
-        Hospital hosp = _items[index];
-
-        return titleCard(
-          context,
-          _items[index].hospitalName,
-          '/hospital/${hosp.id}',
-        );
+        return titleCard(context, _items[index].name['th']!,
+            '/hospital/${_items[index].id}');
       },
     );
   }
 
   Future<void> _loadItems() async {
-    final hospital = hospitals.take(20);
+    Position position = await determinePosition();
 
-    setState(() {
-      _items = hospital.toList();
+    _firestoreService
+        .getNearbyHospital(position.latitude, position.longitude)
+        .listen((List<Hospital> hospitals) {
+      setState(() {
+        _items = hospitals;
+      });
     });
-
-    print('Loaded ${_items.length} items');
   }
 }

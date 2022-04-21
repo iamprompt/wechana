@@ -1,0 +1,4265 @@
+[
+  {
+    "id": "11583",
+    "name": {
+      "th": "โรงพยาบาลกล้วยน้ำไท",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Kluaynamthai Hospital"
+    },
+    "tel": [
+      "027692000"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "คลองเตย",
+      "en": "Khlong Toei",
+      "slug": "khlong-toei"
+    },
+    "subDistrict": {
+      "th": "พระโขนง",
+      "en": "Phra Khanong",
+      "slug": "phra-khanong"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 111,
+    "geolocation": {
+      "lat": 13.7139515,
+      "lng": 100.5876303,
+      "geohash": "w4rw0bt9t9"
+    },
+    "googleMapsPlaceId": "ChIJ80PIlryf4jARylxYtr10tDA",
+    "googleMapsPlusCode": "7P52PH7Q+H3",
+    "address": {
+      "th": "80 ถนน ซอย โรงพยาบาล 2 แขวง พระโขนง เขตคลองเตย กรุงเทพมหานคร 10110 ไทย",
+      "en": "80 ถนน Soi Rong Phayaban 2, Phra Khanong, Khlong Toei, Bangkok 10110, Thailand"
+    }
+  },
+  {
+    "id": "11691",
+    "name": {
+      "th": "โรงพยาบาลวิภาวดี",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Vibhavadi Hospital"
+    },
+    "tel": [
+      "025611111",
+      "029412900",
+      "029412800"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "จตุจักร",
+      "en": "Chatuchak",
+      "slug": "chatuchak"
+    },
+    "subDistrict": {
+      "th": "ลาดยาว",
+      "en": "Lat Yao",
+      "slug": "lat-yao"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 250,
+    "geolocation": {
+      "lat": 13.8462543,
+      "lng": 100.5621239,
+      "geohash": "w4rwb2eh72"
+    },
+    "googleMapsPlaceId": "ChIJzeXAwuec4jARr_cLIFqTNvk",
+    "googleMapsPlusCode": "7P52RHW6+GR",
+    "address": {
+      "th": "51, 3 ถนน งามวงศ์วาน แขวง ลาดยาว เขตจตุจักร กรุงเทพมหานคร 10900 ไทย",
+      "en": "51, 3 Ngamwongwan Rd, Lat Yao, Chatuchak, Bangkok 10900, Thailand"
+    }
+  },
+  {
+    "id": "11706",
+    "name": {
+      "th": "โรงพยาบาลบางขุนเทียน 1",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "โรงพยาบาลบางขุนเทียน 1"
+    },
+    "tel": [
+      "0247722903"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong"
+    },
+    "subDistrict": {
+      "th": "บางค้อ",
+      "en": "Bang Kho",
+      "slug": "bang-kho"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 15,
+    "geolocation": {
+      "lat": 13.6990497,
+      "lng": 100.4699636,
+      "geohash": "w4rmyjzfxz"
+    },
+    "googleMapsPlaceId": "ChIJq_I3GnGY4jARhU_ErVK8h8w",
+    "googleMapsPlusCode": "7P52MFX9+JX",
+    "address": {
+      "th": "124, 74-75 ซอย จอมทอง 18 แขวง บางค้อ เขตจอมทอง กรุงเทพมหานคร 10150 ไทย",
+      "en": "124, 74-75 Chom Thong 18 Alley, Bang Kho, Chom Thong, Bangkok 10150, Thailand"
+    }
+  },
+  {
+    "id": "21339",
+    "name": {
+      "th": "โรงพยาบาลบางปะกอก 9 อินเตอร์​เนชั่นแนล​",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Bangpakok 9 International Hospital"
+    },
+    "tel": [
+      "028771111"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong"
+    },
+    "subDistrict": {
+      "th": "บางมด",
+      "en": "Bang Mot",
+      "slug": "bang-mot"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 200,
+    "geolocation": {
+      "lat": 13.6818817,
+      "lng": 100.4745221,
+      "geohash": "w4rmy6eqdp"
+    },
+    "googleMapsPlaceId": "ChIJ-9EYNNuj4jARBp_c8COJSHU",
+    "googleMapsPlusCode": "7P52MFJF+QR",
+    "address": {
+      "th": "362 ถ. พระรามที่ 2 แขวง บางมด เขตจอมทอง กรุงเทพมหานคร 10150 ไทย",
+      "en": "362 Rama II Rd, Bang Mot, Chom Thong, Bangkok 10150, Thailand"
+    }
+  },
+  {
+    "id": "11640",
+    "name": {
+      "th": "โรงพยาบาลธนบุรี 2",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Thonburi 2 Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ทวีวัฒนา",
+      "en": "Thawi Watthana",
+      "slug": "thawi-watthana"
+    },
+    "subDistrict": {
+      "th": "ศาลาธรรมสพน์",
+      "en": "Sala Thammasop",
+      "slug": "sala-thammasop"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 95,
+    "geolocation": {
+      "lat": 13.7828095,
+      "lng": 100.4004467,
+      "geohash": "w4rqktj6ev"
+    },
+    "googleMapsPlaceId": "ChIJJSjGhSyX4jAR55TihEY2yso",
+    "googleMapsPlusCode": "7P52QCM2+45",
+    "address": {
+      "th": "43/4 ถนน บรมราชชนนี แขวง ศาลาธรรมสพน์ เขตทวีวัฒนา กรุงเทพมหานคร 10170",
+      "en": "43/4 Borommaratchachonnani Rd, Sala Thammasop, Thawi Watthana, Bangkok 10170"
+    }
+  },
+  {
+    "id": "11641",
+    "name": {
+      "th": "โรงพยาบาลวิชัยเวช แยกไฟฉาย",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Vichaivej Yaekfaichai Hospital"
+    },
+    "tel": [
+      "02412005560"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางกอกน้อย",
+      "en": "Bangkok Noi",
+      "slug": "bangkok-noi"
+    },
+    "subDistrict": {
+      "th": "ช่างหล่อ",
+      "en": "Chang Lo",
+      "slug": "chang-lo"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 59,
+    "geolocation": {
+      "lat": 13.7558572,
+      "lng": 100.4695658,
+      "geohash": "w4rqq0ptwt"
+    },
+    "googleMapsPlaceId": "ChIJX9BwQryZ4jARXmFUzVd1Hhw",
+    "googleMapsPlusCode": "7P52QF49+8R",
+    "address": {
+      "th": "240/2-4 ถนน จรัญสนิทวงศ์ แขวง บ้านช่างหล่อ เขตบางกอกน้อย กรุงเทพมหานคร 10700 ไทย",
+      "en": "240/2-4 ถนน จรัญสนิทวงศ์ Ban Chang Lo, Bangkok Noi, Bangkok 10700, Thailand"
+    }
+  },
+  {
+    "id": "11647",
+    "name": {
+      "th": "โรงพยาบาลพีเอ็มจี - PMG Hospital",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "PMG Hospital"
+    },
+    "tel": [
+      "024514920"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางขุนเทียน",
+      "en": "Bang Khun Thian",
+      "slug": "bang-khun-thian"
+    },
+    "subDistrict": {
+      "th": "แสมดำ",
+      "en": "Samae Dam",
+      "slug": "samae-dam"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 109,
+    "geolocation": {
+      "lat": 13.6516984,
+      "lng": 100.4220017,
+      "geohash": "w4rmtjjnfj"
+    },
+    "googleMapsPlaceId": "ChIJ1edQNiG94jARz-5cbOV-DMs",
+    "googleMapsPlusCode": "7P52MC2C+MR",
+    "address": {
+      "th": "280 ถนน พระรามสอง แขวง แสมดำ เขตบางขุนเทียน กรุงเทพมหานคร 10150 ไทย",
+      "en": "280 ถนน พระรามสอง Samae Dam, Bang Khun Thian, Bangkok 10150, Thailand"
+    }
+  },
+  {
+    "id": "11687",
+    "name": {
+      "th": "โรงพยาบาลเกษมราษฎร์ ประชาชื่น",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Kasemrad Prachachuen Hospital"
+    },
+    "tel": [
+      "02910160049"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางซื่อ",
+      "en": "Bang Sue",
+      "slug": "bang-sue"
+    },
+    "subDistrict": {
+      "th": "บางซื่อ",
+      "en": "Bang Sue",
+      "slug": "bang-sue"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 373,
+    "geolocation": {
+      "lat": 13.8316938,
+      "lng": 100.5389974,
+      "geohash": "w4rqxvfr2q"
+    },
+    "googleMapsPlaceId": "ChIJa1W74ced4jARo8hDLfMQohA",
+    "googleMapsPlusCode": "7P52RGJQ+MH",
+    "address": {
+      "th": "940 ถ. ประชาชื่น แขวง วงศ์สว่าง เขตบางซื่อ กรุงเทพมหานคร 10220 ไทย",
+      "en": "940 Pracha Chuen Rd, Wong Sawang, Bang Sue, Bangkok 10220, Thailand"
+    }
+  },
+  {
+    "id": "11686",
+    "name": {
+      "th": "โรงพยาบาลบางโพ",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Bangpo General Hospital"
+    },
+    "tel": [
+      "025870144"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางซื่อ",
+      "en": "Bang Sue",
+      "slug": "bang-sue"
+    },
+    "subDistrict": {
+      "th": "บางซื่อ",
+      "en": "Bang Sue",
+      "slug": "bang-sue"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.8070111,
+      "lng": 100.5232873,
+      "geohash": "w4rqx3qzdm"
+    },
+    "googleMapsPlaceId": "ChIJd_7VZIyb4jARfdCtgY3NDxY",
+    "googleMapsPlusCode": "7P52RG4F+R8",
+    "address": {
+      "th": "โรงพยาบาลบางโพ (Bangpo Hospital 95 ถนน ประชาราษฎร์ สาย 2 แขวง บางซื่อ เขตบางซื่อ กรุงเทพมหานคร 10800 ไทย",
+      "en": "โรงพยาบาลบางโพ (Bangpo Hospital 95 Pracha Rat Sai 2 Rd, Bang Sue, Bangkok 10800, Thailand"
+    }
+  },
+  {
+    "id": "11582",
+    "name": {
+      "th": "โรงพยาบาลศิครินทร์",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Sikarin Hospital"
+    },
+    "tel": [
+      "02366990099"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางนา",
+      "en": "Bang Na",
+      "slug": "bang-na"
+    },
+    "subDistrict": {
+      "th": "บางนาใต้",
+      "en": "Bang Na",
+      "slug": "bang-na"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 258,
+    "geolocation": {
+      "lat": 13.6549267,
+      "lng": 100.6463827,
+      "geohash": "w4rtdmb3ww"
+    },
+    "googleMapsPlaceId": "ChIJq_meO7xfHTERqw4zNJlmp44",
+    "googleMapsPlusCode": "7P52MJ3W+XH",
+    "address": {
+      "th": "976 ถ. ลาซาล แขวง บางนาใต้ เขตบางนา กรุงเทพมหานคร 10260 ไทย",
+      "en": "976 Lasalle Rd, แขวง บางนาใต้ Bang Na, Bangkok 10260, Thailand"
+    }
+  },
+  {
+    "id": "15147",
+    "name": {
+      "th": "โรงพยาบาลบางปะกอก 8",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Bangpakok 8 Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางบอน",
+      "en": "Bang Bon",
+      "slug": "bang-bon"
+    },
+    "subDistrict": {
+      "th": "บางบอน",
+      "en": "Bang Bon",
+      "slug": "bang-bon"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 120,
+    "geolocation": {
+      "lat": 13.6630359,
+      "lng": 100.4068731,
+      "geohash": "w4rmsz60cw"
+    },
+    "googleMapsPlaceId": "ChIJlQvuTji84jARPQk1nrUA7s4",
+    "googleMapsPlusCode": "7P52MC74+6P",
+    "address": {
+      "th": "1055 ถ. เอกชัย แขวง บางบอน เขตบางบอน กรุงเทพมหานคร 10150 ไทย",
+      "en": "1055 Ekkachai Rd, Bang Bon, Bangkok 10150, Thailand"
+    }
+  },
+  {
+    "id": "11656",
+    "name": {
+      "th": "โรงพยาบาลเกษมราษฎร์ บางแค",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Kasemrad Hospital Bang Khae"
+    },
+    "tel": [
+      "024550110"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางแค",
+      "en": "Bang Khae",
+      "slug": "bang-khae"
+    },
+    "subDistrict": {
+      "th": "บางแคเหนือ",
+      "en": "Bang Khae Nuea",
+      "slug": "bang-khae-nuea"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 317,
+    "geolocation": {
+      "lat": 13.710611,
+      "lng": 100.3986326,
+      "geohash": "w4rmuxun1e"
+    },
+    "googleMapsPlaceId": "ChIJDyPFbMyX4jAR_4Mr-VoMk_g",
+    "googleMapsPlusCode": "7P52P96X+6F",
+    "address": {
+      "th": "586, 588 ถ. เพชรเกษม แขวง บางแคเหนือ เขตบางแค กรุงเทพมหานคร 10160 ไทย",
+      "en": "586, 588 Petchkasem Rd, Bang Khae Nuea, Bang Khae, Bangkok 10160, Thailand"
+    }
+  },
+  {
+    "id": "42141",
+    "name": {
+      "th": "Navavej Hospital",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Navavej Hospital"
+    },
+    "tel": [
+      "024839999"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บึงกุ่ม",
+      "en": "Bueng Kum",
+      "slug": "bueng-kum"
+    },
+    "subDistrict": {
+      "th": "นวลจันทร์",
+      "en": "Nuan Chan",
+      "slug": "nuan-chan"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 99,
+    "geolocation": {
+      "lat": 13.8168604,
+      "lng": 100.6433867,
+      "geohash": "w4rwd5q30c"
+    },
+    "googleMapsPlaceId": "ChIJV6apWEtjHTER5hpN5zX8xdc",
+    "googleMapsPlusCode": "7P52RJ8V+P9",
+    "address": {
+      "th": "9 ถนน รัชดา-รามอินทรา แขวง นวลจันทร์ เขต บึงกุ่ม กรุงเทพมหานคร 10230 ไทย",
+      "en": "9 Thanon Ratchada-Ram Intra, Nuanchan, Bueng Kum, Bangkok 10230, Thailand"
+    }
+  },
+  {
+    "id": "41700",
+    "name": {
+      "th": "โรงพยาบาลสินแพทย์ ศรีนครินทร์",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Synphaet Srinagarindra Hospital"
+    },
+    "tel": [
+      "020068888"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ประเวศ",
+      "en": "Prawet",
+      "slug": "prawet"
+    },
+    "subDistrict": {
+      "th": "หนองบอน",
+      "en": "Nong Bon",
+      "slug": "nong-bon"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.6785179,
+      "lng": 100.6483982,
+      "geohash": "w4rtf61gjs"
+    },
+    "googleMapsPlaceId": "ChIJExBggixfHTER8I9ziFbbmSY",
+    "googleMapsPlusCode": "7P52MJHX+C9",
+    "address": {
+      "th": "19/9 ถนน เฉลิมพระเกียรติรัชกาลที่ 9 แขวง หนองบอน เขต ประเวศ กรุงเทพมหานคร 10250 ไทย",
+      "en": "19/9 Chaloem Phrakiat Ratchakan Thi 9 Rd, Nong Bon, Prawet, Bangkok 10250, Thailand"
+    }
+  },
+  {
+    "id": "25015",
+    "name": {
+      "th": "โรงพยาบาลมิตรประชา",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Mitrpracha Hospital"
+    },
+    "tel": [
+      "024555599"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ภาษีเจริญ",
+      "en": "Phasi Charoen",
+      "slug": "phasi-charoen"
+    },
+    "subDistrict": {
+      "th": "บางหว้า",
+      "en": "Bang Wa",
+      "slug": "bang-wa"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 148,
+    "geolocation": {
+      "lat": 13.7120791,
+      "lng": 100.4318653,
+      "geohash": "w4rqj2hq8h"
+    },
+    "googleMapsPlaceId": "ChIJG4SzsPOX4jARKs3nsfIBkgI",
+    "googleMapsPlusCode": "7P52PC6J+RP",
+    "address": {
+      "th": "675 ถ. เพชรเกษม แขวง บางหว้า เขตภาษีเจริญ กรุงเทพมหานคร 10160 ไทย",
+      "en": "675 Petchkasem Rd, Bang Wa, Phasi Charoen, Bangkok 10160, Thailand"
+    }
+  },
+  {
+    "id": "23781",
+    "name": {
+      "th": "โรงพยาบาลนวมินทร์ 9",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Navaminthra (Navamin 9) Hospital"
+    },
+    "tel": [
+      "0251181818"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "มีนบุรี",
+      "en": "Min Buri",
+      "slug": "min-buri"
+    },
+    "subDistrict": {
+      "th": "มีนบุรี",
+      "en": "Min Buri",
+      "slug": "min-buri"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 121,
+    "geolocation": {
+      "lat": 13.8112772,
+      "lng": 100.7239936,
+      "geohash": "w4rws42bx0"
+    },
+    "googleMapsPlaceId": "ChIJe_CcsGRkHTERG--X8tRP1Xo",
+    "googleMapsPlusCode": "7P52RP6F+GH",
+    "address": {
+      "th": "96 ถนน สีหบุรานุกิจ มีนบุรี กรุงเทพมหานคร 10510 ไทย",
+      "en": "96 Sihaburanukit Rd, Khwaeng Min Buri, Min Buri, Bangkok 10510, Thailand"
+    }
+  },
+  {
+    "id": "11670",
+    "name": {
+      "th": "มหาทุน พลาซ่า ซอย 1",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Bangpakok 1 Hospital"
+    },
+    "tel": [
+      "021091111"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ราษฎร์บูรณะ",
+      "en": "Rat Burana",
+      "slug": "rat-burana"
+    },
+    "subDistrict": {
+      "th": "บางปะกอก",
+      "en": "Bang Pa Kok",
+      "slug": "bang-pa-kok"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 120,
+    "geolocation": {
+      "lat": 13.6776563,
+      "lng": 100.4917329,
+      "geohash": "w4rmy9zy55"
+    },
+    "googleMapsPlaceId": "ChIJB0BDvWSi4jAR5iPYoIo7ix0",
+    "address": {
+      "th": "มหาทุน พลาซ่า ซอย 1 แขวง บางปะกอก เขตราษฎร์บูรณะ กรุงเทพมหานคร 10140 ประเทศไทย",
+      "en": "2 Suk Sawat 25/1 Alley, Bang Pakok, Rat Burana, Bangkok 10140, Thailand"
+    }
+  },
+  {
+    "id": "11668",
+    "name": {
+      "th": "โรงพยาบาลสุขสวัสดิ์",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Suk Sawat Hospital"
+    },
+    "tel": [
+      "0828746767"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ราษฎร์บูรณะ",
+      "en": "Rat Burana",
+      "slug": "rat-burana"
+    },
+    "subDistrict": {
+      "th": "บางปะกอก",
+      "en": "Bang Pa Kok",
+      "slug": "bang-pa-kok"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.676112,
+      "lng": 100.5011041,
+      "geohash": "w4rmycwtjk"
+    },
+    "googleMapsPlaceId": "ChIJwWUufG6i4jARka2yiH_r-Lw",
+    "googleMapsPlusCode": "7P52MGG2+CC",
+    "address": {
+      "th": "272 ถ. สุขสวัสดิ์ แขวง บางปะกอก เขตราษฎร์บูรณะ กรุงเทพมหานคร 10140 ไทย",
+      "en": "272 Suk Sawat Rd, Bang Pakok, Rat Burana, Bangkok 10140, Thailand"
+    }
+  },
+  {
+    "id": "41556",
+    "name": {
+      "th": "โรงพยาบาลเกษมราษฎร์ รามคำแหง",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Kasemrad Ramkhamhaeng Hospital"
+    },
+    "tel": [
+      "023390000"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "สะพานสูง",
+      "en": "Saphan Sung",
+      "slug": "saphan-sung"
+    },
+    "subDistrict": {
+      "th": "สะพานสูง",
+      "en": "Saphan Sung",
+      "slug": "saphan-sung"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 139,
+    "geolocation": {
+      "lat": 13.7792052,
+      "lng": 100.6765931,
+      "geohash": "w4rw6uqmww"
+    },
+    "googleMapsPlaceId": "ChIJixB6ptdjHTERCP0xlh2GNV8",
+    "googleMapsPlusCode": "7P52QMHG+MJ",
+    "address": {
+      "th": "99/9 ถนนรามคำแหง แขวง สะพานสูง เขตสะพานสูง กรุงเทพมหานคร 10240 ไทย",
+      "en": "99/9 ถนนรามคำแหง Saphan Sung, Bangkok 10240, Thailand"
+    }
+  },
+  {
+    "id": "14572",
+    "name": {
+      "th": "โรงพยาบาล บี.แคร์ เมดิคอลเซ็นเตอร์",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "B.Care Medical Center Hospital"
+    },
+    "tel": [
+      "02523335971"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "สายไหม",
+      "en": "Sai Mai",
+      "slug": "sai-mai"
+    },
+    "subDistrict": {
+      "th": "สายไหม",
+      "en": "Sai Mai",
+      "slug": "sai-mai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 136,
+    "geolocation": {
+      "lat": 13.9433853,
+      "lng": 100.6245445,
+      "geohash": "w4rx3f2d1g"
+    },
+    "googleMapsPlaceId": "ChIJfSA2vPZ9HTERXuNYGTOJxv4",
+    "googleMapsPlusCode": "7P52WJVF+9R",
+    "address": {
+      "th": "29 Moo 6 ถ. พหลโยธิน แขวง สายไหม เขตสายไหม กรุงเทพมหานคร 10220 ไทย",
+      "en": "29 Moo 6 Phahonyothin Rd, Sai Mai, Bangkok 10220, Thailand"
+    }
+  },
+  {
+    "id": "11661",
+    "name": {
+      "th": "โรงพยาบาลวิชัยเวช อินเตอร์เนชั่นแนล หนองแขม",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Vichaivej International Hospital Nong Khaem"
+    },
+    "tel": [
+      "028074044",
+      "0242118889"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "หนองแขม",
+      "en": "Nong Khaem",
+      "slug": "nong-khaem"
+    },
+    "subDistrict": {
+      "th": "หนองค้างพลู",
+      "en": "Nong Khang Phlu",
+      "slug": "nong-khang-phlu"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 200,
+    "geolocation": {
+      "lat": 13.707466,
+      "lng": 100.3606612,
+      "geohash": "w4rmgz27ub"
+    },
+    "googleMapsPlaceId": "ChIJnxFU_4i94jAR1ilAJJSbXfw",
+    "googleMapsPlusCode": "7P52P946+X7",
+    "address": {
+      "th": "456 456/8 ถ. เพชรเกษม แขวง หนองค้างพลู เขตหนองแขม กรุงเทพมหานคร 10160 ไทย",
+      "en": "456 456/8 Petchkasem Rd, Nong Khang Phlu, Nong Khaem, Bangkok 10160, Thailand"
+    }
+  },
+  {
+    "id": "11632",
+    "name": {
+      "th": "โรงพยาบาลปิยะเวท",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Piyavate Hospital"
+    },
+    "tel": [
+      "021295555"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ห้วยขวาง",
+      "en": "Huai Khwang",
+      "slug": "huai-khwang"
+    },
+    "subDistrict": {
+      "th": "บางกะปิ",
+      "en": "Bang Kapi",
+      "slug": "bang-kapi"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.7533822,
+      "lng": 100.5800847,
+      "geohash": "w4rw0z8pmb"
+    },
+    "googleMapsPlaceId": "ChIJVeQmd16e4jARRrZ8yp20Gks",
+    "googleMapsPlusCode": "7P52QH3J+92",
+    "address": {
+      "th": "998 ถนน ริมคลองสามเสน แขวง บางกะปิ เขตห้วยขวาง กรุงเทพมหานคร 10310 ไทย",
+      "en": "998 Khlong Samsen Rd, Bang Kapi, Huai Khwang, Bangkok 10310, Thailand"
+    }
+  },
+  {
+    "id": "42167",
+    "name": {
+      "th": "โรงพยาบาลวิมุต",
+      "slug": "krung-thep-maha-nakhon-bangkok",
+      "en": "Vimut Hospital"
+    },
+    "tel": [
+      "020790000"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "พญาไท",
+      "en": "Phaya Thai",
+      "slug": "phaya-thai"
+    },
+    "subDistrict": {
+      "th": "สามเสนใน",
+      "en": "Sam Sen Nai",
+      "slug": "sam-sen-nai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.7888116,
+      "lng": 100.5481113,
+      "geohash": "w4rw2n0vsu"
+    },
+    "googleMapsPlaceId": "ChIJE4gZjQGd4jAROYKGRtyREgg",
+    "googleMapsPlusCode": "7P52QGQX+G6",
+    "address": {
+      "th": "500 ถ. พหลโยธิน แขวง สามเสนใน เขตพญาไท กรุงเทพมหานคร 10400 ไทย",
+      "en": "500 Phahonyothin Rd, Samsen Nai, Phaya Thai, Bangkok 10400, Thailand"
+    }
+  },
+  {
+    "id": "12127",
+    "name": {
+      "th": "โรงพยาบาลเทพากร",
+      "slug": "nakhon-pathom",
+      "en": "Tepakorn Hospital"
+    },
+    "tel": [
+      "034273463"
+    ],
+    "province": {
+      "th": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    },
+    "district": {
+      "th": "เมืองนครปฐม",
+      "en": "Mueang Nakhon Pathom",
+      "slug": "mueang-nakhon-pathom"
+    },
+    "subDistrict": {
+      "th": "พระปฐมเจดีย์",
+      "en": "Pathom Chedi",
+      "slug": "pathom-chedi"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.8204433,
+      "lng": 100.0635007,
+      "geohash": "w4rnt5bjbt"
+    },
+    "googleMapsPlaceId": "ChIJ7Yi7fuvl4jARz_G4hvIE46w",
+    "googleMapsPlusCode": "7P52R3C7+5C",
+    "address": {
+      "th": "24 Tesa Soi 1 ตำบลพระปฐมเจดีย์ อำเภอ เมืองนครปฐม นครปฐม 73000 ไทย",
+      "en": "24 Tesa Soi 1 Tambon Phra Prathom Chedi, อำเภอ เมืองนครปฐม Nakhon Pathom 73000, Thailand"
+    }
+  },
+  {
+    "id": "40765",
+    "name": {
+      "th": "โรงพยาบาลเกษมราษฎร์ รัตนาธิเบศร์ (การุญเวชเดิม)",
+      "slug": "nonthaburi",
+      "en": "Kasemrad Rattanatibeth Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    },
+    "district": {
+      "th": "บางบัวทอง",
+      "en": "Bang Bua Thong",
+      "slug": "bang-bua-thong"
+    },
+    "subDistrict": {
+      "th": "บางรักพัฒนา",
+      "en": "Bang Rak Phatthana",
+      "slug": "bang-rak-phatthana"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 119,
+    "geolocation": {
+      "lat": 13.8761727,
+      "lng": 100.4236795,
+      "geohash": "w4rqvnn696"
+    },
+    "googleMapsPlaceId": "ChIJoysK5R2Q4jARa9hXb6aKijA",
+    "googleMapsPlusCode": "7P52VCGF+FF",
+    "address": {
+      "th": "58 หมู่ที่ 15 ถนน รัตนาธิเบศร์ ตำบล บางรักพัฒนา อำเภอบางบัวทอง นนทบุรี 11110 ไทย",
+      "en": "58 หมู่ที่ 15 Rattanathibet Rd, Bang Rak Phatthana, Bang Bua Thong District, Nonthaburi 11110, Thailand"
+    }
+  },
+  {
+    "id": "11787",
+    "name": {
+      "th": "โรงพยาบาลเกษมราษฎร์ อินเตอร์เนชั่นแนล รัตนาธิเบศร์",
+      "slug": "nonthaburi",
+      "en": "Kasemrad international hospital ratthanatibeth"
+    },
+    "tel": [
+      "02594002065"
+    ],
+    "province": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    },
+    "district": {
+      "th": "บางใหญ่",
+      "en": "Bang Yai",
+      "slug": "bang-yai"
+    },
+    "subDistrict": {
+      "th": "เสาธงหิน",
+      "en": "Sao Thong Hin",
+      "slug": "sao-thong-hin"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 400,
+    "geolocation": {
+      "lat": 13.8812013,
+      "lng": 100.4102792,
+      "geohash": "w4rquyuxc5"
+    },
+    "googleMapsPlaceId": "ChIJu14gPNmP4jARkoPJzUsDhU4",
+    "googleMapsPlusCode": "7P52VCJ6+F4",
+    "address": {
+      "th": "60 หมู่ที่ 6 ถ. กาญจนาภิเษก ตำบล เสาธงหิน อำเภอบางใหญ่ นนทบุรี 11140 ไทย",
+      "en": "60 หมู่ที่ 6 Kanchanaphisek Rd, Sao Thong Hin, Bang Yai District, Nonthaburi 11140, Thailand"
+    }
+  },
+  {
+    "id": "22179",
+    "name": {
+      "th": "โรงพยาบาลกรุงไทย",
+      "slug": "nonthaburi",
+      "en": "Krungthai General Hospital"
+    },
+    "tel": [
+      "025822299"
+    ],
+    "province": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    },
+    "district": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    },
+    "subDistrict": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.9129495,
+      "lng": 100.5092523,
+      "geohash": "w4rrphu8g3"
+    },
+    "googleMapsPlaceId": "ChIJLXBifYuE4jARbJzNE6nBZx8",
+    "googleMapsPlusCode": "7P52WG75+5P",
+    "address": {
+      "th": "56 96 ถ. ติวานนท์ ตำบล ปากเกร็ด อำเภอปากเกร็ด นนทบุรี 11120 ไทย",
+      "en": "56 96 Tiwanon Rd, Tambon Pak Kret, Pak Kret District, Nonthaburi 11120, Thailand"
+    }
+  },
+  {
+    "id": "28810",
+    "name": {
+      "th": "โรงพยาบาลเวิลด์เมดิคอล",
+      "slug": "nonthaburi",
+      "en": "World Medical Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    },
+    "district": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    },
+    "subDistrict": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 150,
+    "geolocation": {
+      "lat": 13.9050065,
+      "lng": 100.5248272,
+      "geohash": "w4rrp7rfw1"
+    },
+    "googleMapsPlaceId": "ChIJB3zAmvOE4jARZt5KAkqnvCQ",
+    "googleMapsPlusCode": "7P52WG4F+2W",
+    "address": {
+      "th": "ซอย แจ้งวัฒนะ-ปากเกร็ด 19 ตำบล ปากเกร็ด อำเภอปากเกร็ด นนทบุรี 11120 ไทย",
+      "en": "Chaeng Wattana-Parkkred 19 Alley, Tambon Pak Kret, Pak Kret District, Nonthaburi 11120, Thailand"
+    }
+  },
+  {
+    "id": "11799",
+    "name": {
+      "th": "โรงพยาบาลการุญเวช ปทุมธานี",
+      "slug": "pathum-thani",
+      "en": "Karunvej Pathum Thani Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "คลองหลวง",
+      "en": "Khlong Luang",
+      "slug": "khlong-luang"
+    },
+    "subDistrict": {
+      "th": "คลองหนึ่ง",
+      "en": "Khlong Nueng",
+      "slug": "khlong-nueng"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 200,
+    "geolocation": {
+      "lat": 14.1172222,
+      "lng": 100.6178566,
+      "geohash": "w4x839gwvb"
+    },
+    "googleMapsPlaceId": "ChIJA4BKU2B_4jARpzXuyDDRrpg",
+    "googleMapsPlusCode": "7P624J89+V4",
+    "address": {
+      "th": "98 ถ. พหลโยธิน ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120 ไทย",
+      "en": "98 Phahonyothin Rd, Khlong Nueng, Khlong Luang District, Pathum Thani 12120, Thailand"
+    }
+  },
+  {
+    "id": "14354",
+    "name": {
+      "th": "โรงพยาบาลภัทร-ธนบุรี",
+      "slug": "pathum-thani",
+      "en": "Phatara-Thonburi Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "คลองหลวง",
+      "en": "Khlong Luang",
+      "slug": "khlong-luang"
+    },
+    "subDistrict": {
+      "th": "คลองหนึ่ง",
+      "en": "Khlong Nueng",
+      "slug": "khlong-nueng"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 14.0488576,
+      "lng": 100.6179585,
+      "geohash": "w4rxcteb82"
+    },
+    "googleMapsPlaceId": "ChIJ36sDVACA4jAR-Fu1A5zs8Qg",
+    "googleMapsPlusCode": "7P622JX9+G5",
+    "address": {
+      "th": "32/410 ม.6 ทางคู่ขนาน ถ. พหลโยธิน ตำบล คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120 ไทย",
+      "en": "32/410 ม.6 Phaholyothin Frontage Rd, Khlong Nueng, Khlong Luang District, Pathum Thani 12120, Thailand"
+    }
+  },
+  {
+    "id": "42191",
+    "name": {
+      "th": "โรงพยาบาลธนบุรีบูรณา",
+      "slug": "pathum-thani",
+      "en": "Thonburi Burana Hospital"
+    },
+    "tel": [
+      "020785777"
+    ],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "คลองหลวง",
+      "en": "Khlong Luang",
+      "slug": "khlong-luang"
+    },
+    "subDistrict": {
+      "th": "คลองหนึ่ง",
+      "en": "Khlong Nueng",
+      "slug": "khlong-nueng"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 55,
+    "geolocation": {
+      "lat": 14.0303359,
+      "lng": 100.6104869,
+      "geohash": "w4rxc6nkdk"
+    },
+    "googleMapsPlaceId": "ChIJMZpA9ICB4jARVDDTep-eLeI",
+    "googleMapsPlusCode": "7P622JJ6+45",
+    "address": {
+      "th": "89/3 ถ. พหลโยธิน คลองหนึ่ง อำเภอคลองหลวง ปทุมธานี 12120 ไทย",
+      "en": "89/3 Phahonyothin Rd, คลองหนึ่ง Khlong Luang District, Pathum Thani 12120, Thailand"
+    }
+  },
+  {
+    "id": "42177",
+    "name": {
+      "th": "โรงพยาบาลซีเมดลีฟวิ่งแคร์",
+      "slug": "pathum-thani",
+      "en": "โรงพยาบาลซีเมดลีฟวิ่งแคร์"
+    },
+    "tel": [
+      "021992111"
+    ],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "ธัญบุรี",
+      "en": "Thanyaburi",
+      "slug": "thanyaburi"
+    },
+    "subDistrict": {
+      "th": "ประชาธิปัตย์",
+      "en": "Prachathipat",
+      "slug": "prachathipat"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 1,
+    "geolocation": {
+      "lat": 13.9813161,
+      "lng": 100.6400469,
+      "geohash": "w4rxd15z54"
+    },
+    "googleMapsPlaceId": "ChIJ7XWSiCV_HTERgo5KkGK2JoE",
+    "googleMapsPlusCode": "7P52XJJR+G2",
+    "address": {
+      "th": "111 ซอย รังสิต-นครนายก 42 ตำบล ประชาธิปัตย์ อำเภอธัญบุรี ปทุมธานี 12130 ไทย",
+      "en": "111 ซอย Rangsit-Nakhon Nayok 42, Tambon Prachathipat, Thanyaburi District, Pathum Thani 12130, Thailand"
+    }
+  },
+  {
+    "id": "11801",
+    "name": {
+      "th": "โรงพยาบาลบางปะกอก-รังสิต 2",
+      "slug": "pathum-thani",
+      "en": "Bangpakok-Rangsit 2 Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "ธัญบุรี",
+      "en": "Thanyaburi",
+      "slug": "thanyaburi"
+    },
+    "subDistrict": {
+      "th": "ประชาธิปัตย์",
+      "en": "Prachathipat",
+      "slug": "prachathipat"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.9940461,
+      "lng": 100.6528923,
+      "geohash": "w4rxd7t1nr"
+    },
+    "googleMapsPlaceId": "ChIJFaDghPh-HTERiv7O21v8nPc",
+    "googleMapsPlusCode": "7P52XMV3+J5",
+    "address": {
+      "th": "757 ซอย รังสิต-นครนายก 53 ตำบล ประชาธิปัตย์ อำเภอธัญบุรี ปทุมธานี 12130 ไทย",
+      "en": "757 Rangsit-Nakhon Nayok 53 Alley, Tambon Prachathipat, Thanyaburi District, Pathum Thani 12130, Thailand"
+    }
+  },
+  {
+    "id": "41685",
+    "name": {
+      "th": "โรงพยาบาลกรุงไทย ปทุม",
+      "slug": "pathum-thani",
+      "en": "โรงพยาบาลกรุงไทย ปทุม"
+    },
+    "tel": [
+      "021472565"
+    ],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "เมืองปทุมธานี",
+      "en": "Mueang Pathum Thani",
+      "slug": "mueang-pathum-thani"
+    },
+    "subDistrict": {
+      "th": "บางขะแยง",
+      "en": "Bang Khayaeng",
+      "slug": "bang-khayaeng"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 30,
+    "geolocation": {
+      "lat": 13.9577807,
+      "lng": 100.5273429,
+      "geohash": "w4rrrscvby"
+    },
+    "googleMapsPlaceId": "ChIJcx3LwiKF4jARRCOQj1wH9Ns",
+    "googleMapsPlusCode": "7P52XG5G+4W",
+    "address": {
+      "th": "333 หมู่ 3 ตำบล บางขะแยง อำเภอเมืองปทุมธานี ปทุมธานี 12000 ไทย",
+      "en": "333 หมู่ 3 Bang Khayaeng, Mueang Pathum Thani District, Pathum Thani 12000, Thailand"
+    }
+  },
+  {
+    "id": "14683",
+    "name": {
+      "th": "โรงพยาบาลกรุงสยามเซนต์คาร์ลอส",
+      "slug": "pathum-thani",
+      "en": "Hospital Krung Siam St. Carlos Medical Centre"
+    },
+    "tel": [
+      "029756701"
+    ],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "เมืองปทุมธานี",
+      "en": "Mueang Pathum Thani",
+      "slug": "mueang-pathum-thani"
+    },
+    "subDistrict": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "ban-klang"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 14.0049553,
+      "lng": 100.5540942,
+      "geohash": "w4rx8jt2b0"
+    },
+    "googleMapsPlaceId": "ChIJoxicmb2A4jARhUY887nrZrE",
+    "googleMapsPlusCode": "7P622H33+XJ",
+    "address": {
+      "th": "หมู่ที่ 2 5/84 ถ. ติวานนท์ ตำบล บ้านกลาง อำเภอเมืองปทุมธานี ปทุมธานี 12000 ไทย",
+      "en": "หมู่ที่ 2 5/84 Tiwanon Rd, Ban Klang, Mueang Pathum Thani District, Pathum Thani 12000, Thailand"
+    }
+  },
+  {
+    "id": "15096",
+    "name": {
+      "th": "โรงพยาบาลการุญเวช อยุธยา",
+      "slug": "phra-nakhon-si-ayutthaya",
+      "en": "โรงพยาบาลการุญเวช อยุธยา"
+    },
+    "tel": [],
+    "province": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    },
+    "district": {
+      "th": "บางปะอิน",
+      "en": "Bang Pa-in",
+      "slug": "bang-pa-in"
+    },
+    "subDistrict": {
+      "th": "คลองจิก",
+      "en": "Khlong Chik",
+      "slug": "khlong-chik"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 105,
+    "geolocation": {
+      "lat": 14.2113936,
+      "lng": 100.6081557,
+      "geohash": "w4x8c7he7g"
+    },
+    "googleMapsPlaceId": "ChIJicBPpnJ44jARBe5qRCxmKoU",
+    "googleMapsPlusCode": "7P626J65+H7",
+    "address": {
+      "th": "61/9 หมู่ที่ 4 ถนน AH2 ตำบล คลองจิก อำเภอบางปะอิน จังหวัดพระนครศรีอยุธยา 13160 ไทย",
+      "en": "61/9 หมู่ที่ 4 ถนน AH2, Khlong Chik, Bang Pa-in District, Phra Nakhon Si Ayutthaya 13160, Thailand"
+    }
+  },
+  {
+    "id": "42233",
+    "name": {
+      "th": "โรงพยาบาลเอเชียอินเตอร์เนชั่นแนล",
+      "slug": "phra-nakhon-si-ayutthaya",
+      "en": "โรงพยาบาลเอเชียอินเตอร์เนชั่นแนล"
+    },
+    "tel": [
+      "035904478"
+    ],
+    "province": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    },
+    "district": {
+      "th": "บางปะอิน",
+      "en": "Bang Pa-in",
+      "slug": "bang-pa-in"
+    },
+    "subDistrict": {
+      "th": "สามเรือน",
+      "en": "Sam Ruean",
+      "slug": "sam-ruean"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 59,
+    "geolocation": {
+      "lat": 14.3136984,
+      "lng": 100.640819,
+      "geohash": "w4x96jsrm4"
+    },
+    "googleMapsPlaceId": "ChIJn26HjyaJHTERYiYvgJ198M8",
+    "googleMapsPlusCode": "7P628J7R+F8",
+    "address": {
+      "th": "เลขที่ 888/8 ตำบล สามเรือน อำเภอบางปะอิน 13160 ไทย",
+      "en": "เลขที่ 888/8 Sam Ruean, Bang Pa-in District, 13160, Thailand"
+    }
+  },
+  {
+    "id": "24036",
+    "name": {
+      "th": "โรงพยาบาลบางนา​ 5",
+      "slug": "samut-prakan",
+      "en": "Soi 5"
+    },
+    "tel": [
+      "02138115565",
+      "0855150525"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "บางพลี",
+      "en": "Bang Phli",
+      "slug": "bang-phli"
+    },
+    "subDistrict": {
+      "th": "บางพลีใหญ่",
+      "en": "Blang Phli Yai",
+      "slug": "blang-phli-yai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.6063793,
+      "lng": 100.6880253,
+      "geohash": "w4rt7hyych"
+    },
+    "googleMapsPlaceId": "ChIJISAWsLteHTERyby6q3jpPWQ",
+    "googleMapsPlusCode": "7P52JM4Q+H6",
+    "address": {
+      "th": "หมู่ที่ 4 55 ถ. เทพารักษ์ ตำบล บางพลีใหญ่ อำเภอบางพลี สมุทรปราการ 10540 ไทย",
+      "en": "Soi 5, Khwaeng Bang Na, Khet Bang Na, Krung Thep Maha Nakhon 10260, Thailand"
+    }
+  },
+  {
+    "id": "11770",
+    "name": {
+      "th": "โรงพยาบาลพริ้นซ์ สุวรรณภูมิ",
+      "slug": "samut-prakan",
+      "en": "Princ Hospital Suvarnabhumi"
+    },
+    "tel": [
+      "020805999"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "บางพลี",
+      "en": "Bang Phli",
+      "slug": "bang-phli"
+    },
+    "subDistrict": {
+      "th": "บางแก้ว",
+      "en": "Bang Kaeo",
+      "slug": "bang-kaeo"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 200,
+    "geolocation": {
+      "lat": 13.6569843,
+      "lng": 100.6658578,
+      "geohash": "w4rtdwntsw"
+    },
+    "googleMapsPlaceId": "ChIJS1FzWApfHTERRJ4OfMkZ320",
+    "googleMapsPlusCode": "7P52MM48+Q8",
+    "address": {
+      "th": "ต 35/2 หมู่ที่ 12, ทางคู่ขนาน ถนนบางนา-ตราด ตำบล บางแก้ว อำเภอบางพลี สมุทรปราการ 10540 ไทย",
+      "en": "ต 35/2 หมู่ที่ 12, Bang Na-Trat Frontage Rd, Bang Kaeo, Bang Phli District, Samut Prakan 10540, Thailand"
+    }
+  },
+  {
+    "id": "11777",
+    "name": {
+      "th": "โรงพยาบาลบางปะกอก 3",
+      "slug": "samut-prakan",
+      "en": "Bangpakok 3 Hospital"
+    },
+    "tel": [
+      "021093111"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "พระประแดง",
+      "en": "Phra Pradaeng",
+      "slug": "phra-pradaeng"
+    },
+    "subDistrict": {
+      "th": "บางครุ",
+      "en": "Bang Khru",
+      "slug": "bang-khru"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 200,
+    "geolocation": {
+      "lat": 13.6343027,
+      "lng": 100.528285,
+      "geohash": "w4rmxd43wf"
+    },
+    "googleMapsPlaceId": "ChIJhRaPydej4jAR06RCz1H7WKU",
+    "googleMapsPlusCode": "7P52JGMH+P8",
+    "address": {
+      "th": "27/14 หมู่ที่ 10 ถ. สุขสวัสดิ์ ลัดหลวง อำเภอพระประแดง สมุทรปราการ 10130 ไทย",
+      "en": "27/14 หมู่ที่ 10 Suk Sawat Rd, Lat Luang, Phra Pradaeng District, Samut Prakan 10130, Thailand"
+    }
+  },
+  {
+    "id": "41413",
+    "name": {
+      "th": "โรงพยาบาลบางปะกอก สมุทรปราการ",
+      "slug": "samut-prakan",
+      "en": "Bangpakok Samut Prakan Hospital"
+    },
+    "tel": [
+      "021093222"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "พระประแดง",
+      "en": "Phra Pradaeng",
+      "slug": "phra-pradaeng"
+    },
+    "subDistrict": {
+      "th": "บางครุ",
+      "en": "Bang Khru",
+      "slug": "bang-khru"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 59,
+    "geolocation": {
+      "lat": 13.6353114,
+      "lng": 100.5297965,
+      "geohash": "w4rmxd5x6n"
+    },
+    "googleMapsPlaceId": "ChIJ-QdfiH2h4jARPwHesClaAzg",
+    "googleMapsPlusCode": "7P52JGPH+4W",
+    "address": {
+      "th": "เลขที่ 99 หมู่ที่ 7, ถ. สุขสวัสดิ์ ลัดหลวง อำเภอพระประแดง สมุทรปราการ 10130 ไทย",
+      "en": "เลขที่ 99 หมู่ที่ 7, Suk Sawat Rd, Lat Luang, Phra Pradaeng District, Samut Prakan 10130, Thailand"
+    }
+  },
+  {
+    "id": "41351",
+    "name": {
+      "th": "โรงพยาบาลสินแพทย์ เทพารักษ์",
+      "slug": "samut-prakan",
+      "en": "Synphaet Ramintra Hospital"
+    },
+    "tel": [
+      "027615999"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "เมืองสมุทรปราการ",
+      "en": "Mueang Samut Prakan",
+      "slug": "mueang-samut-prakan"
+    },
+    "subDistrict": {
+      "th": "เทพารักษ์",
+      "en": "Thepharak",
+      "slug": "thepharak"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 120,
+    "geolocation": {
+      "lat": 13.6200138,
+      "lng": 100.6415143,
+      "geohash": "w4rt6pkym6"
+    },
+    "googleMapsPlaceId": "ChIJlfJzTWtfHTERCXsVUgtnJVw",
+    "googleMapsPlusCode": "7P52JJCR+2J",
+    "address": {
+      "th": "9/99 ถ. เทพารักษ์ ตำบลเทพารักษ์ อำเภอเมืองสมุทรปราการ สมุทรปราการ 10270 ไทย",
+      "en": "9/99 ถนนรามอินทรา 52/1 กม.9 Ram Inthra Rd, Ram Inthra, Khan Na Yao, Bangkok 10230, Thailand"
+    }
+  },
+  {
+    "id": "11745",
+    "name": {
+      "th": "โรงพยาบาลศิครินทร์สมุทรปราการ",
+      "slug": "samut-prakan",
+      "en": "Sikarin Samut Prakan Hospital"
+    },
+    "tel": [
+      "0232329917"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "เมืองสมุทรปราการ",
+      "en": "Mueang Samut Prakan",
+      "slug": "mueang-samut-prakan"
+    },
+    "subDistrict": {
+      "th": "บางปูใหม่",
+      "en": "Bang Pu Mai",
+      "slug": "bang-pu-mai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.5316754,
+      "lng": 100.6309767,
+      "geohash": "w4rsczm5xx"
+    },
+    "googleMapsPlaceId": "ChIJs-v3AW5YHTERPYJJfDCCc5c",
+    "googleMapsPlusCode": "7P52GJJJ+M9",
+    "address": {
+      "th": "29 999/23 ตำบล บางปูใหม่ อำเภอเมืองสมุทรปราการ สมุทรปราการ 10280 ไทย",
+      "en": "29 999/23 Bang Pu Mai, Mueang Samut Prakan District, Samut Prakan 10280, Thailand"
+    }
+  },
+  {
+    "id": "12144",
+    "name": {
+      "th": "โรงพยาบาลวิชัยเวช อินเตอร์เนชั่นแนล อ้อมน้อย",
+      "slug": "samut-sakhon",
+      "en": "Vichaivej Hospital International Omnoi"
+    },
+    "tel": [
+      "024417899"
+    ],
+    "province": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    },
+    "district": {
+      "th": "กระทุ่มแบน",
+      "en": "Krathum Baen",
+      "slug": "krathum-baen"
+    },
+    "subDistrict": {
+      "th": "อ้อมน้อย",
+      "en": "Om Noi",
+      "slug": "om-noi"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 200,
+    "geolocation": {
+      "lat": 13.7106846,
+      "lng": 100.2915187,
+      "geohash": "w4rmfpyn9b"
+    },
+    "googleMapsPlaceId": "ChIJicNJe2WV4jARVCZX_BIvs6k",
+    "googleMapsPlusCode": "7P52P76R+7J",
+    "address": {
+      "th": "หมู่ที่ 4 74/5 ถ. เพชรเกษม อำเภอกระทุ่มแบน สมุทรสาคร 74130 ไทย",
+      "en": "หมู่ที่ 4 74/5 Petchkasem Rd, Krathum Baen District, Samut Sakhon 74130, Thailand"
+    }
+  },
+  {
+    "id": "12140",
+    "name": {
+      "th": "โรงพยาบาลวิชัยเวช อินเตอร์เนชั่นแนล สมุทรสาคร",
+      "slug": "samut-sakhon",
+      "en": "โรงพยาบาลวิชัยเวช อินเตอร์เนชั่นแนล สมุทรสาคร"
+    },
+    "tel": [
+      "03482670929"
+    ],
+    "province": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    },
+    "district": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    },
+    "subDistrict": {
+      "th": "ท่าทราย",
+      "en": "Tha Sai",
+      "slug": "tha-sai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 120,
+    "geolocation": {
+      "lat": 13.5757647,
+      "lng": 100.2719024,
+      "geohash": "w4rm1xru89"
+    },
+    "googleMapsPlaceId": "ChIJ23ujw1K54jARTNK34_ybul8",
+    "googleMapsPlusCode": "7P52H7GC+8Q",
+    "address": {
+      "th": "เลขที่ 93/256 ตำบล ท่าทราย อำเภอเมืองสมุทรสาคร สมุทรสาคร 74000 ไทย",
+      "en": "เลขที่ 93/256 Tha Sai, Mueang Samut Sakhon District, Samut Sakhon 74000, Thailand"
+    }
+  },
+  {
+    "id": "23924",
+    "name": {
+      "th": "โรงพยาบาล มหาชัย 3",
+      "slug": "samut-sakhon",
+      "en": "Mahachai 3 Hospital"
+    },
+    "tel": [
+      "034429111"
+    ],
+    "province": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    },
+    "district": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    },
+    "subDistrict": {
+      "th": "มหาชัย",
+      "en": "Maha Chai",
+      "slug": "maha-chai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.5567985,
+      "lng": 100.271783,
+      "geohash": "w4rm1ezwjf"
+    },
+    "googleMapsPlaceId": "ChIJX_GYVHu44jARhB-2Guypz1s",
+    "googleMapsPlusCode": "7P52H74C+PP",
+    "address": {
+      "th": "927 45 ถนน เศรษฐกิจ 1 ตำบลมหาชัย อำเภอเมืองสมุทรสาคร สมุทรสาคร 74000 ไทย",
+      "en": "927 45 Setthakij 1 Rd, Tambon Mahachai, Mueang Samut Sakhon District, Samut Sakhon 74000, Thailand"
+    }
+  },
+  {
+    "id": "22615",
+    "name": {
+      "th": "โรงพยาบาลเอกชัย",
+      "slug": "samut-sakhon",
+      "en": "Ekachai Hospital"
+    },
+    "tel": [
+      "034417999"
+    ],
+    "province": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    },
+    "district": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    },
+    "subDistrict": {
+      "th": "มหาชัย",
+      "en": "Maha Chai",
+      "slug": "maha-chai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.5590674,
+      "lng": 100.291682,
+      "geohash": "w4rm4hq5m9"
+    },
+    "googleMapsPlaceId": "ChIJzVTTM3OY4jARsiv3x38nwsU",
+    "googleMapsPlusCode": "7P52H75R+JM",
+    "address": {
+      "th": "99/9 หมู่ที่ 4 ถ. เอกชัย ตำบล โคกขาม อำเภอเมืองสมุทรสาคร สมุทรสาคร 74000 ไทย",
+      "en": "99/9 หมู่ที่ 4 Ekkachai Rd, Khok Kham, Mueang Samut Sakhon District, Samut Sakhon 74000, Thailand"
+    }
+  },
+  {
+    "id": "11833",
+    "name": {
+      "th": "โรงพยาบาลเกษมราษฎร์ สระบุรี",
+      "slug": "saraburi",
+      "en": "Kasemrad Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi"
+    },
+    "district": {
+      "th": "เมืองสระบุรี",
+      "en": "Mueang Saraburi",
+      "slug": "mueang-saraburi"
+    },
+    "subDistrict": {
+      "th": "ปากเพรียว",
+      "en": "Pak Phriao",
+      "slug": "pak-phriao"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 200,
+    "geolocation": {
+      "lat": 14.5236433,
+      "lng": 100.933334,
+      "geohash": "w4xf8gcqm5"
+    },
+    "googleMapsPlaceId": "ChIJO-UPMArpHTERaittA_6Ich0",
+    "googleMapsPlusCode": "7P62GWFM+F8",
+    "address": {
+      "th": "2/22 ถ. มิตรภาพ ตำบล ปากเพรียว อำเภอ เมืองสระบุรี สระบุรี 18000 ไทย",
+      "en": "2/22 Mittraphap Rd, Pak Phriao, อำเภอ เมืองสระบุรี Saraburi 18000, Thailand"
+    }
+  },
+  {
+    "id": "12122",
+    "name": {
+      "th": "โรงพยาบาลธนบุรี-อู่ทอง",
+      "slug": "suphan-buri",
+      "en": "Thon Buri-U Thong Hospital"
+    },
+    "tel": [
+      "035551673"
+    ],
+    "province": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri"
+    },
+    "district": {
+      "th": "อู่ทอง",
+      "en": "U Thong",
+      "slug": "u-thong"
+    },
+    "subDistrict": {
+      "th": "อู่ทอง",
+      "en": "U Thong",
+      "slug": "u-thong"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 60,
+    "geolocation": {
+      "lat": 14.3792591,
+      "lng": 99.9046027,
+      "geohash": "w4x1c3sm3b"
+    },
+    "googleMapsPlaceId": "ChIJa5VX9UpL4jAR-sRfoLa4Aw8",
+    "address": {
+      "th": "9WH3+PR5 ตำบล อู่ทอง อำเภออู่ทอง สุพรรณบุรี 72160 ไทย",
+      "en": "9WH3+PR5, U Thong, U Thong District, Suphan Buri 72160, Thailand"
+    }
+  },
+  {
+    "id": "12110",
+    "name": {
+      "th": "Synphaet Kanchanaburi Hospital",
+      "slug": "kanchanaburi",
+      "en": "Synphaet Kanchanaburi Hospital"
+    },
+    "tel": [
+      "0345209115"
+    ],
+    "province": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    },
+    "district": {
+      "th": "เมืองกาญจนบุรี",
+      "en": "Mueang Kanchanaburi",
+      "slug": "mueang-kanchanaburi"
+    },
+    "subDistrict": {
+      "th": "ท่ามะขาม",
+      "en": "Tha Makham",
+      "slug": "tha-makham"
+    },
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western",
+      "slug": "western"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 14.0561046,
+      "lng": 99.4976947,
+      "geohash": "w4qzbnu48r"
+    },
+    "googleMapsPlaceId": "ChIJZe0OSKp14zAR9hOaVMtlODE",
+    "googleMapsPlusCode": "7M6X3F4X+C3",
+    "address": {
+      "th": "111หมู่5 ถ. แสงชูโต ตำบล ท่ามะขาม อำเภอเมืองกาญจนบุรี กาญจนบุรี 71000 ไทย",
+      "en": "111หมู่5 Sangchuto Rd, Tha Ma Kham, Mueang Kanchanaburi District, Kanchanaburi 71000, Thailand"
+    }
+  },
+  {
+    "id": "12098",
+    "name": {
+      "th": "โรงพยาบาลกรุงเทพเมืองราช",
+      "slug": "ratchaburi",
+      "en": "Bangkok Hospital Mueang Raj"
+    },
+    "tel": [
+      "0323227480"
+    ],
+    "province": {
+      "th": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi"
+    },
+    "district": {
+      "th": "เมืองราชบุรี",
+      "en": "Mueang Ratchaburi",
+      "slug": "mueang-ratchaburi"
+    },
+    "subDistrict": {
+      "th": "หน้าเมือง",
+      "en": "Na Mueang",
+      "slug": "na-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western",
+      "slug": "western"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.5480167,
+      "lng": 99.8123665,
+      "geohash": "w4qvp634ut"
+    },
+    "googleMapsPlaceId": "ChIJyweeXqko4zARL_4kjoO3vCA",
+    "googleMapsPlusCode": "7M5XGRX6+6W",
+    "address": {
+      "th": "59 ตำบล หน้าเมือง อำเภอเมืองราชบุรี ราชบุรี 70000 ไทย",
+      "en": "59 Na Muang, Mueang Ratchaburi, Ratchaburi 70000, Thailand"
+    }
+  },
+  {
+    "id": "14961",
+    "name": {
+      "th": "โรงพยาบาลกรุงเทพเพชรบุรี",
+      "slug": "phetchaburi",
+      "en": "Bangkok Hospital Phetchaburi"
+    },
+    "tel": [
+      "032897888"
+    ],
+    "province": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    },
+    "district": {
+      "th": "เมืองเพชรบุรี",
+      "en": "Mueang Phetchaburi",
+      "slug": "mueang-phetchaburi"
+    },
+    "subDistrict": {
+      "th": "ต้นมะม่วง",
+      "en": "Ton Mamuang",
+      "slug": "ton-mamuang"
+    },
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western",
+      "slug": "western"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.0832293,
+      "lng": 99.94547779999999,
+      "geohash": "w4r46mdp66"
+    },
+    "googleMapsPlaceId": "ChIJD2R3Nygn_TARedZEHJ2fbiE",
+    "googleMapsPlusCode": "7M5X3WMW+75",
+    "address": {
+      "th": "เพชรเกษม 150 ม.6 ตำบล ต้นมะม่วง อำเภอเมืองเพชรบุรี เพชรบุรี 76000 ไทย",
+      "en": "เพชรเกษม 150 ม.6 Ton Mamuang, Mueang Phetchaburi District, Phetchaburi 76000, Thailand"
+    }
+  },
+  {
+    "id": "11879",
+    "name": {
+      "th": "โรงพยาบาลเกษมราษฎร์ ฉะเชิงเทรา",
+      "slug": "chachoengsao",
+      "en": "Kasemrad Hospital Chachoengsao"
+    },
+    "tel": [
+      "038812702"
+    ],
+    "province": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    },
+    "district": {
+      "th": "เมืองฉะเชิงเทรา",
+      "en": "Mueang Chachoengsao",
+      "slug": "mueang-chachoengsao"
+    },
+    "subDistrict": {
+      "th": "หน้าเมือง",
+      "en": "Na Mueang",
+      "slug": "na-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.6955458,
+      "lng": 101.0515626,
+      "geohash": "w4rvgmpw24"
+    },
+    "googleMapsPlaceId": "ChIJF2is4ixsHTERqz2Sa7JzpMA",
+    "googleMapsPlusCode": "7P53M3W2+6J",
+    "address": {
+      "th": "29 หมู่ที่ 3 ถ. สุวินทวงศ์ ตำบล หน้าเมือง อำเภอเมืองฉะเชิงเทรา ฉะเชิงเทรา 24000 ไทย",
+      "en": "29 หมู่ที่ 3 Suwinthawong Rd, Na Mueang, Mueang Chachoengsao District, Chachoengsao 24000, Thailand"
+    }
+  },
+  {
+    "id": "11845",
+    "name": {
+      "th": "โรงพยาบาลจุฬารัตน์ ชลเวช",
+      "slug": "chon-buri",
+      "en": "Chularat Cholvaej Hospital"
+    },
+    "tel": [
+      "0382843545"
+    ],
+    "province": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    },
+    "district": {
+      "th": "เมืองชลบุรี",
+      "en": "Mueang Chon Buri",
+      "slug": "mueang-chon-buri"
+    },
+    "subDistrict": {
+      "th": "บางปลาสร้อย",
+      "en": "Bang Pla Soi",
+      "slug": "bang-pla-soi"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 56,
+    "geolocation": {
+      "lat": 13.362889,
+      "lng": 100.986323,
+      "geohash": "w4ru1bxurz"
+    },
+    "googleMapsPlaceId": "ChIJ6cSty4g1HTERHhZnZF15Dxs",
+    "googleMapsPlusCode": "7P529X7P+5G",
+    "address": {
+      "th": "104/15 ซอยหน้าวัดต้นสน, ถนนอัคนิวาต ตำบลบางปลาสร้อย, อำเภอ เมืองชลบุรี, ชลบุรี 20000 ไทย",
+      "en": "104/15 ซอยหน้าวัดต้นสน, ถนนอัคนิวาต ตำบลบางปลาสร้อย, อำเภอ เมืองชลบุรี, Chon Buri 20000, Thailand"
+    }
+  },
+  {
+    "id": "23207",
+    "name": {
+      "th": "โรงพยาบาลเอกชล 2",
+      "slug": "chon-buri",
+      "en": "Hospital AIKCHOL 2"
+    },
+    "tel": [
+      "038939888ต่อ5218",
+      "5308"
+    ],
+    "province": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    },
+    "district": {
+      "th": "เมืองชลบุรี",
+      "en": "Mueang Chon Buri",
+      "slug": "mueang-chon-buri"
+    },
+    "subDistrict": {
+      "th": "เสม็ด",
+      "en": "Samet",
+      "slug": "samet"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 13.3176696,
+      "lng": 100.9487746,
+      "geohash": "w4rgc0kthc"
+    },
+    "googleMapsPlaceId": "ChIJdUOS0DVLHTER8yy8j4bqe8Y",
+    "googleMapsPlusCode": "7P528W9X+3G",
+    "address": {
+      "th": "31/2 ซอย นารถมนตเสวี ก/2 ตำบล เสม็ด อำเภอเมืองชลบุรี ชลบุรี 20000 ไทย",
+      "en": "31/2 ซอย นารถมนตเสวี ก/2 Samet, Chon Buri District, Chon Buri 20000, Thailand"
+    }
+  },
+  {
+    "id": "41345",
+    "name": {
+      "th": "โรงพยาบาลจุฬารัตน์ 304 อินเตอร์",
+      "slug": "prachin-buri",
+      "en": "Chularat 304 international hospital"
+    },
+    "tel": [
+      "0372186545"
+    ],
+    "province": {
+      "th": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri"
+    },
+    "district": {
+      "th": "ศรีมหาโพธิ",
+      "en": "Si Maha Phot",
+      "slug": "si-maha-phot"
+    },
+    "subDistrict": {
+      "th": "กรอกสมบูรณ์",
+      "en": "Krok Sombun",
+      "slug": "krok-sombun"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": null,
+    "geolocation": {
+      "lat": 13.8970193,
+      "lng": 101.6050383,
+      "geohash": "w62r01fs0b"
+    },
+    "googleMapsPlaceId": "ChIJv70sfkTxHDERi3LDw3tjCBU",
+    "googleMapsPlusCode": "7P53VJW4+R2",
+    "address": {
+      "th": "151 หมู่ที่ ถนน 304 ตำบล กรอกสมบูรณ์ อำเภอศรีมหาโพธิ ปราจีนบุรี 25140 ไทย",
+      "en": "151 หมู่ที่ ถนน 304 Krok Sombun, Si Maha Phot District, Prachin Buri 25140, Thailand"
+    }
+  },
+  {
+    "id": "42025",
+    "name": {
+      "th": "โรงพยาบาลเกษมราษฎร์ ปราจีนบุรี",
+      "slug": "prachin-buri",
+      "en": "Kasemrad Hospital Prachinburi"
+    },
+    "tel": [
+      "037627000"
+    ],
+    "province": {
+      "th": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri"
+    },
+    "district": {
+      "th": "ศรีมหาโพธิ",
+      "en": "Si Maha Phot",
+      "slug": "si-maha-phot"
+    },
+    "subDistrict": {
+      "th": "ท่าตูม",
+      "en": "Tha Tum",
+      "slug": "tha-tum"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 115,
+    "geolocation": {
+      "lat": 13.8985349,
+      "lng": 101.5962839,
+      "geohash": "w62ppfhhuf"
+    },
+    "googleMapsPlaceId": "ChIJO6De0UbxHDERwGqQ2dQEZ0o",
+    "googleMapsPlusCode": "7P53VHXW+CG",
+    "address": {
+      "th": "766 หมู่ 10 ตำบล ท่าตูม อำเภอศรีมหาโพธิ ปราจีนบุรี 25140 ไทย",
+      "en": "766 หมู่ 10 Tha Tum, Si Maha Phot District, Prachin Buri 25140, Thailand"
+    }
+  },
+  {
+    "id": "14607",
+    "name": {
+      "th": "โรงพยาบาลมงกุฏระยอง",
+      "slug": "rayong",
+      "en": "Mongkut Rayong Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong"
+    },
+    "district": {
+      "th": "เมืองระยอง",
+      "en": "Mueang Rayong",
+      "slug": "mueang-rayong"
+    },
+    "subDistrict": {
+      "th": "มาบตาพุด",
+      "en": "Map Ta Phut",
+      "slug": "map-ta-phut"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 12.7331929,
+      "lng": 101.1577706,
+      "geohash": "w4rbmyhb4z"
+    },
+    "googleMapsPlaceId": "ChIJJ5xougvwAjER82hn3WxUP68",
+    "googleMapsPlusCode": "7P43P5M5+74",
+    "address": {
+      "th": "149/1 ถนน มาบยา ตำบล มาบตาพุด อำเภอเมืองระยอง ระยอง 21000 ไทย",
+      "en": "149/1 Map Ya Rd, Map Ta Phut, Mueang Rayong District, Rayong 21000, Thailand"
+    }
+  },
+  {
+    "id": "41829",
+    "name": {
+      "th": "โรงพยาบาลเกษมราษฏร์ อินเตอร์เนชั่นแนล อรัญประเทศ",
+      "slug": "sa-kaeo",
+      "en": "โรงพยาบาลเกษมราษฏร์ อินเตอร์เนชั่นแนล อรัญประเทศ"
+    },
+    "tel": [
+      "037640000"
+    ],
+    "province": {
+      "th": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo"
+    },
+    "district": {
+      "th": "อรัญประเทศ",
+      "en": "Aranyaprathet",
+      "slug": "aranyaprathet"
+    },
+    "subDistrict": {
+      "th": "บ้านใหม่หนองไทร",
+      "en": "Ban Mai Nong Sai",
+      "slug": "ban-mai-nong-sai"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 51,
+    "geolocation": {
+      "lat": 13.7126345,
+      "lng": 102.4780242,
+      "geohash": "w62y5bq1zh"
+    },
+    "googleMapsPlaceId": "ChIJI46-H_cVGzERFUXycMw9VE4",
+    "googleMapsPlusCode": "7P54PF7H+36",
+    "address": {
+      "th": "885 ถ. สุวรรณศร ตำบล บ้านใหม่หนองไทร อำเภออรัญประเทศ สระแก้ว 27120 ไทย",
+      "en": "885 Suwannason Rd, Ban Mai Nong Sai, Aranyaprathet District, Sa Kaeo 27120, Thailand"
+    }
+  },
+  {
+    "id": "41639",
+    "name": {
+      "th": "โรงพยาบาลกาฬสินธุ์-ธนบุรี",
+      "slug": "kalasin",
+      "en": "Thonburi Hospital Kalasin"
+    },
+    "tel": [],
+    "province": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    },
+    "district": {
+      "th": "เมืองกาฬสินธุ์",
+      "en": "Mueang Kalasin",
+      "slug": "mueang-kalasin"
+    },
+    "subDistrict": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 60,
+    "geolocation": {
+      "lat": 16.4243828,
+      "lng": 103.5000853,
+      "geohash": "w6ct7jyqyy"
+    },
+    "googleMapsPlaceId": "ChIJGauM0f-0IjERtZtn0YznT5w",
+    "googleMapsPlusCode": "7P85CGF2+Q2",
+    "address": {
+      "th": "89 ถนน เลี่ยงเมือง ตำบล กาฬสินธุ์ อำเภอเมืองกาฬสินธุ์ กาฬสินธุ์ 46000 ไทย",
+      "en": "89 ถนน เลี่ยงเมือง Kalasin, Mueang Kalasin District, Kalasin 46000, Thailand"
+    }
+  },
+  {
+    "id": "41573",
+    "name": {
+      "th": "โรงพยาบาลราชพฤกษ์",
+      "slug": "khon-kaen",
+      "en": "Rachaphruek hospital"
+    },
+    "tel": [
+      "043333555"
+    ],
+    "province": {
+      "th": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen"
+    },
+    "district": {
+      "th": "เมืองขอนแก่น",
+      "en": "Mueang Khon Kaen",
+      "slug": "mueang-khon-kaen"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 117,
+    "geolocation": {
+      "lat": 16.4485555,
+      "lng": 102.8303097,
+      "geohash": "w6cjefqezb"
+    },
+    "googleMapsPlaceId": "ChIJqaw2kkGKIjERGyCsympFdDA",
+    "googleMapsPlusCode": "7P84CRXJ+C4",
+    "address": {
+      "th": "456 หมู่ที่ 14 ถ. มิตรภาพ ตำบลในเมือง อำเภอเมืองขอนแก่น ขอนแก่น 40000 ไทย",
+      "en": "456 หมู่ที่ 14 Mittraphap Rd, Nai Mueang, Mueang Khon Kaen District, Khon Kaen 40000, Thailand"
+    }
+  },
+  {
+    "id": "11907",
+    "name": {
+      "th": "โรงพยาบาลบุรีรัมย์ ราม",
+      "slug": "buri-ram",
+      "en": "Buriram Ram Hospital"
+    },
+    "tel": [
+      "044625340"
+    ],
+    "province": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    },
+    "district": {
+      "th": "เมืองบุรีรัมย์",
+      "en": "Mueang Buri Ram",
+      "slug": "mueang-buri-ram"
+    },
+    "subDistrict": {
+      "th": "ชุมเห็ด",
+      "en": "Chum Het",
+      "slug": "chum-het"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 90,
+    "geolocation": {
+      "lat": 15.0045468,
+      "lng": 103.1120472,
+      "geohash": "w69m677zuf"
+    },
+    "googleMapsPlaceId": "ChIJxYzot5aVGTERhx-4cnzlQAY",
+    "googleMapsPlusCode": "7P752436+RR",
+    "address": {
+      "th": "บ้านมะค่า ตำบล ชุมเห็ด อำเภอเมืองบุรีรัมย์ บุรีรัมย์ 31000 ไทย",
+      "en": "บ้านมะค่า Chum Het, Mueang Buri Ram District, Buri Ram 31000, Thailand"
+    }
+  },
+  {
+    "id": "11963",
+    "name": {
+      "th": "โรงพยาบาลร้อยเอ็ด-ธนบุรี",
+      "slug": "roi-et",
+      "en": "Roi Et - Thonburi Hospital"
+    },
+    "tel": [
+      "043515191"
+    ],
+    "province": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    },
+    "district": {
+      "th": "เมืองร้อยเอ็ด",
+      "en": "Mueang Roi Et",
+      "slug": "mueang-roi-et"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 16.0424186,
+      "lng": 103.6443676,
+      "geohash": "w6ceq2rtbg"
+    },
+    "googleMapsPlaceId": "ChIJ_elhOCz8FzERd87Y8YSRYGM",
+    "googleMapsPlusCode": "7P852JRV+XP",
+    "address": {
+      "th": "166 ถ. ปัทมานนท์ ตำบล ในเมือง อำเภอเมืองร้อยเอ็ด ร้อยเอ็ด 45000 ไทย",
+      "en": "166 ถ. ปัทมานนท์ Nai Mueang, Mueang Roi Et District, Roi Et 45000, Thailand"
+    }
+  },
+  {
+    "id": "11968",
+    "name": {
+      "th": "โรงพยาบาลรักษ์สกล",
+      "slug": "sakon-nakhon",
+      "en": "Rak Sakon Nakhon Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon"
+    },
+    "district": {
+      "th": "เมืองสกลนคร",
+      "en": "Mueang Sakon Nakhon",
+      "slug": "mueang-sakon-nakhon"
+    },
+    "subDistrict": {
+      "th": "ธาตุเชิงชุม",
+      "en": "That Choeng Chum",
+      "slug": "that-choeng-chum"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 50,
+    "geolocation": {
+      "lat": 17.1623379,
+      "lng": 104.144881,
+      "geohash": "w7419u7cze"
+    },
+    "googleMapsPlaceId": "ChIJx-uMCtXyPDER4FfjcUdk9OA",
+    "googleMapsPlusCode": "7P96546V+WX",
+    "address": {
+      "th": "ธาตุเชิงชุม อำเภอเมืองสกลนคร สกลนคร 47000 ไทย",
+      "en": "That Choeng Chum, Mueang Sakon Nakhon District, Sakon Nakhon 47000, Thailand"
+    }
+  },
+  {
+    "id": "11957",
+    "name": {
+      "th": "โรงพยาบาลหนองคายวัฒนา",
+      "slug": "nong-khai",
+      "en": "Nong Khai Wattana Hospital"
+    },
+    "tel": [
+      "0422465201"
+    ],
+    "province": {
+      "th": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai"
+    },
+    "district": {
+      "th": "เมืองหนองคาย",
+      "en": "Mueang Nong Khai",
+      "slug": "mueang-nong-khai"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 17.8769856,
+      "lng": 102.7361426,
+      "geohash": "w71j9y6hvx"
+    },
+    "googleMapsPlaceId": "ChIJESPm5JdjJDERzLGiJ19xyZo",
+    "googleMapsPlusCode": "7P94VPGP+QF",
+    "address": {
+      "th": "1159/4 Prajak Sillapakhom ตำบลในเมือง อำเภอ เมืองหนองคาย หนองคาย 43000 ไทย",
+      "en": "1159/4 Prajak Sillapakhom Nai Mueang, อำเภอ เมืองหนองคาย Nong Khai 43000, Thailand"
+    }
+  },
+  {
+    "id": "11939",
+    "name": {
+      "th": "โรงพยาบาลนอร์ทอีสเทอร์นวัฒนา",
+      "slug": "udon-thani",
+      "en": "North Eastern Wattana Hospital"
+    },
+    "tel": [
+      "042325999"
+    ],
+    "province": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani"
+    },
+    "district": {
+      "th": "เมืองอุดรธานี",
+      "en": "Mueang Udon Thani",
+      "slug": "mueang-udon-thani"
+    },
+    "subDistrict": {
+      "th": "หมากแข้ง",
+      "en": "Mak Khaeng",
+      "slug": "mak-khaeng"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 17.4214573,
+      "lng": 102.7838162,
+      "geohash": "w7154gkzke"
+    },
+    "googleMapsPlaceId": "ChIJm7mJaUCdIzER2NqKRo3658g",
+    "googleMapsPlusCode": "7P94CQCM+HG",
+    "address": {
+      "th": "70, 7-8 ถนน ศุภกิจจรรยา ตำบล บ้านเลื่อม อำเภอเมืองอุดรธานี อุดรธานี 41000 ไทย",
+      "en": "70, 7-8 Suppakitchanya Rd, Tambon Ban Lueam, Mueang Udon Thani District, Udon Thani 41000, Thailand"
+    }
+  },
+  {
+    "id": "11918",
+    "name": {
+      "th": "โรงพยาบาลร่มเกล้า",
+      "slug": "ubon-ratchathani",
+      "en": "โรงพยาบาลร่มเกล้า"
+    },
+    "tel": [
+      "0454465960"
+    ],
+    "province": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    },
+    "district": {
+      "th": "เมืองอุบลราชธานี",
+      "en": "Mueang Ubon Ratchathani",
+      "slug": "mueang-ubon-ratchathani"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 50,
+    "geolocation": {
+      "lat": 15.2266341,
+      "lng": 104.8568203,
+      "geohash": "w6dwd5fmt4"
+    },
+    "googleMapsPlaceId": "ChIJe5MC7i2GFjER0nbaKQrDXZc",
+    "googleMapsPlusCode": "7P766VG4+MP",
+    "address": {
+      "th": "115, 117 ถนน อุปราช ตำบล ในเมือง อำเภอเมืองอุบลราชธานี อุบลราชธานี 34000 ไทย",
+      "en": "115, 117 Upparat Rd, ตำบล ในเมือง Mueang Ubon Ratchathani District, Ubon Ratchathani 34000, Thailand"
+    }
+  },
+  {
+    "id": "40864",
+    "name": {
+      "th": "โรงพยาบาลพริ้นซ์ อุบลราชธานี",
+      "slug": "ubon-ratchathani",
+      "en": "PRINC Hospital Ubonratchathani"
+    },
+    "tel": [
+      "0452502713"
+    ],
+    "province": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    },
+    "district": {
+      "th": "เมืองอุบลราชธานี",
+      "en": "Mueang Ubon Ratchathani",
+      "slug": "mueang-ubon-ratchathani"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 59,
+    "geolocation": {
+      "lat": 15.2344997,
+      "lng": 104.8660962,
+      "geohash": "w6dwdm35mh"
+    },
+    "googleMapsPlaceId": "ChIJzwI5xQmHFjERHwWc_t40QnQ",
+    "googleMapsPlusCode": "7P766VM8+QC",
+    "address": {
+      "th": "139 ถ. พลแพน ตำบล ในเมือง อำเภอเมืองอุบลราชธานี อุบลราชธานี 34000 ไทย",
+      "en": "139 Ponpan Rd, ตำบล ในเมือง Mueang Ubon Ratchathani District, Ubon Ratchathani 34000, Thailand"
+    }
+  },
+  {
+    "id": "11919",
+    "name": {
+      "th": "โรงพยาบาลอุบลรักษ์ ธนบุรี Ubonrak Thonburi Hospital",
+      "slug": "ubon-ratchathani",
+      "en": "Ubonrak Thonburi Hospital"
+    },
+    "tel": [
+      "045429100"
+    ],
+    "province": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    },
+    "district": {
+      "th": "เมืองอุบลราชธานี",
+      "en": "Mueang Ubon Ratchathani",
+      "slug": "mueang-ubon-ratchathani"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 15.2313621,
+      "lng": 104.8710973,
+      "geohash": "w6dwdkuc1e"
+    },
+    "googleMapsPlaceId": "ChIJV5G25kqGFjERYOAYS_sp8Z0",
+    "googleMapsPlusCode": "7P766VJC+GC",
+    "address": {
+      "th": "46/4 ถนน บูรพาใน ตำบล ในเมือง อำเภอเมืองอุบลราชธานี อุบลราชธานี 34000 ไทย",
+      "en": "46/4 Buraphanai Rd, ตำบล ในเมือง Mueang Ubon Ratchathani District, Ubon Ratchathani 34000, Thailand"
+    }
+  },
+  {
+    "id": "11955",
+    "name": {
+      "th": "โรงพยาบาลเมืองเลยราม",
+      "slug": "loei",
+      "en": "Mueang Loei Ram Hospital"
+    },
+    "tel": [
+      "042833400"
+    ],
+    "province": {
+      "th": "เลย",
+      "en": "Loei",
+      "slug": "loei"
+    },
+    "district": {
+      "th": "เมืองเลย",
+      "en": "Mueang Loei",
+      "slug": "mueang-loei"
+    },
+    "subDistrict": {
+      "th": "นาอาน",
+      "en": "Na An",
+      "slug": "na-an"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 17.4636912,
+      "lng": 101.726368,
+      "geohash": "w7076g4vk5"
+    },
+    "googleMapsPlaceId": "ChIJv61utJ9HITERQ9wovOLx1Gw",
+    "googleMapsPlusCode": "7P93FP7G+FG",
+    "address": {
+      "th": "546 Naan Sub-District ตำบล นาอาน อำเภอ เมืองเลย เลย 42000 ไทย",
+      "en": "546 Naan Sub-District Na An, อำเภอ เมืองเลย Loei 42000, Thailand"
+    }
+  },
+  {
+    "id": "12030",
+    "name": {
+      "th": "โรงพยาบาลปากน้ำโพ Paknampo Hospital",
+      "slug": "nakhon-sawan",
+      "en": "โรงพยาบาลพริ้นซ์ ปากน้ำโพ"
+    },
+    "tel": [],
+    "province": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    },
+    "district": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    },
+    "subDistrict": {
+      "th": "นครสวรรค์ตก",
+      "en": "Nakhon Sawan Tok",
+      "slug": "nakhon-sawan-tok"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 15.6961628,
+      "lng": 100.1231547,
+      "geohash": "w4z1q37ky8"
+    },
+    "googleMapsPlaceId": "ChIJ6cktHalP4DARGL0IhBByar0",
+    "googleMapsPlusCode": "7P72M4WF+F7",
+    "address": {
+      "th": "96/12 หมู่ที่ 9 ถนน สายเอเชีย นครสวรรค์ตก เมือง นครสวรรค์ 60000 ไทย",
+      "en": "96/12 หมู่ที่ 9 ถนน สายเอเชีย นครสวรรค์ตก เมือง Nakhon Sawan 60000, Thailand"
+    }
+  },
+  {
+    "id": "12044",
+    "name": {
+      "th": "โรงพยาบาลศรีสวรรค์",
+      "slug": "nakhon-sawan",
+      "en": "Sri Sawan Hospital"
+    },
+    "tel": [
+      "056311626"
+    ],
+    "province": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    },
+    "district": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    },
+    "subDistrict": {
+      "th": "ปากน้ำโพ",
+      "en": "Pak Nam Pho",
+      "slug": "pak-nam-pho"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 15.7060449,
+      "lng": 100.1309504,
+      "geohash": "w4z1qe1nk6"
+    },
+    "googleMapsPlaceId": "ChIJezORiQtP4DARy-HJUicMr6A",
+    "googleMapsPlusCode": "7P72P44J+C9",
+    "address": {
+      "th": "33/64 ถนน ดาวดึงส์ ตำบลปากน้ำโพ อำเภอเมืองนครสวรรค์ นครสวรรค์ 60000 ไทย",
+      "en": "33/64 Daowadung, Tambon Pak Nam Pho, Mueang Nakhon Sawan District, Nakhon Sawan 60000, Thailand"
+    }
+  },
+  {
+    "id": "12034",
+    "name": {
+      "th": "โรงพยาบาลปากน้ำโพ 2",
+      "slug": "nakhon-sawan",
+      "en": "Hospital Paknampho 2"
+    },
+    "tel": [
+      "056000111"
+    ],
+    "province": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    },
+    "district": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    },
+    "subDistrict": {
+      "th": "ปากน้ำโพ",
+      "en": "Pak Nam Pho",
+      "slug": "pak-nam-pho"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 15.7080725,
+      "lng": 100.1383953,
+      "geohash": "w4z1qewd1s"
+    },
+    "googleMapsPlaceId": "ChIJC7X16xJP4DARoSb7AHnuadM",
+    "googleMapsPlusCode": "7P72P45Q+69",
+    "address": {
+      "th": "ถ อรรถกวี เมือง นครสวรรค์ 60000 ไทย",
+      "en": "ถ Attakavee, เมือง Nakhon Sawan 60000, Thailand"
+    }
+  },
+  {
+    "id": "12020",
+    "name": {
+      "th": "โรงพยาบาลพะเยาราม Phayao Ram Hospital",
+      "slug": "phayao",
+      "en": "Phayao Ram Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    },
+    "district": {
+      "th": "เมืองพะเยา",
+      "en": "Mueang Phayao",
+      "slug": "mueang-phayao"
+    },
+    "subDistrict": {
+      "th": "ท่าวังทอง",
+      "en": "Tha Wang Thong",
+      "slug": "tha-wang-thong"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 19.1780076,
+      "lng": 99.9013126,
+      "geohash": "w5rj171zvr"
+    },
+    "googleMapsPlaceId": "ChIJ0VB11zTT2TAR0rA1swMqs3s",
+    "googleMapsPlusCode": "7MFX5WH2+6G",
+    "address": {
+      "th": "660 ท่าวังทอง อำเภอ เมืองพะเยา พะเยา 56000 ไทย",
+      "en": "660 Tha Wang Thong, อำเภอ เมืองพะเยา Phayao 56000, Thailand"
+    }
+  },
+  {
+    "id": "23942",
+    "name": {
+      "th": "โรงพยาบาลชัยอรุณเวชการ",
+      "slug": "phichit",
+      "en": "Chaiaroon Vechagarn Hospital"
+    },
+    "tel": [
+      "056651407"
+    ],
+    "province": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    },
+    "district": {
+      "th": "เมืองพิจิตร",
+      "en": "Mueang Phichit",
+      "slug": "mueang-phichit"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 52,
+    "geolocation": {
+      "lat": 16.4368878,
+      "lng": 100.34254,
+      "geohash": "w4zme25py9"
+    },
+    "googleMapsPlaceId": "ChIJe-xkb3Hm3zAR0f8xEBLnpZs",
+    "googleMapsPlusCode": "7P82C8PV+Q2",
+    "address": {
+      "th": "31/12-15 ถนนสระหลวง เมืองพิจิตร อำเภอเมืองพิจิตร พิจิตร 66000 ไทย",
+      "en": "31/12-15 ถนนสระหลวง เมืองพิจิตร Amphoe Mueang Phichit, Phichit 66000, Thailand"
+    }
+  },
+  {
+    "id": "12071",
+    "name": {
+      "th": "โรงพยาบาลพิษณุเวช พิจิตร",
+      "slug": "phichit",
+      "en": "Phitsanuwet Phichit Hospital"
+    },
+    "tel": [
+      "056613316"
+    ],
+    "province": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    },
+    "district": {
+      "th": "เมืองพิจิตร",
+      "en": "Mueang Phichit",
+      "slug": "mueang-phichit"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 90,
+    "geolocation": {
+      "lat": 16.4442656,
+      "lng": 100.3390752,
+      "geohash": "w4zme38dvc"
+    },
+    "googleMapsPlaceId": "ChIJ7y9wPj_n3zARE8PVWmB0eRg",
+    "googleMapsPlusCode": "7P82C8VQ+PJ",
+    "address": {
+      "th": "2 158 ถนนศรีมาลา ตำบล ในเมือง อำเภอเมืองพิจิตร พิจิตร 66000 ไทย",
+      "en": "2 158 ถนนศรีมาลา Nai Mueang, Mueang Phichit District, Phichit 66000, Thailand"
+    }
+  },
+  {
+    "id": "12069",
+    "name": {
+      "th": "โรงพยาบาลพิษณุเวช",
+      "slug": "phitsanulok",
+      "en": "Pitsanuvej Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    },
+    "district": {
+      "th": "เมืองพิษณุโลก",
+      "en": "Mueang Phitsanulok",
+      "slug": "mueang-phitsanulok"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 150,
+    "geolocation": {
+      "lat": 16.808354,
+      "lng": 100.2598136,
+      "geohash": "w4zr97ygyb"
+    },
+    "googleMapsPlaceId": "ChIJZT34VX293zARuj6MCt_jvSo",
+    "googleMapsPlusCode": "7P82R755+8W",
+    "address": {
+      "th": "211 ถนน ขุนพิเรนทรเทพ ตำบล ในเมือง อำเภอเมืองพิษณุโลก พิษณุโลก 65000 ไทย",
+      "en": "211 ถนน Khun Phirenthorathep, Tambon Nai Mueang, Mueang Phitsanulok District, Phitsanulok 65000, Thailand"
+    }
+  },
+  {
+    "id": "12000",
+    "name": {
+      "th": "บริษัท โรงพยาบาลหริภุญชัย เมโมเรียล จำกัด",
+      "slug": "lamphun",
+      "en": "บริษัท โรงพยาบาลหริภุญชัย เมโมเรียล จำกัด"
+    },
+    "tel": [
+      "0535816004"
+    ],
+    "province": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    },
+    "district": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    },
+    "subDistrict": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "ban-klang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 18.5867747,
+      "lng": 99.0468004,
+      "geohash": "w5q3tzeev9"
+    },
+    "googleMapsPlaceId": "ChIJAQAAAADT2zARQuSobuIQ8OY",
+    "googleMapsPlusCode": "7MCXH2PW+PP",
+    "address": {
+      "th": "หมู่ 4 109-111 ถนนลำพูน-บ้านธิ อำเภอเมือง อำเภอเมืองลำพูน ลำพูน 51000 ไทย",
+      "en": "หมู่ 4 109-111 ถนนลำพูน-บ้านธิ อำเภอเมือง Mueang Lamphun District, Lamphun 51000, Thailand"
+    }
+  },
+  {
+    "id": "42015",
+    "name": {
+      "th": "โรงพยาบาลลำพูนใกล้หมอ",
+      "slug": "lamphun",
+      "en": "โรงพยาบาลลำพูนใกล้หมอ"
+    },
+    "tel": [],
+    "province": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    },
+    "district": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    },
+    "subDistrict": {
+      "th": "มะเขือแจ้",
+      "en": "Makhuea Chae",
+      "slug": "makhuea-chae"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 49,
+    "geolocation": {
+      "lat": 18.5962646,
+      "lng": 99.0422449,
+      "geohash": "w5q3vc275d"
+    },
+    "googleMapsPlaceId": "ChIJw2czfY8t2jARVl82XuX9a-M",
+    "googleMapsPlusCode": "7MCXH2WR+GV",
+    "address": {
+      "th": "98 หมู่ที่ 13 ถนน ซุปเปอร์ไฮเวย์ เชียงใหม่-ลำปาง ตำบลมะเขือแจ้ อำเภอเมืองลำพูน ลำพูน 51000 ไทย",
+      "en": "98 หมู่ที่ 13 ถนน ซุปเปอร์ไฮเวย์ เชียงใหม่-ลำปาง Makhuea Chae, Mueang Lamphun District, Lamphun 51000, Thailand"
+    }
+  },
+  {
+    "id": "42186",
+    "name": {
+      "th": "โรงพยาบาลพริ้นซ์ ลำพูน",
+      "slug": "lamphun",
+      "en": "โรงพยาบาลพริ้นซ์ ลำพูน"
+    },
+    "tel": [
+      "053582888"
+    ],
+    "province": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    },
+    "district": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    },
+    "subDistrict": {
+      "th": "เวียงยอง",
+      "en": "Wiang Yong",
+      "slug": "wiang-yong"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 59,
+    "geolocation": {
+      "lat": 18.5630302,
+      "lng": 99.0359292,
+      "geohash": "w5q3te7c2r"
+    },
+    "googleMapsPlaceId": "ChIJBS1SA3fT2zAR0Tdk-Aew1jo",
+    "googleMapsPlusCode": "7MCXH27P+69",
+    "address": {
+      "th": "หมู่ที่ 2 288 ตำบล เวียงยอง อำเภอเมืองลำพูน ลำพูน 51000 ไทย",
+      "en": "หมู่ที่ 2 288 Wiang Yong, Mueang Lamphun District, Lamphun 51000, Thailand"
+    }
+  },
+  {
+    "id": "41622",
+    "name": {
+      "th": "โรงพยาบาล พิษณุเวช อุตรดิตถ์",
+      "slug": "uttaradit",
+      "en": "โรงพยาบาล พิษณุเวช อุตรดิตถ์"
+    },
+    "tel": [
+      "055409000"
+    ],
+    "province": {
+      "th": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit"
+    },
+    "district": {
+      "th": "เมืองอุตรดิตถ์",
+      "en": "Mueang Uttaradit",
+      "slug": "mueang-uttaradit"
+    },
+    "subDistrict": {
+      "th": "ป่าเซ่า",
+      "en": "Pa Sao",
+      "slug": "pa-sao"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 75,
+    "geolocation": {
+      "lat": 17.6076889,
+      "lng": 100.1237042,
+      "geohash": "w5phnm7u5r"
+    },
+    "googleMapsPlaceId": "ChIJVzigFX0w3zARnAbZBcXCZt4",
+    "googleMapsPlusCode": "7P92J45F+3F",
+    "address": {
+      "th": "888 ตำบลป่าเซ่า อำเภอเมืองอุตรดิตถ์ อุตรดิตถ์ 53000 ไทย",
+      "en": "888 Pa Sao, Mueang Uttaradit District, Uttaradit 53000, Thailand"
+    }
+  },
+  {
+    "id": "12026",
+    "name": {
+      "th": "โรงพยาบาลเกษมราษฎร์ ศรีบุรินทร์",
+      "slug": "chiang-rai",
+      "en": "Kasemrad Sriburin Hospital"
+    },
+    "tel": [
+      "053717499"
+    ],
+    "province": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    },
+    "district": {
+      "th": "เมืองเชียงราย",
+      "en": "Mueang Chiang Rai",
+      "slug": "mueang-chiang-rai"
+    },
+    "subDistrict": {
+      "th": "สันทราย",
+      "en": "San Sai",
+      "slug": "san-sai"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 120,
+    "geolocation": {
+      "lat": 19.8780081,
+      "lng": 99.8354841,
+      "geohash": "w5wcpf9vz3"
+    },
+    "googleMapsPlaceId": "ChIJ__B8uyIG1zARJY5OkVrIXOQ",
+    "address": {
+      "th": "VRHP+665 111/5 หมู่ที่ 13 ถนน เอเชีย 1 ตำบลท่าสาย อำเภอเมืองเชียงราย เชียงราย 57000 ไทย",
+      "en": "VRHP+665 111/5 หมู่ที่ 13 ถนน เอเชีย 1 Tha Sai, Mueang Chiang Rai District, Chiang Rai 57000, Thailand"
+    }
+  },
+  {
+    "id": "11992",
+    "name": {
+      "th": "โรงพยาบาลเทพปัญญา 2",
+      "slug": "chiang-mai",
+      "en": "Thep Panya 2 Hospital"
+    },
+    "tel": [
+      "05322002227"
+    ],
+    "province": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    },
+    "district": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    },
+    "subDistrict": {
+      "th": "ศรีภูมิ",
+      "en": "Si Phum",
+      "slug": "si-phum"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 60,
+    "geolocation": {
+      "lat": 18.7987662,
+      "lng": 98.9869566,
+      "geohash": "w5q6uw0ng2"
+    },
+    "googleMapsPlaceId": "ChIJSzbtFZQ62jARNDEg7hvSlAw",
+    "googleMapsPlusCode": "7MCWQXXP+GQ",
+    "address": {
+      "th": "1 7 ช้างเผือก ซอย 2 ตำบลศรีภูมิ อำเภอเมืองเชียงใหม่ เชียงใหม่ 50200 ไทย",
+      "en": "1 7 Chang Phuak Soi 2, Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200, Thailand"
+    }
+  },
+  {
+    "id": "42244",
+    "name": {
+      "th": "บมจ.โรงพยาบาล อินเตอร์เมดิคัล แคร์ แอนด์ แล็บ",
+      "slug": "chiang-mai",
+      "en": "บมจ.โรงพยาบาล อินเตอร์เมดิคัล แคร์ แอนด์ แล็บ"
+    },
+    "tel": [],
+    "province": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    },
+    "district": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    },
+    "subDistrict": {
+      "th": "หนองป่าครั่ง",
+      "en": "Nong Pa Khrang",
+      "slug": "nong-pa-khrang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 2,
+    "geolocation": {
+      "lat": 13.7379263,
+      "lng": 100.4448217,
+      "geohash": "w4rqjsvtjz"
+    },
+    "googleMapsPlaceId": "ChIJ7divViuY4jARrMsI_2u_nY0",
+    "googleMapsPlusCode": "7P52PCQV+5W",
+    "address": {
+      "th": "442 ถ. บางแวก แขวง บางแวก เขตภาษีเจริญ กรุงเทพมหานคร 10160 ไทย",
+      "en": "442 Bang Waek Rd, Bang Waek, Phasi Charoen, Bangkok 10160, Thailand"
+    }
+  },
+  {
+    "id": "11982",
+    "name": {
+      "th": "โรงพยาบาลลานนา",
+      "slug": "chiang-mai",
+      "en": "Lanna Hospital"
+    },
+    "tel": [
+      "053999777"
+    ],
+    "province": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    },
+    "district": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    },
+    "subDistrict": {
+      "th": "ป่าตัน",
+      "en": "Pa Tan",
+      "slug": "pa-tan"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 180,
+    "geolocation": {
+      "lat": 18.8123878,
+      "lng": 98.99101139999999,
+      "geohash": "w5q7h8en1g"
+    },
+    "googleMapsPlaceId": "ChIJnY1secI62jARhZKmA8KY66s",
+    "googleMapsPlusCode": "7MCWRX6R+XC",
+    "address": {
+      "th": "ตําบล, 1 ถนน สุขเกษม ตำบลช้างเผือก อำเภอเมืองเชียงใหม่ เชียงใหม่ 50300 ไทย",
+      "en": "ตําบล, 1 Sookasam Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300, Thailand"
+    }
+  },
+  {
+    "id": "11994",
+    "name": {
+      "th": "โรงพยาบาลเทพปัญญา",
+      "slug": "chiang-mai",
+      "en": "Theppanya Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    },
+    "district": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    },
+    "subDistrict": {
+      "th": "ฟ้าฮ่าม",
+      "en": "Fa Ham",
+      "slug": "fa-ham"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 109,
+    "geolocation": {
+      "lat": 18.8102472,
+      "lng": 99.0113466,
+      "geohash": "w5q7j03ces"
+    },
+    "googleMapsPlaceId": "ChIJIfetl8w62jARVxL4n2qgF9s",
+    "googleMapsPlusCode": "7MCXR266+3G",
+    "address": {
+      "th": "99 หมู่ที่ 5 ถนน เชียงใหม่-ลำปาง ตำบล ฟ้าฮ่าม อำเภอ เมืองเชียงใหม่ เชียงใหม่ 50000 ไทย",
+      "en": "99 หมู่ที่ 5 ถนน เชียงใหม่-ลำปาง Fa Ham, อำเภอ เมืองเชียงใหม่ Chiang Mai 50000, Thailand"
+    }
+  },
+  {
+    "id": "12079",
+    "name": {
+      "th": "โรงพยาบาลเพชรรัตน์ Phetcharat Hospital",
+      "slug": "phetchabun",
+      "en": "Phetcharat Hospital"
+    },
+    "tel": [
+      "056720680"
+    ],
+    "province": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    },
+    "district": {
+      "th": "เมืองเพชรบูรณ์",
+      "en": "Mueang Phetchabun",
+      "slug": "mueang-phetchabun"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 50,
+    "geolocation": {
+      "lat": 16.4108981,
+      "lng": 101.1486321,
+      "geohash": "w4zvmew0mv"
+    },
+    "googleMapsPlaceId": "ChIJo4fpBUUlIDERpernlxlW7_c",
+    "googleMapsPlusCode": "7P83C46X+9F",
+    "address": {
+      "th": "2 ถนน เพชรบุระ ตำบล ในเมือง อำเภอเมืองเพชรบูรณ์ เพชรบูรณ์ 67000 ไทย",
+      "en": "2 ถนน เพชรบุระ Nai Mueang, Mueang Phetchabun District, Phetchabun 67000, Thailand"
+    }
+  },
+  {
+    "id": "22343",
+    "name": {
+      "th": "โรงพยาบาลแพร่ราม",
+      "slug": "phrae",
+      "en": "Phrae-Ram Hospital"
+    },
+    "tel": [
+      "054522911"
+    ],
+    "province": {
+      "th": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae"
+    },
+    "district": {
+      "th": "เมืองแพร่",
+      "en": "Mueang Phrae",
+      "slug": "mueang-phrae"
+    },
+    "subDistrict": {
+      "th": "ในเวียง",
+      "en": "Nai Wiang",
+      "slug": "nai-wiang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 60,
+    "geolocation": {
+      "lat": 18.1417858,
+      "lng": 100.1507669,
+      "geohash": "w5ppnyxed1"
+    },
+    "googleMapsPlaceId": "ChIJpU8HcRPC2DARAtl14jGQV1I",
+    "googleMapsPlusCode": "7PC245R2+P8",
+    "address": {
+      "th": "12 ยันตรกิจโกศล 1 ตำบล ทุ่งกวาว อำเภอเมืองแพร่ แพร่ 54000 ไทย",
+      "en": "12 Yantrakit Koson 1, Thung Kwao, Mueang Phrae District, Phrae 54000, Thailand"
+    }
+  },
+  {
+    "id": "12204",
+    "name": {
+      "th": "โรงพยาบาลวิรัชศิลป์",
+      "slug": "chumphon",
+      "en": "โรงพยาบาลวิรัชศิลป์"
+    },
+    "tel": [
+      "077542555"
+    ],
+    "province": {
+      "th": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon"
+    },
+    "district": {
+      "th": "เมืองชุมพร",
+      "en": "Mueang Chumphon",
+      "slug": "mueang-chumphon"
+    },
+    "subDistrict": {
+      "th": "ท่าตะเภา",
+      "en": "Tha Taphao",
+      "slug": "tha-taphao"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 10.4958153,
+      "lng": 99.1733976,
+      "geohash": "w1ye8wxye9"
+    },
+    "googleMapsPlaceId": "ChIJMQbEiKqq-DARqhuwDkJkD0s",
+    "googleMapsPlusCode": "7M2XF5WF+89",
+    "address": {
+      "th": "18, 22 ถนนปรมินทรมรรคา ตำบล ท่าตะเภา อำเภอเมืองชุมพร ชุมพร 86000 ไทย",
+      "en": "18, 22 ถนนปรมินทรมรรคา Tha Taphao, Mueang Chumphon District, Chumphon 86000, Thailand"
+    }
+  },
+  {
+    "id": "14534",
+    "name": {
+      "th": "โรงพยาบาลธนบุรี ชุมพร",
+      "slug": "chumphon",
+      "en": "โรงพยาบาลธนบุรี ชุมพร"
+    },
+    "tel": [
+      "077658555"
+    ],
+    "province": {
+      "th": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon"
+    },
+    "district": {
+      "th": "เมืองชุมพร",
+      "en": "Mueang Chumphon",
+      "slug": "mueang-chumphon"
+    },
+    "subDistrict": {
+      "th": "วังไผ่",
+      "en": "Wang Phai",
+      "slug": "wang-phai"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 10.5026304,
+      "lng": 99.1440643,
+      "geohash": "w1ye8pfw20"
+    },
+    "googleMapsPlaceId": "ChIJDay1W2Kq-DARPrcdxgClb8w",
+    "googleMapsPlusCode": "7M2XG43V+3J",
+    "address": {
+      "th": "wangpai, muang ชุมพร 86000 ไทย",
+      "en": "wangpai, muang Chumphon 86000, Thailand"
+    }
+  },
+  {
+    "id": "12230",
+    "name": {
+      "th": "คลินิกเวชกรรมทีอาร์พีเอช",
+      "slug": "trang",
+      "en": "คลินิกเวชกรรมทีอาร์พีเอช"
+    },
+    "tel": [],
+    "province": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    },
+    "district": {
+      "th": "เมืองตรัง",
+      "en": "Mueang Trang",
+      "slug": "mueang-trang"
+    },
+    "subDistrict": {
+      "th": "ทับเที่ยง",
+      "en": "Thap Thiang",
+      "slug": "thap-thiang"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 200,
+    "geolocation": {
+      "lat": 13.9517459,
+      "lng": 100.6458738,
+      "geohash": "w4rx67b4fc"
+    },
+    "googleMapsPlaceId": "ChIJe1orhvN9HTERplnI2h6MqH0",
+    "googleMapsPlusCode": "7P52XJ2W+M8",
+    "address": {
+      "th": "157/16 หมู่ 2 ตำบลอ่าวนาง อำเภอเมือง จังหวัดกระบี่ ประเทศไทย 81180 ไทย",
+      "en": "157/16 หมู่ 2 ตำบลอ่าวนาง อำเภอเมือง จังหวัดกระบี่ ประเทศไทย 81180, Thailand"
+    }
+  },
+  {
+    "id": "41714",
+    "name": {
+      "th": "โรงพยาบาลธนบุรี ทุ่งสง",
+      "slug": "nakhon-si-thammarat",
+      "en": "Thonburi Thungsong Hospital"
+    },
+    "tel": [
+      "075808888"
+    ],
+    "province": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    },
+    "district": {
+      "th": "ทุ่งสง",
+      "en": "Thung Song",
+      "slug": "thung-song"
+    },
+    "subDistrict": {
+      "th": "ชะมาย",
+      "en": "Chamai",
+      "slug": "chamai"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 50,
+    "geolocation": {
+      "lat": 8.1655614,
+      "lng": 99.66118499999999,
+      "geohash": "w1qy7y7pcf"
+    },
+    "googleMapsPlaceId": "ChIJpYmUULlFUjARE1wIry-g3uw",
+    "googleMapsPlusCode": "6MWX5M86+6F",
+    "address": {
+      "th": "หมู่ที่ 1 88 ตำบล ชะมาย อำเภอทุ่งสง นครศรีธรรมราช 80110 ไทย",
+      "en": "หมู่ที่ 1 88 Chamai, Thung Song District, Nakhon Si Thammarat 80110, Thailand"
+    }
+  },
+  {
+    "id": "12169",
+    "name": {
+      "th": "โรงพยาบาลนครคริสเตียน",
+      "slug": "nakhon-si-thammarat",
+      "en": "Nakhon Christian Hospital"
+    },
+    "tel": [
+      "0820630551",
+      "075356214"
+    ],
+    "province": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    },
+    "district": {
+      "th": "เมืองนครศรีธรรมราช",
+      "en": "Mueang Nakhon Si Thammarat",
+      "slug": "mueang-nakhon-si-thammarat"
+    },
+    "subDistrict": {
+      "th": "คลัง",
+      "en": "Khlang",
+      "slug": "khlang"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 50,
+    "geolocation": {
+      "lat": 8.4361599,
+      "lng": 99.96402309999999,
+      "geohash": "w1rpfxz84w"
+    },
+    "googleMapsPlaceId": "ChIJXVW2LjcBUzARL082eRakR8Y",
+    "googleMapsPlusCode": "6MWXCXP7+FJ",
+    "address": {
+      "th": "1110/1-2 ถ.ศรีปราชญ์ คลัง เมืองนครศรีธรรมราช นครศรีธรรมราช 80000 ไทย",
+      "en": "1110/1-2 ถ.ศรีปราชญ์ คลัง เมืองนครศรีธรรมราช Nakhon Si Thammarat 80000, Thailand"
+    }
+  },
+  {
+    "id": "23875",
+    "name": {
+      "th": "โรงพยาบาลนครพัฒน์ Nakhonpat Hospital",
+      "slug": "nakhon-si-thammarat",
+      "en": "Nakhon Patana Hospital"
+    },
+    "tel": [
+      "075305999"
+    ],
+    "province": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    },
+    "district": {
+      "th": "เมืองนครศรีธรรมราช",
+      "en": "Mueang Nakhon Si Thammarat",
+      "slug": "mueang-nakhon-si-thammarat"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 59,
+    "geolocation": {
+      "lat": 8.3933929,
+      "lng": 99.978648,
+      "geohash": "w1rpepfpp3"
+    },
+    "googleMapsPlaceId": "ChIJI23oGJsBUzARSYgUhMdHj-M",
+    "googleMapsPlusCode": "6MWX9XVH+9F",
+    "address": {
+      "th": "2/99 พัฒนาการคูขวาง Pattanakarn Kwang Road ตำบล ในเมือง อำเภอเมืองนครศรีธรรมราช นครศรีธรรมราช 80000 ไทย",
+      "en": "2/99 พัฒนาการคูขวาง Pattanakarn Kwang Road Tambon Nai Mueang, Mueang Nakhon Si Thammarat District, Nakhon Si Thammarat 80000, Thailand"
+    }
+  },
+  {
+    "id": "41342",
+    "name": {
+      "th": "โรงพยาบาลสิโรรสปัตตานี",
+      "slug": "pattani",
+      "en": "โรงพยาบาลสิโรรสปัตตานี Siroros Hospital Pattani"
+    },
+    "tel": [
+      "073348100"
+    ],
+    "province": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    },
+    "district": {
+      "th": "เมืองปัตตานี",
+      "en": "Mueang Pattani",
+      "slug": "mueang-pattani"
+    },
+    "subDistrict": {
+      "th": "รูสะมิแล",
+      "en": "Ru Samilae",
+      "slug": "ru-samilae"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 30,
+    "geolocation": {
+      "lat": 6.8566558,
+      "lng": 101.2236292,
+      "geohash": "w1pzp2hyct"
+    },
+    "googleMapsPlaceId": "ChIJ1a8UlvADszER7vdfJctkC-A",
+    "googleMapsPlusCode": "6PR3V64F+MF",
+    "address": {
+      "th": "30/10 ตำบล รูสะมิแล อำเภอเมืองปัตตานี ปัตตานี 94000 ไทย",
+      "en": "30/10 Rusamilae, Mueang Pattani District, Pattani 94000, Thailand"
+    }
+  },
+  {
+    "id": "40979",
+    "name": {
+      "th": "โรงพยาบาลดีบุก",
+      "slug": "phuket",
+      "en": "Dibuk Hospital"
+    },
+    "tel": [
+      "076298298"
+    ],
+    "province": {
+      "th": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket"
+    },
+    "district": {
+      "th": "เมืองภูเก็ต",
+      "en": "Mueang Phuket",
+      "slug": "mueang-phuket"
+    },
+    "subDistrict": {
+      "th": "วิชิต",
+      "en": "Wichit",
+      "slug": "wichit"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 32,
+    "geolocation": {
+      "lat": 7.871874099999999,
+      "lng": 98.36041829999999,
+      "geohash": "w1muy1pbgz"
+    },
+    "googleMapsPlaceId": "ChIJ7amdFykuUDARROGutIU81GI",
+    "googleMapsPlusCode": "6MVWV9C6+P5",
+    "address": {
+      "th": "89 / 8-9 Moo 2 Chaofa Rd ตำบล วิชิต อำเภอเมืองภูเก็ต ภูเก็ต 83000 ไทย",
+      "en": "89 / 8-9 Moo 2 Chaofa Rd Wichit, Mueang Phuket District, Phuket 83000, Thailand"
+    }
+  },
+  {
+    "id": "12185",
+    "name": {
+      "th": "โรงพยาบาลมิชชั่นภูเก็ต",
+      "slug": "phuket",
+      "en": "Mission Hospital Phuket"
+    },
+    "tel": [
+      "076212386"
+    ],
+    "province": {
+      "th": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket"
+    },
+    "district": {
+      "th": "เมืองภูเก็ต",
+      "en": "Mueang Phuket",
+      "slug": "mueang-phuket"
+    },
+    "subDistrict": {
+      "th": "รัษฎา",
+      "en": "Ratsada",
+      "slug": "ratsada"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 50,
+    "geolocation": {
+      "lat": 7.906622899999999,
+      "lng": 98.3907911,
+      "geohash": "w1muyzmgrt"
+    },
+    "googleMapsPlaceId": "ChIJvXHnU48xUDAR2HXgipVKiLk",
+    "googleMapsPlusCode": "6MVWW94R+J8",
+    "address": {
+      "th": "4/1 Moo 3 Thepkasatri Road ตำบล รัษฎา อำเภอเมืองภูเก็ต ภูเก็ต 83000 ไทย",
+      "en": "4/1 Moo 3 Thepkasatri Road Ratsada, Mueang Phuket District, Phuket 83000, Thailand"
+    }
+  },
+  {
+    "id": "12238",
+    "name": {
+      "th": "โรงพยาบาลสิโรรสยะลา Siroros Hospital Yala",
+      "slug": "yala",
+      "en": "Siroros Hospital"
+    },
+    "tel": [
+      "073221114"
+    ],
+    "province": {
+      "th": "ยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    },
+    "district": {
+      "th": "เมืองยะลา",
+      "en": "Mueang Yala",
+      "slug": "mueang-yala"
+    },
+    "subDistrict": {
+      "th": "สะเตง",
+      "en": "Sateng",
+      "slug": "sateng"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 100,
+    "geolocation": {
+      "lat": 6.5513072,
+      "lng": 101.2798439,
+      "geohash": "w30j28tspk"
+    },
+    "googleMapsPlaceId": "ChIJBVCyHDx0szERO_MDeuOjm54",
+    "googleMapsPlusCode": "6PR3H72H+GW",
+    "address": {
+      "th": "247 249 ถ. สิโรรส สะเตง อำเภอเมืองยะลา ยะลา 95000 ไทย",
+      "en": "247 249 Siroros Rd, Tambon Sateng, Mueang Yala District, Yala 95000, Thailand"
+    }
+  },
+  {
+    "id": "12222",
+    "name": {
+      "th": "โรงพยาบาลราษฎร์ยินดี",
+      "slug": "songkhla",
+      "en": "Rajyindee Hospital"
+    },
+    "tel": [],
+    "province": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    },
+    "district": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    },
+    "subDistrict": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 196,
+    "geolocation": {
+      "lat": 7.0006339,
+      "lng": 100.4804957,
+      "geohash": "w1pry6rttk"
+    },
+    "googleMapsPlaceId": "ChIJj6vWxksoTTARIZBS7tcZY9w",
+    "googleMapsPlusCode": "6PV22F2J+75",
+    "address": {
+      "th": "119 ราษฎร์ยินดี ตำบล หาดใหญ่ อำเภอหาดใหญ่ สงขลา 90110 ไทย",
+      "en": "119 Ratyindi, Tambon Hat Yai, Amphoe Hat Yai, Songkhla 90110, Thailand"
+    }
+  },
+  {
+    "id": "12221",
+    "name": {
+      "th": "โรงพยาบาลศิครินทร์ หาดใหญ่",
+      "slug": "songkhla",
+      "en": "Sikarin Hat Yai Hospital"
+    },
+    "tel": [
+      "074366966"
+    ],
+    "province": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    },
+    "district": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    },
+    "subDistrict": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 120,
+    "geolocation": {
+      "lat": 7.022423,
+      "lng": 100.4697785,
+      "geohash": "w1prynrued"
+    },
+    "googleMapsPlaceId": "ChIJV9cC3fYoTTARgZ2yPZAC4C8",
+    "googleMapsPlusCode": "6PV22FC9+XW",
+    "address": {
+      "th": "169 ถนน นิพัทธ์สงเคราะห์ 1 ซอย 2 ตำบล หาดใหญ่ อำเภอหาดใหญ่ สงขลา 90110 ไทย",
+      "en": "169 ถนน นิพัทธ์สงเคราะห์ 1 ซอย 2 ตำบล หาดใหญ่ Hat Yai District, Songkhla 90110, Thailand"
+    }
+  }
+]

@@ -1,0 +1,3068 @@
+[
+  {
+    "id": "11583",
+    "name": {
+      "th": "รพ.กล้วยน้ำไท",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "027692000"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "คลองเตย",
+      "en": "Khlong Toei",
+      "slug": "khlong-toei"
+    },
+    "subDistrict": {
+      "th": "พระโขนง",
+      "en": "Phra Khanong",
+      "slug": "phra-khanong"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 228
+  },
+  {
+    "id": "11691",
+    "name": {
+      "th": "วิภาวดี โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "025611111",
+      "029412900",
+      "029412800"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "จตุจักร",
+      "en": "Chatuchak",
+      "slug": "chatuchak"
+    },
+    "subDistrict": {
+      "th": "ลาดยาว",
+      "en": "Lat Yao",
+      "slug": "lat-yao"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 35
+  },
+  {
+    "id": "11706",
+    "name": {
+      "th": "รพ.ขนาดเล็กบางขุนเทียน1",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "0247722903"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong"
+    },
+    "subDistrict": {
+      "th": "บางค้อ",
+      "en": "Bang Kho",
+      "slug": "bang-kho"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 129
+  },
+  {
+    "id": "21339",
+    "name": {
+      "th": "รพ.บางปะกอก 9 อินเตอร์เนชั่นแนลโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "028771111"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong"
+    },
+    "subDistrict": {
+      "th": "บางมด",
+      "en": "Bang Mot",
+      "slug": "bang-mot"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 169
+  },
+  {
+    "id": "11640",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่ธนบุรี 2",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": null,
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ทวีวัฒนา",
+      "en": "Thawi Watthana",
+      "slug": "thawi-watthana"
+    },
+    "subDistrict": {
+      "th": "ศาลาธรรมสพน์",
+      "en": "Sala Thammasop",
+      "slug": "sala-thammasop"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 148
+  },
+  {
+    "id": "11641",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดกลางโรงพยาบาลวิชัยเวช แยกไฟฉาย",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "02412005560"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางกอกน้อย",
+      "en": "Bangkok Noi",
+      "slug": "bangkok-noi"
+    },
+    "subDistrict": {
+      "th": "ช่างหล่อ",
+      "en": "Chang Lo",
+      "slug": "chang-lo"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 88
+  },
+  {
+    "id": "11647",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่ พีเอ็มจี",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "024514920"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางขุนเทียน",
+      "en": "Bang Khun Thian",
+      "slug": "bang-khun-thian"
+    },
+    "subDistrict": {
+      "th": "แสมดำ",
+      "en": "Samae Dam",
+      "slug": "samae-dam"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 86
+  },
+  {
+    "id": "11687",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่เกษมราษฎร์ประชาชื่น",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "02910160049"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางซื่อ",
+      "en": "Bang Sue",
+      "slug": "bang-sue"
+    },
+    "subDistrict": {
+      "th": "บางซื่อ",
+      "en": "Bang Sue",
+      "slug": "bang-sue"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 79
+  },
+  {
+    "id": "11686",
+    "name": {
+      "th": "รพ.บางโพ โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "025870144"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางซื่อ",
+      "en": "Bang Sue",
+      "slug": "bang-sue"
+    },
+    "subDistrict": {
+      "th": "บางซื่อ",
+      "en": "Bang Sue",
+      "slug": "bang-sue"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 243
+  },
+  {
+    "id": "11582",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่ศิครินทร์",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "02366990099"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางนา",
+      "en": "Bang Na",
+      "slug": "bang-na"
+    },
+    "subDistrict": {
+      "th": "บางนาใต้",
+      "en": "Bang Na",
+      "slug": "bang-na"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 229
+  },
+  {
+    "id": "15147",
+    "name": {
+      "th": "รพ.บางปะกอก 8 โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": null,
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางบอน",
+      "en": "Bang Bon",
+      "slug": "bang-bon"
+    },
+    "subDistrict": {
+      "th": "บางบอน",
+      "en": "Bang Bon",
+      "slug": "bang-bon"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 48
+  },
+  {
+    "id": "11656",
+    "name": {
+      "th": "รพ.เกษมราษฎร์ บางแค รพ.ทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "024550110"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บางแค",
+      "en": "Bang Khae",
+      "slug": "bang-khae"
+    },
+    "subDistrict": {
+      "th": "บางแคเหนือ",
+      "en": "Bang Khae Nuea",
+      "slug": "bang-khae-nuea"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 153
+  },
+  {
+    "id": "42141",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่นวเวช",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "024839999"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "บึงกุ่ม",
+      "en": "Bueng Kum",
+      "slug": "bueng-kum"
+    },
+    "subDistrict": {
+      "th": "นวลจันทร์",
+      "en": "Nuan Chan",
+      "slug": "nuan-chan"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 129
+  },
+  {
+    "id": "41700",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่ สินแพทย์ ศรีนครินทร์",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "020068888"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ประเวศ",
+      "en": "Prawet",
+      "slug": "prawet"
+    },
+    "subDistrict": {
+      "th": "หนองบอน",
+      "en": "Nong Bon",
+      "slug": "nong-bon"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 114
+  },
+  {
+    "id": "25015",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่มิตรประชา",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "024555599"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ภาษีเจริญ",
+      "en": "Phasi Charoen",
+      "slug": "phasi-charoen"
+    },
+    "subDistrict": {
+      "th": "บางหว้า",
+      "en": "Bang Wa",
+      "slug": "bang-wa"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 92
+  },
+  {
+    "id": "23781",
+    "name": {
+      "th": "นวมินทร์ 9 โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "0251181818"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "มีนบุรี",
+      "en": "Min Buri",
+      "slug": "min-buri"
+    },
+    "subDistrict": {
+      "th": "มีนบุรี",
+      "en": "Min Buri",
+      "slug": "min-buri"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 197
+  },
+  {
+    "id": "11670",
+    "name": {
+      "th": "รพ.บางปะกอก 1 โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "021091111"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ราษฎร์บูรณะ",
+      "en": "Rat Burana",
+      "slug": "rat-burana"
+    },
+    "subDistrict": {
+      "th": "บางปะกอก",
+      "en": "Bang Pa Kok",
+      "slug": "bang-pa-kok"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 109
+  },
+  {
+    "id": "11668",
+    "name": {
+      "th": "รพ.สุขสวัสดิ์โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "0828746767"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ราษฎร์บูรณะ",
+      "en": "Rat Burana",
+      "slug": "rat-burana"
+    },
+    "subDistrict": {
+      "th": "บางปะกอก",
+      "en": "Bang Pa Kok",
+      "slug": "bang-pa-kok"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 173
+  },
+  {
+    "id": "41556",
+    "name": {
+      "th": "รพ.เกษมราษฎร์ รามคำแหงโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "023390000"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "สะพานสูง",
+      "en": "Saphan Sung",
+      "slug": "saphan-sung"
+    },
+    "subDistrict": {
+      "th": "สะพานสูง",
+      "en": "Saphan Sung",
+      "slug": "saphan-sung"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 132
+  },
+  {
+    "id": "14572",
+    "name": {
+      "th": "รพ.บี.แคร์ เมดิคอลเซ็นเตอร์",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "02523335971"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "สายไหม",
+      "en": "Sai Mai",
+      "slug": "sai-mai"
+    },
+    "subDistrict": {
+      "th": "สายไหม",
+      "en": "Sai Mai",
+      "slug": "sai-mai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 211
+  },
+  {
+    "id": "11661",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่วิชัยเวชอินเตอร์เนชั่นแนล หนองแขม",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "028074044",
+      "0242118889"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "หนองแขม",
+      "en": "Nong Khaem",
+      "slug": "nong-khaem"
+    },
+    "subDistrict": {
+      "th": "หนองค้างพลู",
+      "en": "Nong Khang Phlu",
+      "slug": "nong-khang-phlu"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 230
+  },
+  {
+    "id": "11632",
+    "name": {
+      "th": "รพ.ปิยะเวทโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "021295555"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "ห้วยขวาง",
+      "en": "Huai Khwang",
+      "slug": "huai-khwang"
+    },
+    "subDistrict": {
+      "th": "บางกะปิ",
+      "en": "Bang Kapi",
+      "slug": "bang-kapi"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 199
+  },
+  {
+    "id": "42167",
+    "name": {
+      "th": "รพ.วิมุตโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "tel": [
+      "020790000"
+    ],
+    "province": {
+      "th": "กรุงเทพฯ",
+      "en": "Krung Thep Maha Nakhon (Bangkok)",
+      "slug": "krung-thep-maha-nakhon-bangkok"
+    },
+    "district": {
+      "th": "พญาไท",
+      "en": "Phaya Thai",
+      "slug": "phaya-thai"
+    },
+    "subDistrict": {
+      "th": "สามเสนใน",
+      "en": "Sam Sen Nai",
+      "slug": "sam-sen-nai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 5
+  },
+  {
+    "id": "12127",
+    "name": {
+      "th": "รพ.เทพากรโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "nakhon-pathom"
+    },
+    "tel": [
+      "034273463"
+    ],
+    "province": {
+      "th": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    },
+    "district": {
+      "th": "เมืองนครปฐม",
+      "en": "Mueang Nakhon Pathom",
+      "slug": "mueang-nakhon-pathom"
+    },
+    "subDistrict": {
+      "th": "พระปฐมเจดีย์",
+      "en": "Pathom Chedi",
+      "slug": "pathom-chedi"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 114
+  },
+  {
+    "id": "40765",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่เกษมราษฎร์รัตนาธิเบศร์",
+      "slug": "nonthaburi"
+    },
+    "tel": null,
+    "province": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    },
+    "district": {
+      "th": "บางบัวทอง",
+      "en": "Bang Bua Thong",
+      "slug": "bang-bua-thong"
+    },
+    "subDistrict": {
+      "th": "บางรักพัฒนา",
+      "en": "Bang Rak Phatthana",
+      "slug": "bang-rak-phatthana"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 217
+  },
+  {
+    "id": "11787",
+    "name": {
+      "th": "รพ.เกษมราษฎร์อินเตอร์เนชั่นแนล รัตนาธิเบศร์โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "nonthaburi"
+    },
+    "tel": [
+      "02594002065"
+    ],
+    "province": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    },
+    "district": {
+      "th": "บางใหญ่",
+      "en": "Bang Yai",
+      "slug": "bang-yai"
+    },
+    "subDistrict": {
+      "th": "เสาธงหิน",
+      "en": "Sao Thong Hin",
+      "slug": "sao-thong-hin"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 189
+  },
+  {
+    "id": "22179",
+    "name": {
+      "th": "รพ.กรุงไทย",
+      "slug": "nonthaburi"
+    },
+    "tel": [
+      "025822299"
+    ],
+    "province": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    },
+    "district": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    },
+    "subDistrict": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 153
+  },
+  {
+    "id": "28810",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่เวิลด์เมดิคอล",
+      "slug": "nonthaburi"
+    },
+    "tel": null,
+    "province": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    },
+    "district": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    },
+    "subDistrict": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 3
+  },
+  {
+    "id": "11799",
+    "name": {
+      "th": "รพ.การุญเวช ปทุมธานี โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "pathum-thani"
+    },
+    "tel": null,
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "คลองหลวง",
+      "en": "Khlong Luang",
+      "slug": "khlong-luang"
+    },
+    "subDistrict": {
+      "th": "คลองหนึ่ง",
+      "en": "Khlong Nueng",
+      "slug": "khlong-nueng"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 187
+  },
+  {
+    "id": "14354",
+    "name": {
+      "th": "รพ.ภัทร-ธนบุรีโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "pathum-thani"
+    },
+    "tel": null,
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "คลองหลวง",
+      "en": "Khlong Luang",
+      "slug": "khlong-luang"
+    },
+    "subDistrict": {
+      "th": "คลองหนึ่ง",
+      "en": "Khlong Nueng",
+      "slug": "khlong-nueng"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 250
+  },
+  {
+    "id": "42191",
+    "name": {
+      "th": "รพ.เฉพาะประเภทผู้ป่วย ผู้สูงอายุ ขนาดกลาง ธนบุรีบูรณา",
+      "slug": "pathum-thani"
+    },
+    "tel": [
+      "020785777"
+    ],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "คลองหลวง",
+      "en": "Khlong Luang",
+      "slug": "khlong-luang"
+    },
+    "subDistrict": {
+      "th": "คลองหนึ่ง",
+      "en": "Khlong Nueng",
+      "slug": "khlong-nueng"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 159
+  },
+  {
+    "id": "42177",
+    "name": {
+      "th": "รพ.ซีเมดลีฟวิ่งแคร์ โรงพยาบาลทั่วไปขนาดเล็ก",
+      "slug": "pathum-thani"
+    },
+    "tel": [
+      "021992111"
+    ],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "ธัญบุรี",
+      "en": "Thanyaburi",
+      "slug": "thanyaburi"
+    },
+    "subDistrict": {
+      "th": "ประชาธิปัตย์",
+      "en": "Prachathipat",
+      "slug": "prachathipat"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 56
+  },
+  {
+    "id": "11801",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่บางปะกอกรังสิต 2",
+      "slug": "pathum-thani"
+    },
+    "tel": null,
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "ธัญบุรี",
+      "en": "Thanyaburi",
+      "slug": "thanyaburi"
+    },
+    "subDistrict": {
+      "th": "ประชาธิปัตย์",
+      "en": "Prachathipat",
+      "slug": "prachathipat"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 59
+  },
+  {
+    "id": "41685",
+    "name": {
+      "th": "รพ.กรุงไทย ปทุม โรงพยาบาลทั่วไปขนาดเล็ก",
+      "slug": "pathum-thani"
+    },
+    "tel": [
+      "021472565"
+    ],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "เมืองปทุมธานี",
+      "en": "Mueang Pathum Thani",
+      "slug": "mueang-pathum-thani"
+    },
+    "subDistrict": {
+      "th": "บางขะแยง",
+      "en": "Bang Khayaeng",
+      "slug": "bang-khayaeng"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 83
+  },
+  {
+    "id": "14683",
+    "name": {
+      "th": "รพ.กรุงสยามเซนต์คาร์ลอสโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "pathum-thani"
+    },
+    "tel": [
+      "029756701"
+    ],
+    "province": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "district": {
+      "th": "เมืองปทุมธานี",
+      "en": "Mueang Pathum Thani",
+      "slug": "mueang-pathum-thani"
+    },
+    "subDistrict": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "ban-klang"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 62
+  },
+  {
+    "id": "15096",
+    "name": {
+      "th": "รพ.การุญเวช อยุธยาโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "phra-nakhon-si-ayutthaya"
+    },
+    "tel": null,
+    "province": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    },
+    "district": {
+      "th": "บางปะอิน",
+      "en": "Bang Pa-in",
+      "slug": "bang-pa-in"
+    },
+    "subDistrict": {
+      "th": "คลองจิก",
+      "en": "Khlong Chik",
+      "slug": "khlong-chik"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 51
+  },
+  {
+    "id": "42233",
+    "name": {
+      "th": "รพ.เอเชียอินเตอร์เนชั่นแนล โรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "phra-nakhon-si-ayutthaya"
+    },
+    "tel": [
+      "035904478"
+    ],
+    "province": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    },
+    "district": {
+      "th": "บางปะอิน",
+      "en": "Bang Pa-in",
+      "slug": "bang-pa-in"
+    },
+    "subDistrict": {
+      "th": "สามเรือน",
+      "en": "Sam Ruean",
+      "slug": "sam-ruean"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 79
+  },
+  {
+    "id": "24036",
+    "name": {
+      "th": "รพ.บางนา 5",
+      "slug": "samut-prakan"
+    },
+    "tel": [
+      "02138115565",
+      "0855150525"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "บางพลี",
+      "en": "Bang Phli",
+      "slug": "bang-phli"
+    },
+    "subDistrict": {
+      "th": "บางพลีใหญ่",
+      "en": "Blang Phli Yai",
+      "slug": "blang-phli-yai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 123
+  },
+  {
+    "id": "11770",
+    "name": {
+      "th": "รพ.พริ้นซ์สุวรรณภูมิโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "samut-prakan"
+    },
+    "tel": [
+      "020805999"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "บางพลี",
+      "en": "Bang Phli",
+      "slug": "bang-phli"
+    },
+    "subDistrict": {
+      "th": "บางแก้ว",
+      "en": "Bang Kaeo",
+      "slug": "bang-kaeo"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 132
+  },
+  {
+    "id": "11777",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่ บางปะกอก 3",
+      "slug": "samut-prakan"
+    },
+    "tel": [
+      "021093111"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "พระประแดง",
+      "en": "Phra Pradaeng",
+      "slug": "phra-pradaeng"
+    },
+    "subDistrict": {
+      "th": "บางครุ",
+      "en": "Bang Khru",
+      "slug": "bang-khru"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 139
+  },
+  {
+    "id": "41413",
+    "name": {
+      "th": "รพ.บางปะกอกสมุทรปราการโรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "samut-prakan"
+    },
+    "tel": [
+      "021093222"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "พระประแดง",
+      "en": "Phra Pradaeng",
+      "slug": "phra-pradaeng"
+    },
+    "subDistrict": {
+      "th": "บางครุ",
+      "en": "Bang Khru",
+      "slug": "bang-khru"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 32
+  },
+  {
+    "id": "41351",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่สินแพทย์ เทพารักษ์",
+      "slug": "samut-prakan"
+    },
+    "tel": [
+      "027615999"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "เมืองสมุทรปราการ",
+      "en": "Mueang Samut Prakan",
+      "slug": "mueang-samut-prakan"
+    },
+    "subDistrict": {
+      "th": "เทพารักษ์",
+      "en": "Thepharak",
+      "slug": "thepharak"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 68
+  },
+  {
+    "id": "11745",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่ศิครินทร์ สมุทรปราการ",
+      "slug": "samut-prakan"
+    },
+    "tel": [
+      "0232329917"
+    ],
+    "province": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "district": {
+      "th": "เมืองสมุทรปราการ",
+      "en": "Mueang Samut Prakan",
+      "slug": "mueang-samut-prakan"
+    },
+    "subDistrict": {
+      "th": "บางปูใหม่",
+      "en": "Bang Pu Mai",
+      "slug": "bang-pu-mai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 111
+  },
+  {
+    "id": "12144",
+    "name": {
+      "th": "รพ.วิชัยเวช อินเตอร์เนชั่นแนล อ้อมน้อย",
+      "slug": "samut-sakhon"
+    },
+    "tel": [
+      "024417899"
+    ],
+    "province": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    },
+    "district": {
+      "th": "กระทุ่มแบน",
+      "en": "Krathum Baen",
+      "slug": "krathum-baen"
+    },
+    "subDistrict": {
+      "th": "อ้อมน้อย",
+      "en": "Om Noi",
+      "slug": "om-noi"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 222
+  },
+  {
+    "id": "12140",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่วิชัยเวช อินเตอร์เนชั่นแนล สมุทรสาคร",
+      "slug": "samut-sakhon"
+    },
+    "tel": [
+      "03482670929"
+    ],
+    "province": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    },
+    "district": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    },
+    "subDistrict": {
+      "th": "ท่าทราย",
+      "en": "Tha Sai",
+      "slug": "tha-sai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 235
+  },
+  {
+    "id": "23924",
+    "name": {
+      "th": "รพ.มหาชัย 3",
+      "slug": "samut-sakhon"
+    },
+    "tel": [
+      "034429111"
+    ],
+    "province": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    },
+    "district": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    },
+    "subDistrict": {
+      "th": "มหาชัย",
+      "en": "Maha Chai",
+      "slug": "maha-chai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 32
+  },
+  {
+    "id": "22615",
+    "name": {
+      "th": "รพ.เอกชัย",
+      "slug": "samut-sakhon"
+    },
+    "tel": [
+      "034417999"
+    ],
+    "province": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    },
+    "district": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    },
+    "subDistrict": {
+      "th": "มหาชัย",
+      "en": "Maha Chai",
+      "slug": "maha-chai"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 90
+  },
+  {
+    "id": "11833",
+    "name": {
+      "th": "รพ.เกษมราษฏร์ สระบุรีโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "saraburi"
+    },
+    "tel": null,
+    "province": {
+      "th": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi"
+    },
+    "district": {
+      "th": "เมืองสระบุรี",
+      "en": "Mueang Saraburi",
+      "slug": "mueang-saraburi"
+    },
+    "subDistrict": {
+      "th": "ปากเพรียว",
+      "en": "Pak Phriao",
+      "slug": "pak-phriao"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 200
+  },
+  {
+    "id": "12122",
+    "name": {
+      "th": "รพ.ธนบุรีอู่ทอง",
+      "slug": "suphan-buri"
+    },
+    "tel": [
+      "035551673"
+    ],
+    "province": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri"
+    },
+    "district": {
+      "th": "อู่ทอง",
+      "en": "U Thong",
+      "slug": "u-thong"
+    },
+    "subDistrict": {
+      "th": "อู่ทอง",
+      "en": "U Thong",
+      "slug": "u-thong"
+    },
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central",
+      "slug": "central"
+    },
+    "totalBed": 102
+  },
+  {
+    "id": "12110",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่ สินแพทย์ กาญจนบุรี",
+      "slug": "kanchanaburi"
+    },
+    "tel": [
+      "0345209115"
+    ],
+    "province": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    },
+    "district": {
+      "th": "เมืองกาญจนบุรี",
+      "en": "Mueang Kanchanaburi",
+      "slug": "mueang-kanchanaburi"
+    },
+    "subDistrict": {
+      "th": "ท่ามะขาม",
+      "en": "Tha Makham",
+      "slug": "tha-makham"
+    },
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western",
+      "slug": "western"
+    },
+    "totalBed": 79
+  },
+  {
+    "id": "12098",
+    "name": {
+      "th": "รพ.กรุงเทพเมืองราชโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "ratchaburi"
+    },
+    "tel": [
+      "0323227480"
+    ],
+    "province": {
+      "th": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi"
+    },
+    "district": {
+      "th": "เมืองราชบุรี",
+      "en": "Mueang Ratchaburi",
+      "slug": "mueang-ratchaburi"
+    },
+    "subDistrict": {
+      "th": "หน้าเมือง",
+      "en": "Na Mueang",
+      "slug": "na-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western",
+      "slug": "western"
+    },
+    "totalBed": 94
+  },
+  {
+    "id": "14961",
+    "name": {
+      "th": "รพ.กรุงเทพเพชรบุรีโรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "phetchaburi"
+    },
+    "tel": [
+      "032897888"
+    ],
+    "province": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    },
+    "district": {
+      "th": "เมืองเพชรบุรี",
+      "en": "Mueang Phetchaburi",
+      "slug": "mueang-phetchaburi"
+    },
+    "subDistrict": {
+      "th": "ต้นมะม่วง",
+      "en": "Ton Mamuang",
+      "slug": "ton-mamuang"
+    },
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western",
+      "slug": "western"
+    },
+    "totalBed": 232
+  },
+  {
+    "id": "11879",
+    "name": {
+      "th": "รพ.เกษมราษฎร์ ฉะเชิงเทรา โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "chachoengsao"
+    },
+    "tel": [
+      "038812702"
+    ],
+    "province": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    },
+    "district": {
+      "th": "เมืองฉะเชิงเทรา",
+      "en": "Mueang Chachoengsao",
+      "slug": "mueang-chachoengsao"
+    },
+    "subDistrict": {
+      "th": "หน้าเมือง",
+      "en": "Na Mueang",
+      "slug": "na-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 198
+  },
+  {
+    "id": "11845",
+    "name": {
+      "th": "รพ.จุฬารัตน์ ชลเวชโรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "chon-buri"
+    },
+    "tel": [
+      "0382843545"
+    ],
+    "province": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    },
+    "district": {
+      "th": "เมืองชลบุรี",
+      "en": "Mueang Chon Buri",
+      "slug": "mueang-chon-buri"
+    },
+    "subDistrict": {
+      "th": "บางปลาสร้อย",
+      "en": "Bang Pla Soi",
+      "slug": "bang-pla-soi"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 93
+  },
+  {
+    "id": "23207",
+    "name": {
+      "th": "รพ.เอกชล 2",
+      "slug": "chon-buri"
+    },
+    "tel": [
+      "038939888ต่อ5218",
+      "5308"
+    ],
+    "province": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    },
+    "district": {
+      "th": "เมืองชลบุรี",
+      "en": "Mueang Chon Buri",
+      "slug": "mueang-chon-buri"
+    },
+    "subDistrict": {
+      "th": "เสม็ด",
+      "en": "Samet",
+      "slug": "samet"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 0
+  },
+  {
+    "id": "41345",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดกลางจุฬารัตน์ 304 อินเตอร์",
+      "slug": "prachin-buri"
+    },
+    "tel": [
+      "0372186545"
+    ],
+    "province": {
+      "th": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri"
+    },
+    "district": {
+      "th": "ศรีมหาโพธิ",
+      "en": "Si Maha Phot",
+      "slug": "si-maha-phot"
+    },
+    "subDistrict": {
+      "th": "กรอกสมบูรณ์",
+      "en": "Krok Sombun",
+      "slug": "krok-sombun"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 144
+  },
+  {
+    "id": "42025",
+    "name": {
+      "th": "รพ.เกษมราษฎร์ ปราจีนบุรี โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "prachin-buri"
+    },
+    "tel": [
+      "037627000"
+    ],
+    "province": {
+      "th": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri"
+    },
+    "district": {
+      "th": "ศรีมหาโพธิ",
+      "en": "Si Maha Phot",
+      "slug": "si-maha-phot"
+    },
+    "subDistrict": {
+      "th": "ท่าตูม",
+      "en": "Tha Tum",
+      "slug": "tha-tum"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 10
+  },
+  {
+    "id": "14607",
+    "name": {
+      "th": "รพ.มงกุฎระยอง",
+      "slug": "rayong"
+    },
+    "tel": null,
+    "province": {
+      "th": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong"
+    },
+    "district": {
+      "th": "เมืองระยอง",
+      "en": "Mueang Rayong",
+      "slug": "mueang-rayong"
+    },
+    "subDistrict": {
+      "th": "มาบตาพุด",
+      "en": "Map Ta Phut",
+      "slug": "map-ta-phut"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 210
+  },
+  {
+    "id": "41829",
+    "name": {
+      "th": "รพ.เกษมราษฎร์ อินเตอร์เนชั่นแนล อรัญประเทศ โรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "sa-kaeo"
+    },
+    "tel": [
+      "037640000"
+    ],
+    "province": {
+      "th": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo"
+    },
+    "district": {
+      "th": "อรัญประเทศ",
+      "en": "Aranyaprathet",
+      "slug": "aranyaprathet"
+    },
+    "subDistrict": {
+      "th": "บ้านใหม่หนองไทร",
+      "en": "Ban Mai Nong Sai",
+      "slug": "ban-mai-nong-sai"
+    },
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern",
+      "slug": "eastern"
+    },
+    "totalBed": 219
+  },
+  {
+    "id": "41639",
+    "name": {
+      "th": "รพ.กาฬสินธุ์-ธนบุรี โรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "kalasin"
+    },
+    "tel": null,
+    "province": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    },
+    "district": {
+      "th": "เมืองกาฬสินธุ์",
+      "en": "Mueang Kalasin",
+      "slug": "mueang-kalasin"
+    },
+    "subDistrict": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 44
+  },
+  {
+    "id": "41573",
+    "name": {
+      "th": "รพ.ราชพฤกษ์ ขอนแก่น โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "khon-kaen"
+    },
+    "tel": [
+      "043333555"
+    ],
+    "province": {
+      "th": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen"
+    },
+    "district": {
+      "th": "เมืองขอนแก่น",
+      "en": "Mueang Khon Kaen",
+      "slug": "mueang-khon-kaen"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 136
+  },
+  {
+    "id": "11907",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดกลางบุรีรัมย์ ราม",
+      "slug": "buri-ram"
+    },
+    "tel": [
+      "044625340"
+    ],
+    "province": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    },
+    "district": {
+      "th": "เมืองบุรีรัมย์",
+      "en": "Mueang Buri Ram",
+      "slug": "mueang-buri-ram"
+    },
+    "subDistrict": {
+      "th": "ชุมเห็ด",
+      "en": "Chum Het",
+      "slug": "chum-het"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 214
+  },
+  {
+    "id": "11963",
+    "name": {
+      "th": "รพ.ร้อยเอ็ด-ธนบุรี",
+      "slug": "roi-et"
+    },
+    "tel": [
+      "043515191"
+    ],
+    "province": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    },
+    "district": {
+      "th": "เมืองร้อยเอ็ด",
+      "en": "Mueang Roi Et",
+      "slug": "mueang-roi-et"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 84
+  },
+  {
+    "id": "11968",
+    "name": {
+      "th": "รพ.รักษ์สกล",
+      "slug": "sakon-nakhon"
+    },
+    "tel": null,
+    "province": {
+      "th": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon"
+    },
+    "district": {
+      "th": "เมืองสกลนคร",
+      "en": "Mueang Sakon Nakhon",
+      "slug": "mueang-sakon-nakhon"
+    },
+    "subDistrict": {
+      "th": "ธาตุเชิงชุม",
+      "en": "That Choeng Chum",
+      "slug": "that-choeng-chum"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 34
+  },
+  {
+    "id": "11957",
+    "name": {
+      "th": "รพ.หนองคายวัฒนา",
+      "slug": "nong-khai"
+    },
+    "tel": [
+      "0422465201"
+    ],
+    "province": {
+      "th": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai"
+    },
+    "district": {
+      "th": "เมืองหนองคาย",
+      "en": "Mueang Nong Khai",
+      "slug": "mueang-nong-khai"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 175
+  },
+  {
+    "id": "11939",
+    "name": {
+      "th": "รพ.นอร์ทอีสเทอร์นวัฒนา",
+      "slug": "udon-thani"
+    },
+    "tel": [
+      "042325999"
+    ],
+    "province": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani"
+    },
+    "district": {
+      "th": "เมืองอุดรธานี",
+      "en": "Mueang Udon Thani",
+      "slug": "mueang-udon-thani"
+    },
+    "subDistrict": {
+      "th": "หมากแข้ง",
+      "en": "Mak Khaeng",
+      "slug": "mak-khaeng"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 62
+  },
+  {
+    "id": "11918",
+    "name": {
+      "th": "รพ.เอกชนร่มเกล้า",
+      "slug": "ubon-ratchathani"
+    },
+    "tel": [
+      "0454465960"
+    ],
+    "province": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    },
+    "district": {
+      "th": "เมืองอุบลราชธานี",
+      "en": "Mueang Ubon Ratchathani",
+      "slug": "mueang-ubon-ratchathani"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 161
+  },
+  {
+    "id": "40864",
+    "name": {
+      "th": "พริ้นซ์ อุบลราชธานี โรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "ubon-ratchathani"
+    },
+    "tel": [
+      "0452502713"
+    ],
+    "province": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    },
+    "district": {
+      "th": "เมืองอุบลราชธานี",
+      "en": "Mueang Ubon Ratchathani",
+      "slug": "mueang-ubon-ratchathani"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 22
+  },
+  {
+    "id": "11919",
+    "name": {
+      "th": "รพ.อุบลรักษ์ธนบุรี",
+      "slug": "ubon-ratchathani"
+    },
+    "tel": [
+      "045429100"
+    ],
+    "province": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    },
+    "district": {
+      "th": "เมืองอุบลราชธานี",
+      "en": "Mueang Ubon Ratchathani",
+      "slug": "mueang-ubon-ratchathani"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 177
+  },
+  {
+    "id": "11955",
+    "name": {
+      "th": "รพ.เมืองเลยราม",
+      "slug": "loei"
+    },
+    "tel": [
+      "042833400"
+    ],
+    "province": {
+      "th": "เลย",
+      "en": "Loei",
+      "slug": "loei"
+    },
+    "district": {
+      "th": "เมืองเลย",
+      "en": "Mueang Loei",
+      "slug": "mueang-loei"
+    },
+    "subDistrict": {
+      "th": "นาอาน",
+      "en": "Na An",
+      "slug": "na-an"
+    },
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "North Eastern",
+      "slug": "north-eastern"
+    },
+    "totalBed": 192
+  },
+  {
+    "id": "12030",
+    "name": {
+      "th": "โรงพยาบาลพริ้นซ์ ปากน้ำโพ 1",
+      "slug": "nakhon-sawan"
+    },
+    "tel": null,
+    "province": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    },
+    "district": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    },
+    "subDistrict": {
+      "th": "นครสวรรค์ตก",
+      "en": "Nakhon Sawan Tok",
+      "slug": "nakhon-sawan-tok"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 48
+  },
+  {
+    "id": "12044",
+    "name": {
+      "th": "รพ.ศรีสวรรค์",
+      "slug": "nakhon-sawan"
+    },
+    "tel": [
+      "056311626"
+    ],
+    "province": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    },
+    "district": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    },
+    "subDistrict": {
+      "th": "ปากน้ำโพ",
+      "en": "Pak Nam Pho",
+      "slug": "pak-nam-pho"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 240
+  },
+  {
+    "id": "12034",
+    "name": {
+      "th": "โรงพยาบาลพริ้นซ์ ปากน้ำโพ 2",
+      "slug": "nakhon-sawan"
+    },
+    "tel": [
+      "056000111"
+    ],
+    "province": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    },
+    "district": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    },
+    "subDistrict": {
+      "th": "ปากน้ำโพ",
+      "en": "Pak Nam Pho",
+      "slug": "pak-nam-pho"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 8
+  },
+  {
+    "id": "12020",
+    "name": {
+      "th": "รพ.พะเยาราม",
+      "slug": "phayao"
+    },
+    "tel": null,
+    "province": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    },
+    "district": {
+      "th": "เมืองพะเยา",
+      "en": "Mueang Phayao",
+      "slug": "mueang-phayao"
+    },
+    "subDistrict": {
+      "th": "ท่าวังทอง",
+      "en": "Tha Wang Thong",
+      "slug": "tha-wang-thong"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 235
+  },
+  {
+    "id": "23942",
+    "name": {
+      "th": "รพ.ชัยอรุณเวชการ",
+      "slug": "phichit"
+    },
+    "tel": [
+      "056651407"
+    ],
+    "province": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    },
+    "district": {
+      "th": "เมืองพิจิตร",
+      "en": "Mueang Phichit",
+      "slug": "mueang-phichit"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 242
+  },
+  {
+    "id": "12071",
+    "name": {
+      "th": "รพ.พิษณุเวช พิจิตร โรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "phichit"
+    },
+    "tel": [
+      "056613316"
+    ],
+    "province": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    },
+    "district": {
+      "th": "เมืองพิจิตร",
+      "en": "Mueang Phichit",
+      "slug": "mueang-phichit"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 145
+  },
+  {
+    "id": "12069",
+    "name": {
+      "th": "รพ.พิษณุเวช",
+      "slug": "phitsanulok"
+    },
+    "tel": null,
+    "province": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    },
+    "district": {
+      "th": "เมืองพิษณุโลก",
+      "en": "Mueang Phitsanulok",
+      "slug": "mueang-phitsanulok"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 88
+  },
+  {
+    "id": "12000",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่หริภุญชัย เมโมเรียล",
+      "slug": "lamphun"
+    },
+    "tel": [
+      "0535816004"
+    ],
+    "province": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    },
+    "district": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    },
+    "subDistrict": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "ban-klang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 181
+  },
+  {
+    "id": "42015",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดกลางลำพูนใกล้หมอ",
+      "slug": "lamphun"
+    },
+    "tel": null,
+    "province": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    },
+    "district": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    },
+    "subDistrict": {
+      "th": "มะเขือแจ้",
+      "en": "Makhuea Chae",
+      "slug": "makhuea-chae"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 163
+  },
+  {
+    "id": "42186",
+    "name": {
+      "th": "พริ้นซ์ ลำพูนโรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "lamphun"
+    },
+    "tel": [
+      "053582888"
+    ],
+    "province": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    },
+    "district": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    },
+    "subDistrict": {
+      "th": "เวียงยอง",
+      "en": "Wiang Yong",
+      "slug": "wiang-yong"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 173
+  },
+  {
+    "id": "41622",
+    "name": {
+      "th": "รพ.พิษณุเวช อุตรดิตถ์ โรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "uttaradit"
+    },
+    "tel": [
+      "055409000"
+    ],
+    "province": {
+      "th": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit"
+    },
+    "district": {
+      "th": "เมืองอุตรดิตถ์",
+      "en": "Mueang Uttaradit",
+      "slug": "mueang-uttaradit"
+    },
+    "subDistrict": {
+      "th": "ป่าเซ่า",
+      "en": "Pa Sao",
+      "slug": "pa-sao"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 157
+  },
+  {
+    "id": "12026",
+    "name": {
+      "th": "รพ.เกษมราษฎร์ศรีบุรินทร์",
+      "slug": "chiang-rai"
+    },
+    "tel": [
+      "053717499"
+    ],
+    "province": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    },
+    "district": {
+      "th": "เมืองเชียงราย",
+      "en": "Mueang Chiang Rai",
+      "slug": "mueang-chiang-rai"
+    },
+    "subDistrict": {
+      "th": "สันทราย",
+      "en": "San Sai",
+      "slug": "san-sai"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 15
+  },
+  {
+    "id": "11992",
+    "name": {
+      "th": "รพ.เทพปัญญา 2 โรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "chiang-mai"
+    },
+    "tel": [
+      "05322002227"
+    ],
+    "province": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    },
+    "district": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    },
+    "subDistrict": {
+      "th": "ศรีภูมิ",
+      "en": "Si Phum",
+      "slug": "si-phum"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 134
+  },
+  {
+    "id": "42244",
+    "name": {
+      "th": "โรงพยาบาลทั่วไปขนาดเล็ก เอ็ม ที อินเตอร์เมด",
+      "slug": "chiang-mai"
+    },
+    "tel": null,
+    "province": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    },
+    "district": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    },
+    "subDistrict": {
+      "th": "หนองป่าครั่ง",
+      "en": "Nong Pa Khrang",
+      "slug": "nong-pa-khrang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 136
+  },
+  {
+    "id": "11982",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่ลานนา",
+      "slug": "chiang-mai"
+    },
+    "tel": [
+      "053999777"
+    ],
+    "province": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    },
+    "district": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    },
+    "subDistrict": {
+      "th": "ป่าตัน",
+      "en": "Pa Tan",
+      "slug": "pa-tan"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 191
+  },
+  {
+    "id": "11994",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดใหญ่เทพปัญญา",
+      "slug": "chiang-mai"
+    },
+    "tel": null,
+    "province": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    },
+    "district": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    },
+    "subDistrict": {
+      "th": "ฟ้าฮ่าม",
+      "en": "Fa Ham",
+      "slug": "fa-ham"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 27
+  },
+  {
+    "id": "12079",
+    "name": {
+      "th": "รพ.เพชรรัตน์",
+      "slug": "phetchabun"
+    },
+    "tel": [
+      "056720680"
+    ],
+    "province": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    },
+    "district": {
+      "th": "เมืองเพชรบูรณ์",
+      "en": "Mueang Phetchabun",
+      "slug": "mueang-phetchabun"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 92
+  },
+  {
+    "id": "22343",
+    "name": {
+      "th": "รพ.แพร่-รามโรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "phrae"
+    },
+    "tel": [
+      "054522911"
+    ],
+    "province": {
+      "th": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae"
+    },
+    "district": {
+      "th": "เมืองแพร่",
+      "en": "Mueang Phrae",
+      "slug": "mueang-phrae"
+    },
+    "subDistrict": {
+      "th": "ในเวียง",
+      "en": "Nai Wiang",
+      "slug": "nai-wiang"
+    },
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern",
+      "slug": "northern"
+    },
+    "totalBed": 234
+  },
+  {
+    "id": "12204",
+    "name": {
+      "th": "รพ.วิรัชศิลป์ ชุมพร",
+      "slug": "chumphon"
+    },
+    "tel": [
+      "077542555"
+    ],
+    "province": {
+      "th": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon"
+    },
+    "district": {
+      "th": "เมืองชุมพร",
+      "en": "Mueang Chumphon",
+      "slug": "mueang-chumphon"
+    },
+    "subDistrict": {
+      "th": "ท่าตะเภา",
+      "en": "Tha Taphao",
+      "slug": "tha-taphao"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 143
+  },
+  {
+    "id": "14534",
+    "name": {
+      "th": "รพ.ธนบุรี-ชุมพร",
+      "slug": "chumphon"
+    },
+    "tel": [
+      "077658555"
+    ],
+    "province": {
+      "th": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon"
+    },
+    "district": {
+      "th": "เมืองชุมพร",
+      "en": "Mueang Chumphon",
+      "slug": "mueang-chumphon"
+    },
+    "subDistrict": {
+      "th": "วังไผ่",
+      "en": "Wang Phai",
+      "slug": "wang-phai"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 234
+  },
+  {
+    "id": "12230",
+    "name": {
+      "th": "รพ.ทีอาร์พีเอช โรงพยาบาลทั่วไปขนาดใหญ่",
+      "slug": "trang"
+    },
+    "tel": null,
+    "province": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    },
+    "district": {
+      "th": "เมืองตรัง",
+      "en": "Mueang Trang",
+      "slug": "mueang-trang"
+    },
+    "subDistrict": {
+      "th": "ทับเที่ยง",
+      "en": "Thap Thiang",
+      "slug": "thap-thiang"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 50
+  },
+  {
+    "id": "41714",
+    "name": {
+      "th": "รพ.ธนบุรี ทุ่งสง โรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "nakhon-si-thammarat"
+    },
+    "tel": [
+      "075808888"
+    ],
+    "province": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    },
+    "district": {
+      "th": "ทุ่งสง",
+      "en": "Thung Song",
+      "slug": "thung-song"
+    },
+    "subDistrict": {
+      "th": "ชะมาย",
+      "en": "Chamai",
+      "slug": "chamai"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 134
+  },
+  {
+    "id": "12169",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดกลางนครคริสเตียน",
+      "slug": "nakhon-si-thammarat"
+    },
+    "tel": [
+      "0820630551",
+      "075356214"
+    ],
+    "province": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    },
+    "district": {
+      "th": "เมืองนครศรีธรรมราช",
+      "en": "Mueang Nakhon Si Thammarat",
+      "slug": "mueang-nakhon-si-thammarat"
+    },
+    "subDistrict": {
+      "th": "คลัง",
+      "en": "Khlang",
+      "slug": "khlang"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 90
+  },
+  {
+    "id": "23875",
+    "name": {
+      "th": "รพ.นครพัฒน์",
+      "slug": "nakhon-si-thammarat"
+    },
+    "tel": [
+      "075305999"
+    ],
+    "province": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    },
+    "district": {
+      "th": "เมืองนครศรีธรรมราช",
+      "en": "Mueang Nakhon Si Thammarat",
+      "slug": "mueang-nakhon-si-thammarat"
+    },
+    "subDistrict": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 209
+  },
+  {
+    "id": "41342",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดเล็กสิโรรส ปัตตานี",
+      "slug": "pattani"
+    },
+    "tel": [
+      "073348100"
+    ],
+    "province": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    },
+    "district": {
+      "th": "เมืองปัตตานี",
+      "en": "Mueang Pattani",
+      "slug": "mueang-pattani"
+    },
+    "subDistrict": {
+      "th": "รูสะมิแล",
+      "en": "Ru Samilae",
+      "slug": "ru-samilae"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 182
+  },
+  {
+    "id": "40979",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดกลางดีบุก",
+      "slug": "phuket"
+    },
+    "tel": [
+      "076298298"
+    ],
+    "province": {
+      "th": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket"
+    },
+    "district": {
+      "th": "เมืองภูเก็ต",
+      "en": "Mueang Phuket",
+      "slug": "mueang-phuket"
+    },
+    "subDistrict": {
+      "th": "วิชิต",
+      "en": "Wichit",
+      "slug": "wichit"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 96
+  },
+  {
+    "id": "12185",
+    "name": {
+      "th": "รพ.มิชชั่นภูเก็ตโรงพยาบาลทั่วไปขนาดกลาง",
+      "slug": "phuket"
+    },
+    "tel": [
+      "076212386"
+    ],
+    "province": {
+      "th": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket"
+    },
+    "district": {
+      "th": "เมืองภูเก็ต",
+      "en": "Mueang Phuket",
+      "slug": "mueang-phuket"
+    },
+    "subDistrict": {
+      "th": "รัษฎา",
+      "en": "Ratsada",
+      "slug": "ratsada"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 234
+  },
+  {
+    "id": "12238",
+    "name": {
+      "th": "รพ.ทั่วไปขนาดกลางสิโรรส ยะลา",
+      "slug": "yala"
+    },
+    "tel": [
+      "073221114"
+    ],
+    "province": {
+      "th": "ยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    },
+    "district": {
+      "th": "เมืองยะลา",
+      "en": "Mueang Yala",
+      "slug": "mueang-yala"
+    },
+    "subDistrict": {
+      "th": "สะเตง",
+      "en": "Sateng",
+      "slug": "sateng"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 53
+  },
+  {
+    "id": "12222",
+    "name": {
+      "th": "รพ.ราษฎร์ยินดี",
+      "slug": "songkhla"
+    },
+    "tel": null,
+    "province": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    },
+    "district": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    },
+    "subDistrict": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 138
+  },
+  {
+    "id": "12221",
+    "name": {
+      "th": "รพ.ศิครินทร์หาดใหญ่",
+      "slug": "songkhla"
+    },
+    "tel": [
+      "074366966"
+    ],
+    "province": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    },
+    "district": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    },
+    "subDistrict": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    },
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern",
+      "slug": "southern"
+    },
+    "totalBed": 214
+  }
+]

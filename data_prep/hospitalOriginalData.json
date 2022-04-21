@@ -1,0 +1,1013 @@
+[
+  {
+    "hospitalName": "รพ.กล้วยน้ำไท",
+    "tel": "027692000",
+    "district": "คลองเตย",
+    "subDistrict": "พระโขนง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%84%E0%B8%97+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11583",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 111
+  },
+  {
+    "hospitalName": "วิภาวดี โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "025611111,029412900,029412800",
+    "district": "จตุจักร",
+    "subDistrict": "ลาดยาว",
+    "map": "https://www.google.com/maps/place/%E0%B8%A7%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B5%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11691",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 230
+  },
+  {
+    "hospitalName": "รพ.ขนาดเล็กบางขุนเทียน1",
+    "tel": "0247722903",
+    "district": "จอมทอง",
+    "subDistrict": "บางค้อ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%991+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11706",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 15
+  },
+  {
+    "hospitalName": "รพ.บางปะกอก 9 อินเตอร์เนชั่นแนลโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "028771111",
+    "district": "จอมทอง",
+    "subDistrict": "บางมด",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%209%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "21339",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 200
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่ธนบุรี 2",
+    "tel": "",
+    "district": "ทวีวัฒนา",
+    "subDistrict": "ศาลาธรรมสพน์",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%202+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11640",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 435
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดกลางโรงพยาบาลวิชัยเวช แยกไฟฉาย",
+    "tel": "02412005560",
+    "district": "บางกอกน้อย",
+    "subDistrict": "ช่างหล่อ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B9%84%E0%B8%9F%E0%B8%89%E0%B8%B2%E0%B8%A2+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11641",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 100
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่ พีเอ็มจี",
+    "tel": "024514920",
+    "district": "บางขุนเทียน",
+    "subDistrict": "แสมดำ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B8%88%E0%B8%B5+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11647",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 500
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่เกษมราษฎร์ประชาชื่น",
+    "tel": "02910160049",
+    "district": "บางซื่อ",
+    "subDistrict": "บางซื่อ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%99+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11687",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 467
+  },
+  {
+    "hospitalName": "รพ.บางโพ โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "025870144",
+    "district": "บางซื่อ",
+    "subDistrict": "บางซื่อ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%9E%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11686",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 300
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่ศิครินทร์",
+    "tel": "02366990099",
+    "district": "บางนา",
+    "subDistrict": "บางนาใต้",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A8%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11582",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 200
+  },
+  {
+    "hospitalName": "รพ.บางปะกอก 8 โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "",
+    "district": "บางบอน",
+    "subDistrict": "บางบอน",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%208%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "15147",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ",
+    "total_bed": 250
+  },
+  {
+    "hospitalName": "รพ.เกษมราษฎร์ บางแค รพ.ทั่วไปขนาดใหญ่",
+    "tel": "024550110",
+    "district": "บางแค",
+    "subDistrict": "บางแคเหนือ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%20%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%84%20%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11656",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่นวเวช",
+    "tel": "024839999",
+    "district": "บึงกุ่ม",
+    "subDistrict": "นวลจันทร์",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%99%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%8A+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "42141",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่ สินแพทย์ ศรีนครินทร์",
+    "tel": "020068888",
+    "district": "ประเวศ",
+    "subDistrict": "หนองบอน",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%20%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "41700",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่มิตรประชา",
+    "tel": "024555599",
+    "district": "ภาษีเจริญ",
+    "subDistrict": "บางหว้า",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "25015",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "นวมินทร์ 9 โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "0251181818",
+    "district": "มีนบุรี",
+    "subDistrict": "มีนบุรี",
+    "map": "https://www.google.com/maps/place/%E0%B8%99%E0%B8%A7%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%209%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "23781",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.บางปะกอก 1 โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "021091111",
+    "district": "ราษฎร์บูรณะ",
+    "subDistrict": "บางปะกอก",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%201%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11670",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.สุขสวัสดิ์โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "0828746767",
+    "district": "ราษฎร์บูรณะ",
+    "subDistrict": "บางปะกอก",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11668",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.เกษมราษฎร์ รามคำแหงโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "023390000",
+    "district": "สะพานสูง",
+    "subDistrict": "สะพานสูง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%20%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%AB%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "41556",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.บี.แคร์ เมดิคอลเซ็นเตอร์",
+    "tel": "02523335971",
+    "district": "สายไหม",
+    "subDistrict": "สายไหม",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B5.%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%8C%20%E0%B9%80%E0%B8%A1%E0%B8%94%E0%B8%B4%E0%B8%84%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "14572",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่วิชัยเวชอินเตอร์เนชั่นแนล หนองแขม",
+    "tel": "028074044,0242118889",
+    "district": "หนองแขม",
+    "subDistrict": "หนองค้างพลู",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%82%E0%B8%A1+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11661",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.ปิยะเวทโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "021295555",
+    "district": "ห้วยขวาง",
+    "subDistrict": "บางกะปิ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "11632",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.วิมุตโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "020790000",
+    "district": "พญาไท",
+    "subDistrict": "สามเสนใน",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%B8%E0%B8%95%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%AF/@-,-,13z",
+    "id": "42167",
+    "region": "ภาคกลาง",
+    "province": "กรุงเทพฯ"
+  },
+  {
+    "hospitalName": "รพ.เทพากรโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "034273463",
+    "district": "เมืองนครปฐม",
+    "subDistrict": "พระปฐมเจดีย์",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9B%E0%B8%90%E0%B8%A1/@-,-,13z",
+    "id": "12127",
+    "region": "ภาคกลาง",
+    "province": "นครปฐม"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่เกษมราษฎร์รัตนาธิเบศร์",
+    "tel": "",
+    "district": "บางบัวทอง",
+    "subDistrict": "บางรักพัฒนา",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%A8%E0%B8%A3%E0%B9%8C+%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "40765",
+    "region": "ภาคกลาง",
+    "province": "นนทบุรี"
+  },
+  {
+    "hospitalName": "รพ.เกษมราษฎร์อินเตอร์เนชั่นแนล รัตนาธิเบศร์โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "02594002065",
+    "district": "บางใหญ่",
+    "subDistrict": "เสาธงหิน",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B9%80%E0%B8%9A%E0%B8%A8%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "11787",
+    "region": "ภาคกลาง",
+    "province": "นนทบุรี"
+  },
+  {
+    "hospitalName": "รพ.กรุงไทย",
+    "tel": "025822299",
+    "district": "ปากเกร็ด",
+    "subDistrict": "ปากเกร็ด",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2+%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "22179",
+    "region": "ภาคกลาง",
+    "province": "นนทบุรี"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่เวิลด์เมดิคอล",
+    "tel": "",
+    "district": "ปากเกร็ด",
+    "subDistrict": "ปากเกร็ด",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%94%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%94%E0%B8%B4%E0%B8%84%E0%B8%AD%E0%B8%A5+%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "28810",
+    "region": "ภาคกลาง",
+    "province": "นนทบุรี"
+  },
+  {
+    "hospitalName": "รพ.การุญเวช ปทุมธานี โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "",
+    "district": "คลองหลวง",
+    "subDistrict": "คลองหนึ่ง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "11799",
+    "region": "ภาคกลาง",
+    "province": "ปทุมธานี"
+  },
+  {
+    "hospitalName": "รพ.ภัทร-ธนบุรีโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "",
+    "district": "คลองหลวง",
+    "subDistrict": "คลองหนึ่ง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3-%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "14354",
+    "region": "ภาคกลาง",
+    "province": "ปทุมธานี"
+  },
+  {
+    "hospitalName": "รพ.เฉพาะประเภทผู้ป่วย ผู้สูงอายุ ขนาดกลาง ธนบุรีบูรณา",
+    "tel": "020785777",
+    "district": "คลองหลวง",
+    "subDistrict": "คลองหนึ่ง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%89%E0%B8%9E%E0%B8%B2%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%A2%20%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%20%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%20%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B8%B2+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "42191",
+    "region": "ภาคกลาง",
+    "province": "ปทุมธานี"
+  },
+  {
+    "hospitalName": "รพ.ซีเมดลีฟวิ่งแคร์ โรงพยาบาลทั่วไปขนาดเล็ก",
+    "tel": "021992111",
+    "district": "ธัญบุรี",
+    "subDistrict": "ประชาธิปัตย์",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%8B%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%94%E0%B8%A5%E0%B8%B5%E0%B8%9F%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B9%8C%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "42177",
+    "region": "ภาคกลาง",
+    "province": "ปทุมธานี"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่บางปะกอกรังสิต 2",
+    "tel": "",
+    "district": "ธัญบุรี",
+    "subDistrict": "ประชาธิปัตย์",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%95%202+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "11801",
+    "region": "ภาคกลาง",
+    "province": "ปทุมธานี"
+  },
+  {
+    "hospitalName": "รพ.กรุงไทย ปทุม โรงพยาบาลทั่วไปขนาดเล็ก",
+    "tel": "021472565",
+    "district": "เมืองปทุมธานี",
+    "subDistrict": "บางขะแยง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%20%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "41685",
+    "region": "ภาคกลาง",
+    "province": "ปทุมธานี"
+  },
+  {
+    "hospitalName": "รพ.กรุงสยามเซนต์คาร์ลอสโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "029756701",
+    "district": "เมืองปทุมธานี",
+    "subDistrict": "บ้านกลาง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%AD%E0%B8%AA%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "14683",
+    "region": "ภาคกลาง",
+    "province": "ปทุมธานี"
+  },
+  {
+    "hospitalName": "รพ.การุญเวช อยุธยาโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "",
+    "district": "บางปะอิน",
+    "subDistrict": "คลองจิก",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2/@-,-,13z",
+    "id": "15096",
+    "region": "ภาคกลาง",
+    "province": "พระนครศรีอยุธยา"
+  },
+  {
+    "hospitalName": "รพ.เอเชียอินเตอร์เนชั่นแนล โรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "035904478",
+    "district": "บางปะอิน",
+    "subDistrict": "สามเรือน",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2/@-,-,13z",
+    "id": "42233",
+    "region": "ภาคกลาง",
+    "province": "พระนครศรีอยุธยา"
+  },
+  {
+    "hospitalName": "รพ.บางนา 5",
+    "tel": "02138115565,0855150525",
+    "district": "บางพลี",
+    "subDistrict": "บางพลีใหญ่",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%B2%205+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
+    "id": "24036",
+    "region": "ภาคกลาง",
+    "province": "สมุทรปราการ"
+  },
+  {
+    "hospitalName": "รพ.พริ้นซ์สุวรรณภูมิโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "020805999",
+    "district": "บางพลี",
+    "subDistrict": "บางแก้ว",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%8B%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
+    "id": "11770",
+    "region": "ภาคกลาง",
+    "province": "สมุทรปราการ"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่ บางปะกอก 3",
+    "tel": "021093111",
+    "district": "พระประแดง",
+    "subDistrict": "บางครุ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%203+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
+    "id": "11777",
+    "region": "ภาคกลาง",
+    "province": "สมุทรปราการ"
+  },
+  {
+    "hospitalName": "รพ.บางปะกอกสมุทรปราการโรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "021093222",
+    "district": "พระประแดง",
+    "subDistrict": "บางครุ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
+    "id": "41413",
+    "region": "ภาคกลาง",
+    "province": "สมุทรปราการ"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่สินแพทย์ เทพารักษ์",
+    "tel": "027615999",
+    "district": "เมืองสมุทรปราการ",
+    "subDistrict": "เทพารักษ์",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%20%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
+    "id": "41351",
+    "region": "ภาคกลาง",
+    "province": "สมุทรปราการ"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่ศิครินทร์ สมุทรปราการ",
+    "tel": "0232329917",
+    "district": "เมืองสมุทรปราการ",
+    "subDistrict": "บางปูใหม่",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A8%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/@-,-,13z",
+    "id": "11745",
+    "region": "ภาคกลาง",
+    "province": "สมุทรปราการ"
+  },
+  {
+    "hospitalName": "รพ.วิชัยเวช อินเตอร์เนชั่นแนล อ้อมน้อย",
+    "tel": "024417899",
+    "district": "กระทุ่มแบน",
+    "subDistrict": "อ้อมน้อย",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3/@-,-,13z",
+    "id": "12144",
+    "region": "ภาคกลาง",
+    "province": "สมุทรสาคร"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่วิชัยเวช อินเตอร์เนชั่นแนล สมุทรสาคร",
+    "tel": "03482670929",
+    "district": "เมืองสมุทรสาคร",
+    "subDistrict": "ท่าทราย",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3/@-,-,13z",
+    "id": "12140",
+    "region": "ภาคกลาง",
+    "province": "สมุทรสาคร"
+  },
+  {
+    "hospitalName": "รพ.มหาชัย 3",
+    "tel": "034429111",
+    "district": "เมืองสมุทรสาคร",
+    "subDistrict": "มหาชัย",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%A2%203+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3/@-,-,13z",
+    "id": "23924",
+    "region": "ภาคกลาง",
+    "province": "สมุทรสาคร"
+  },
+  {
+    "hospitalName": "รพ.เอกชัย",
+    "tel": "034417999",
+    "district": "เมืองสมุทรสาคร",
+    "subDistrict": "มหาชัย",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B8%A2+%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3/@-,-,13z",
+    "id": "22615",
+    "region": "ภาคกลาง",
+    "province": "สมุทรสาคร"
+  },
+  {
+    "hospitalName": "รพ.เกษมราษฏร์ สระบุรีโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "",
+    "district": "เมืองสระบุรี",
+    "subDistrict": "ปากเพรียว",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8F%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "11833",
+    "region": "ภาคกลาง",
+    "province": "สระบุรี"
+  },
+  {
+    "hospitalName": "รพ.ธนบุรีอู่ทอง",
+    "tel": "035551673",
+    "district": "อู่ทอง",
+    "subDistrict": "อู่ทอง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%AD%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%87+%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "12122",
+    "region": "ภาคกลาง",
+    "province": "สุพรรณบุรี"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่ สินแพทย์ กาญจนบุรี",
+    "tel": "0345209115",
+    "district": "เมืองกาญจนบุรี",
+    "subDistrict": "ท่ามะขาม",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%20%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%20%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5+%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "12110",
+    "region": "ภาคตะวันตก",
+    "province": "กาญจนบุรี"
+  },
+  {
+    "hospitalName": "รพ.กรุงเทพเมืองราชโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "0323227480",
+    "district": "เมืองราชบุรี",
+    "subDistrict": "หน้าเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "12098",
+    "region": "ภาคตะวันตก",
+    "province": "ราชบุรี"
+  },
+  {
+    "hospitalName": "รพ.กรุงเทพเพชรบุรีโรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "032897888",
+    "district": "เมืองเพชรบุรี",
+    "subDistrict": "ต้นมะม่วง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "14961",
+    "region": "ภาคตะวันตก",
+    "province": "เพชรบุรี"
+  },
+  {
+    "hospitalName": "รพ.เกษมราษฎร์ ฉะเชิงเทรา โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "038812702",
+    "district": "เมืองฉะเชิงเทรา",
+    "subDistrict": "หน้าเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%20%E0%B8%89%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%B2%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%89%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%B2/@-,-,13z",
+    "id": "11879",
+    "region": "ภาคตะวันออก",
+    "province": "ฉะเชิงเทรา"
+  },
+  {
+    "hospitalName": "รพ.จุฬารัตน์ ชลเวชโรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "0382843545",
+    "district": "เมืองชลบุรี",
+    "subDistrict": "บางปลาสร้อย",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%20%E0%B8%8A%E0%B8%A5%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%8A%E0%B8%A5%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "11845",
+    "region": "ภาคตะวันออก",
+    "province": "ชลบุรี"
+  },
+  {
+    "hospitalName": "รพ.เอกชล 2",
+    "tel": "038939888ต่อ5218,5308",
+    "district": "เมืองชลบุรี",
+    "subDistrict": "เสม็ด",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%A5%202+%E0%B8%8A%E0%B8%A5%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "23207",
+    "region": "ภาคตะวันออก",
+    "province": "ชลบุรี"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดกลางจุฬารัตน์ 304 อินเตอร์",
+    "tel": "0372186545",
+    "district": "ศรีมหาโพธิ",
+    "subDistrict": "กรอกสมบูรณ์",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%20304%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C+%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "41345",
+    "region": "ภาคตะวันออก",
+    "province": "ปราจีนบุรี"
+  },
+  {
+    "hospitalName": "รพ.เกษมราษฎร์ ปราจีนบุรี โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "037627000",
+    "district": "ศรีมหาโพธิ",
+    "subDistrict": "ท่าตูม",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%20%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B5%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5/@-,-,13z",
+    "id": "42025",
+    "region": "ภาคตะวันออก",
+    "province": "ปราจีนบุรี"
+  },
+  {
+    "hospitalName": "รพ.มงกุฎระยอง",
+    "tel": "",
+    "district": "เมืองระยอง",
+    "subDistrict": "มาบตาพุด",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A1%E0%B8%87%E0%B8%81%E0%B8%B8%E0%B8%8E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%AD%E0%B8%87+%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%AD%E0%B8%87/@-,-,13z",
+    "id": "14607",
+    "region": "ภาคตะวันออก",
+    "province": "ระยอง"
+  },
+  {
+    "hospitalName": "รพ.เกษมราษฎร์ อินเตอร์เนชั่นแนล อรัญประเทศ โรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "037640000",
+    "district": "อรัญประเทศ",
+    "subDistrict": "บ้านใหม่หนองไทร",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5%20%E0%B8%AD%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7/@-,-,13z",
+    "id": "41829",
+    "region": "ภาคตะวันออก",
+    "province": "สระแก้ว"
+  },
+  {
+    "hospitalName": "รพ.กาฬสินธุ์-ธนบุรี โรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "",
+    "district": "เมืองกาฬสินธุ์",
+    "subDistrict": "กาฬสินธุ์",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C-%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%81%E0%B8%B2%E0%B8%AC%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C/@-,-,13z",
+    "id": "41639",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "กาฬสินธุ์"
+  },
+  {
+    "hospitalName": "รพ.ราชพฤกษ์ ขอนแก่น โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "043333555",
+    "district": "เมืองขอนแก่น",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C%20%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%82%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%81%E0%B9%88%E0%B8%99/@-,-,13z",
+    "id": "41573",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "ขอนแก่น"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดกลางบุรีรัมย์ ราม",
+    "tel": "044625340",
+    "district": "เมืองบุรีรัมย์",
+    "subDistrict": "ชุมเห็ด",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C%20%E0%B8%A3%E0%B8%B2%E0%B8%A1+%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B8%A2%E0%B9%8C/@-,-,13z",
+    "id": "11907",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "บุรีรัมย์"
+  },
+  {
+    "hospitalName": "รพ.ร้อยเอ็ด-ธนบุรี",
+    "tel": "043515191",
+    "district": "เมืองร้อยเอ็ด",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%94-%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5+%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%94/@-,-,13z",
+    "id": "11963",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "ร้อยเอ็ด"
+  },
+  {
+    "hospitalName": "รพ.รักษ์สกล",
+    "tel": "",
+    "district": "เมืองสกลนคร",
+    "subDistrict": "ธาตุเชิงชุม",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%81%E0%B8%A5+%E0%B8%AA%E0%B8%81%E0%B8%A5%E0%B8%99%E0%B8%84%E0%B8%A3/@-,-,13z",
+    "id": "11968",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "สกลนคร"
+  },
+  {
+    "hospitalName": "รพ.หนองคายวัฒนา",
+    "tel": "0422465201",
+    "district": "เมืองหนองคาย",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2+%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A2/@-,-,13z",
+    "id": "11957",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "หนองคาย"
+  },
+  {
+    "hospitalName": "รพ.นอร์ทอีสเทอร์นวัฒนา",
+    "tel": "042325999",
+    "district": "เมืองอุดรธานี",
+    "subDistrict": "หมากแข้ง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2+%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A3%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "11939",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "อุดรธานี"
+  },
+  {
+    "hospitalName": "รพ.เอกชนร่มเกล้า",
+    "tel": "0454465960",
+    "district": "เมืองอุบลราชธานี",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%8A%E0%B8%99%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2+%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "11918",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "อุบลราชธานี"
+  },
+  {
+    "hospitalName": "พริ้นซ์ อุบลราชธานี โรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "0452502713",
+    "district": "เมืองอุบลราชธานี",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%8B%E0%B9%8C%20%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "40864",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "อุบลราชธานี"
+  },
+  {
+    "hospitalName": "รพ.อุบลรักษ์ธนบุรี",
+    "tel": "045429100",
+    "district": "เมืองอุบลราชธานี",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5+%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%A5%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "11919",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "อุบลราชธานี"
+  },
+  {
+    "hospitalName": "รพ.เมืองเลยราม",
+    "tel": "042833400",
+    "district": "เมืองเลย",
+    "subDistrict": "นาอาน",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B8%A3%E0%B8%B2%E0%B8%A1+%E0%B9%80%E0%B8%A5%E0%B8%A2/@-,-,13z",
+    "id": "11955",
+    "region": "ภาคตะวันออกเฉียงเหนือ",
+    "province": "เลย"
+  },
+  {
+    "hospitalName": "โรงพยาบาลพริ้นซ์ ปากน้ำโพ 1",
+    "tel": "",
+    "district": "เมืองนครสวรรค์",
+    "subDistrict": "นครสวรรค์ตก",
+    "map": "https://www.google.com/maps/place/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%8B%E0%B9%8C%20%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%82%E0%B8%9E%201+%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C/@-,-,13z",
+    "id": "12030",
+    "region": "ภาคเหนือ",
+    "province": "นครสวรรค์"
+  },
+  {
+    "hospitalName": "รพ.ศรีสวรรค์",
+    "tel": "056311626",
+    "district": "เมืองนครสวรรค์",
+    "subDistrict": "ปากน้ำโพ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C+%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C/@-,-,13z",
+    "id": "12044",
+    "region": "ภาคเหนือ",
+    "province": "นครสวรรค์"
+  },
+  {
+    "hospitalName": "โรงพยาบาลพริ้นซ์ ปากน้ำโพ 2",
+    "tel": "056000111",
+    "district": "เมืองนครสวรรค์",
+    "subDistrict": "ปากน้ำโพ",
+    "map": "https://www.google.com/maps/place/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%8B%E0%B9%8C%20%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%82%E0%B8%9E%202+%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C/@-,-,13z",
+    "id": "12034",
+    "region": "ภาคเหนือ",
+    "province": "นครสวรรค์"
+  },
+  {
+    "hospitalName": "รพ.พะเยาราม",
+    "tel": "",
+    "district": "เมืองพะเยา",
+    "subDistrict": "ท่าวังทอง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1+%E0%B8%9E%E0%B8%B0%E0%B9%80%E0%B8%A2%E0%B8%B2/@-,-,13z",
+    "id": "12020",
+    "region": "ภาคเหนือ",
+    "province": "พะเยา"
+  },
+  {
+    "hospitalName": "รพ.ชัยอรุณเวชการ",
+    "tel": "056651407",
+    "district": "เมืองพิจิตร",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3+%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3/@-,-,13z",
+    "id": "23942",
+    "region": "ภาคเหนือ",
+    "province": "พิจิตร"
+  },
+  {
+    "hospitalName": "รพ.พิษณุเวช พิจิตร โรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "056613316",
+    "district": "เมืองพิจิตร",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%9E%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3/@-,-,13z",
+    "id": "12071",
+    "region": "ภาคเหนือ",
+    "province": "พิจิตร"
+  },
+  {
+    "hospitalName": "รพ.พิษณุเวช",
+    "tel": "",
+    "district": "เมืองพิษณุโลก",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8%E0%B9%80%E0%B8%A7%E0%B8%8A+%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8%E0%B9%82%E0%B8%A5%E0%B8%81/@-,-,13z",
+    "id": "12069",
+    "region": "ภาคเหนือ",
+    "province": "พิษณุโลก"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่หริภุญชัย เมโมเรียล",
+    "tel": "0535816004",
+    "district": "เมืองลำพูน",
+    "subDistrict": "บ้านกลาง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%AB%E0%B8%A3%E0%B8%B4%E0%B8%A0%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2%20%E0%B9%80%E0%B8%A1%E0%B9%82%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A5+%E0%B8%A5%E0%B8%B3%E0%B8%9E%E0%B8%B9%E0%B8%99/@-,-,13z",
+    "id": "12000",
+    "region": "ภาคเหนือ",
+    "province": "ลำพูน"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดกลางลำพูนใกล้หมอ",
+    "tel": "",
+    "district": "เมืองลำพูน",
+    "subDistrict": "มะเขือแจ้",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B8%B3%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%AB%E0%B8%A1%E0%B8%AD+%E0%B8%A5%E0%B8%B3%E0%B8%9E%E0%B8%B9%E0%B8%99/@-,-,13z",
+    "id": "42015",
+    "region": "ภาคเหนือ",
+    "province": "ลำพูน"
+  },
+  {
+    "hospitalName": "พริ้นซ์ ลำพูนโรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "053582888",
+    "district": "เมืองลำพูน",
+    "subDistrict": "เวียงยอง",
+    "map": "https://www.google.com/maps/place/%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%8B%E0%B9%8C%20%E0%B8%A5%E0%B8%B3%E0%B8%9E%E0%B8%B9%E0%B8%99%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%A5%E0%B8%B3%E0%B8%9E%E0%B8%B9%E0%B8%99/@-,-,13z",
+    "id": "42186",
+    "region": "ภาคเหนือ",
+    "province": "ลำพูน"
+  },
+  {
+    "hospitalName": "รพ.พิษณุเวช อุตรดิตถ์ โรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "055409000",
+    "district": "เมืองอุตรดิตถ์",
+    "subDistrict": "ป่าเซ่า",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8%E0%B9%80%E0%B8%A7%E0%B8%8A%20%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B8%96%E0%B9%8C%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%95%E0%B8%96%E0%B9%8C/@-,-,13z",
+    "id": "41622",
+    "region": "ภาคเหนือ",
+    "province": "อุตรดิตถ์"
+  },
+  {
+    "hospitalName": "รพ.เกษมราษฎร์ศรีบุรินทร์",
+    "tel": "053717499",
+    "district": "เมืองเชียงราย",
+    "subDistrict": "สันทราย",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C+%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2/@-,-,13z",
+    "id": "12026",
+    "region": "ภาคเหนือ",
+    "province": "เชียงราย"
+  },
+  {
+    "hospitalName": "รพ.เทพปัญญา 2 โรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "05322002227",
+    "district": "เมืองเชียงใหม่",
+    "subDistrict": "ศรีภูมิ",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%202%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/@-,-,13z",
+    "id": "11992",
+    "region": "ภาคเหนือ",
+    "province": "เชียงใหม่"
+  },
+  {
+    "hospitalName": "โรงพยาบาลทั่วไปขนาดเล็ก เอ็ม ที อินเตอร์เมด",
+    "tel": "",
+    "district": "เมืองเชียงใหม่",
+    "subDistrict": "หนองป่าครั่ง",
+    "map": "https://www.google.com/maps/place/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%20%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%20%E0%B8%97%E0%B8%B5%20%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%A1%E0%B8%94+%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/@-,-,13z",
+    "id": "42244",
+    "region": "ภาคเหนือ",
+    "province": "เชียงใหม่"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่ลานนา",
+    "tel": "053999777",
+    "district": "เมืองเชียงใหม่",
+    "subDistrict": "ป่าตัน",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2+%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/@-,-,13z",
+    "id": "11982",
+    "region": "ภาคเหนือ",
+    "province": "เชียงใหม่"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดใหญ่เทพปัญญา",
+    "tel": "",
+    "district": "เมืองเชียงใหม่",
+    "subDistrict": "ฟ้าฮ่าม",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2+%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88/@-,-,13z",
+    "id": "11994",
+    "region": "ภาคเหนือ",
+    "province": "เชียงใหม่"
+  },
+  {
+    "hospitalName": "รพ.เพชรรัตน์",
+    "tel": "056720680",
+    "district": "เมืองเพชรบูรณ์",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C+%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C/@-,-,13z",
+    "id": "12079",
+    "region": "ภาคเหนือ",
+    "province": "เพชรบูรณ์"
+  },
+  {
+    "hospitalName": "รพ.แพร่-รามโรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "054522911",
+    "district": "เมืองแพร่",
+    "subDistrict": "ในเวียง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B9%88-%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B9%88/@-,-,13z",
+    "id": "22343",
+    "region": "ภาคเหนือ",
+    "province": "แพร่"
+  },
+  {
+    "hospitalName": "รพ.วิรัชศิลป์ ชุมพร",
+    "tel": "077542555",
+    "district": "เมืองชุมพร",
+    "subDistrict": "ท่าตะเภา",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B9%8C%20%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A3+%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A3/@-,-,13z",
+    "id": "12204",
+    "region": "ภาคใต้",
+    "province": "ชุมพร"
+  },
+  {
+    "hospitalName": "รพ.ธนบุรี-ชุมพร",
+    "tel": "077658555",
+    "district": "เมืองชุมพร",
+    "subDistrict": "วังไผ่",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5-%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A3+%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A3/@-,-,13z",
+    "id": "14534",
+    "region": "ภาคใต้",
+    "province": "ชุมพร"
+  },
+  {
+    "hospitalName": "รพ.ทีอาร์พีเอช โรงพยาบาลทั่วไปขนาดใหญ่",
+    "tel": "",
+    "district": "เมืองตรัง",
+    "subDistrict": "ทับเที่ยง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B5%E0%B8%AD%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%AD%E0%B8%8A%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%95%E0%B8%A3%E0%B8%B1%E0%B8%87/@-,-,13z",
+    "id": "12230",
+    "region": "ภาคใต้",
+    "province": "ตรัง"
+  },
+  {
+    "hospitalName": "รพ.ธนบุรี ทุ่งสง โรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "075808888",
+    "district": "ทุ่งสง",
+    "subDistrict": "ชะมาย",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5%20%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%87%20%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A/@-,-,13z",
+    "id": "41714",
+    "region": "ภาคใต้",
+    "province": "นครศรีธรรมราช"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดกลางนครคริสเตียน",
+    "tel": "0820630551,075356214",
+    "district": "เมืองนครศรีธรรมราช",
+    "subDistrict": "คลัง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B8%A2%E0%B8%99+%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A/@-,-,13z",
+    "id": "12169",
+    "region": "ภาคใต้",
+    "province": "นครศรีธรรมราช"
+  },
+  {
+    "hospitalName": "รพ.นครพัฒน์",
+    "tel": "075305999",
+    "district": "เมืองนครศรีธรรมราช",
+    "subDistrict": "ในเมือง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C+%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A/@-,-,13z",
+    "id": "23875",
+    "region": "ภาคใต้",
+    "province": "นครศรีธรรมราช"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดเล็กสิโรรส ปัตตานี",
+    "tel": "073348100",
+    "district": "เมืองปัตตานี",
+    "subDistrict": "รูสะมิแล",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%AA%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%A3%E0%B8%AA%20%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B2%E0%B8%99%E0%B8%B5+%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%95%E0%B8%B2%E0%B8%99%E0%B8%B5/@-,-,13z",
+    "id": "41342",
+    "region": "ภาคใต้",
+    "province": "ปัตตานี"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดกลางดีบุก",
+    "tel": "076298298",
+    "district": "เมืองภูเก็ต",
+    "subDistrict": "วิชิต",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B8%B5%E0%B8%9A%E0%B8%B8%E0%B8%81+%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95/@-,-,13z",
+    "id": "40979",
+    "region": "ภาคใต้",
+    "province": "ภูเก็ต"
+  },
+  {
+    "hospitalName": "รพ.มิชชั่นภูเก็ตโรงพยาบาลทั่วไปขนาดกลาง",
+    "tel": "076212386",
+    "district": "เมืองภูเก็ต",
+    "subDistrict": "รัษฎา",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A1%E0%B8%B4%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87+%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95/@-,-,13z",
+    "id": "12185",
+    "region": "ภาคใต้",
+    "province": "ภูเก็ต"
+  },
+  {
+    "hospitalName": "รพ.ทั่วไปขนาดกลางสิโรรส ยะลา",
+    "tel": "073221114",
+    "district": "เมืองยะลา",
+    "subDistrict": "สะเตง",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%A3%E0%B8%AA%20%E0%B8%A2%E0%B8%B0%E0%B8%A5%E0%B8%B2+%E0%B8%A2%E0%B8%B0%E0%B8%A5%E0%B8%B2/@-,-,13z",
+    "id": "12238",
+    "region": "ภาคใต้",
+    "province": "ยะลา"
+  },
+  {
+    "hospitalName": "รพ.ราษฎร์ยินดี",
+    "tel": "",
+    "district": "หาดใหญ่",
+    "subDistrict": "หาดใหญ่",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5+%E0%B8%AA%E0%B8%87%E0%B8%82%E0%B8%A5%E0%B8%B2/@-,-,13z",
+    "id": "12222",
+    "region": "ภาคใต้",
+    "province": "สงขลา"
+  },
+  {
+    "hospitalName": "รพ.ศิครินทร์หาดใหญ่",
+    "tel": "074366966",
+    "district": "หาดใหญ่",
+    "subDistrict": "หาดใหญ่",
+    "map": "https://www.google.com/maps/place/%E0%B8%A3%E0%B8%9E.%E0%B8%A8%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88+%E0%B8%AA%E0%B8%87%E0%B8%82%E0%B8%A5%E0%B8%B2/@-,-,13z",
+    "id": "12221",
+    "region": "ภาคใต้",
+    "province": "สงขลา"
+  }
+]
