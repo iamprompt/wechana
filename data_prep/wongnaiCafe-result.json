@@ -1,0 +1,4492 @@
+{
+  "5290th": {
+    "name": "White Flower Restaurant สาขาแรก",
+    "geolocation": {
+      "lat": 13.749322,
+      "lng": 100.516317
+    },
+    "address": "678/4-7 Bamrung Muang Rd. Wat Thepsirin Pom Prap Sattru Phai Bangkok 10100",
+    "phone": [
+      "022252749",
+      "0860128722"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/07/8939e431d7064bff80cd4784c26360f7.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2019/10/11/912948a024c642c4942c6b4cca6c86e8.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/10/11/912948a024c642c4942c6b4cca6c86e8.jpg",
+    "recommendedMenu": [
+      "Coconut cake",
+      "ต้มยำหมูตุ๋น",
+      "เครปเค้กชาไทย"
+    ]
+  },
+  "243450pQ": {
+    "name": "Torry's Ice cream Soi Rommanee  (old town)",
+    "geolocation": {
+      "lat": 7.8853664,
+      "lng": 98.3892253
+    },
+    "address": "16 ซ.รมณีย์ ต.ตลาดใหญ่ อ.เมือง จ.ภูเก็ต 83000 Talat Yai Mueang Phuket Phuket 83000",
+    "phone": [
+      "076510888"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/03/13/c852563776c74698839fcdc5aca68a1e.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/08/26/d8f174916c8f43e0aac64b2a8d297689.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/08/26/d8f174916c8f43e0aac64b2a8d297689.jpg",
+    "recommendedMenu": [
+      "Bi co moi",
+      "A-pong",
+      "Dragon fruit bowl"
+    ]
+  },
+  "1278511VP": {
+    "name": "Melt In Your Mouth (เมลท์ อิน ยัวร์ เม้าท์",
+    "geolocation": {
+      "lat": 19.917605305856284,
+      "lng": 99.83545308932662
+    },
+    "address": "268/4 ม.21 ต.รอบเวียง อ.เมือง จ.เชียงราย 57000 Rop Wiang Mueang Chiang Rai Chiang Rai 57000",
+    "phone": [
+      "052020549"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2017/12/21/444552108b3c49f7bbc07d7bc65746f4.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2017/12/21/444552108b3c49f7bbc07d7bc65746f4.jpg",
+    "recommendedMenu": [
+      "apple crumble",
+      "Cappuccino",
+      "Scone"
+    ]
+  },
+  "10105gq": {
+    "name": "Ristr8to Nimmana",
+    "geolocation": {
+      "lat": 18.799182,
+      "lng": 98.967171
+    },
+    "address": "15/3 ถ.นิมมานเหมินท์ ต.สุเทพ อ.เมือง จ.เชียงใหม่ 50200 Suthep Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "053215278",
+      "0994194653"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2016/07/06/231e456ca22b4e809ac3a347c4abf695.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2015/05/30/9a6bd56a7f5244d5b58e9d7c3e14d4c6.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/05/30/9a6bd56a7f5244d5b58e9d7c3e14d4c6.jpg",
+    "recommendedMenu": [
+      "flat white",
+      "latte",
+      "doppio ristretto"
+    ]
+  },
+  "219070HM": {
+    "name": "Seoul Mind",
+    "geolocation": {
+      "lat": 18.79373705297936,
+      "lng": 98.97201015707776
+    },
+    "address": "Siri Mangkalajarn Road Soi 11 Suthep Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0944040292"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2016/09/29/385a7a7acf864ddfb777626edfe5405b.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/09/29/385a7a7acf864ddfb777626edfe5405b.jpg",
+    "recommendedMenu": [
+      "Dakgangjeon",
+      "บิงซู",
+      "ไก่ Seoul Mind + เครื่องเคียง"
+    ]
+  },
+  "27045eQ": {
+    "name": "Baan Piemsuk",
+    "geolocation": {
+      "lat": 18.79276045010604,
+      "lng": 99.00186561048031
+    },
+    "address": "Charoenrajd Road Chang Moi Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0855250752",
+      "0857088988"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2019/10/14/0e95483766d941c6a75d0e9731ff320e.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/10/14/0e95483766d941c6a75d0e9731ff320e.jpg",
+    "recommendedMenu": [
+      "Coconut cake",
+      "Coconut Cream Pie",
+      "พายมะม่วง"
+    ]
+  },
+  "3198Tl": {
+    "name": "Custard Nakamura",
+    "geolocation": {
+      "lat": 13.732393897873738,
+      "lng": 100.568424682209
+    },
+    "address": "595/12ซอย สุขุมวิท 33/1 Khlong Tan Nuea Watthana Bangkok ",
+    "phone": [
+      "022599630",
+      "022599355"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/09/04/3260fb491e2d419c969478791fcf229d.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2019/07/20/ae0ba244ef1841269442c9acd1e9e130.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/07/20/ae0ba244ef1841269442c9acd1e9e130.jpg",
+    "recommendedMenu": [
+      "Custard Pudding",
+      "แซนวิชหมูสับกับหัวหอมใหญ่",
+      "แซนวิชหน้าหมูทอด"
+    ]
+  },
+  "124229mf": {
+    "name": "Amatissimo Cafe สาขาพระราม 3 (มีหน้าร้าน) , สาขาสัมมากร (ไม่มีหน้าร้าน)",
+    "geolocation": {
+      "lat": 13.6903696,
+      "lng": 100.525254
+    },
+    "address": "Seri Villa Soi 3 Soi Srinagarindra 55, Srinagarindra Road Bang Phong Phang Yan Nawa Bangkok ",
+    "phone": [
+      "0854829977"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2016/06/22/e50e2a9bc0ec4fbea76fa0f14dc8d6af.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2015/12/14/b63c0c8e69cc4a6caacd9496eb3a35d2.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/12/14/b63c0c8e69cc4a6caacd9496eb3a35d2.jpg",
+    "recommendedMenu": [
+      "croissant",
+      "Almond Croissant",
+      "latte"
+    ]
+  },
+  "879yv": {
+    "name": "Kanom Wan Pa Prang",
+    "geolocation": {
+      "lat": 12.573367,
+      "lng": 99.956473
+    },
+    "address": "25 Soi huahin 55Chomsin Rd, Hua Hin Hua Hin Prachuap Khiri Khan 77110",
+    "phone": [
+      "032512611",
+      "0817942070"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2019/09/20/4b292074f4114d12a7910b6d92b15e75.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/09/20/4b292074f4114d12a7910b6d92b15e75.jpg",
+    "recommendedMenu": [
+      "ขนมโค",
+      "ขนมข้าวฟ่าง",
+      "กล้วยบวชชี"
+    ]
+  },
+  "340249dt": {
+    "name": "Craftsman Roastery บำรุงเมือง ป๊อปอัพ คาเฟ่",
+    "geolocation": {
+      "lat": 13.7519,
+      "lng": 100.49849
+    },
+    "address": "83, ถนนบำรุงเมือง เสาชิงช้า พระนคร กรุงเทพมหานคร Sao Chingcha Phra Nakhon Bangkok 10200",
+    "phone": [
+      "0858204010"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/08/19/bf781e807bab4f9a98374605ce1cf013.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/08/9929ebd07aaa46c4a3afb10bbd0c1aa7.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/08/9929ebd07aaa46c4a3afb10bbd0c1aa7.jpg",
+    "recommendedMenu": [
+      "Iced Lemongrass Latte",
+      "Hot Latté",
+      "Craftsman Iced Coffee"
+    ]
+  },
+  "1200647Tr": {
+    "name": "Chim cafe ตรงข้ามโลตัสแกลง",
+    "geolocation": {
+      "lat": 12.784750248186683,
+      "lng": 101.65890393778682
+    },
+    "address": "214/15, สุขุมวิท บ้านนา แกลง ระยอง Ban Na Klaeng Rayong 21110",
+    "phone": [
+      "0623646479"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2022/03/03/7b0c4de68d3c4d01bcbab21033098fc0.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/03/03/7b0c4de68d3c4d01bcbab21033098fc0.jpg",
+    "recommendedMenu": [
+      "matcha green tea ."
+    ]
+  },
+  "227018DD": {
+    "name": "Ekkamai Macchiato - Home Brewer Ekkamai",
+    "geolocation": {
+      "lat": 13.730492,
+      "lng": 100.587157
+    },
+    "address": "6/2 ถนน สุขุมวิท ซอย เอกมัย 12 Khlong Tan Nuea Watthana Bangkok ",
+    "phone": [
+      "0801699824"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/03/09/52fbfcdde91c4d838113351d84ab788f.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/03/09/fc6f2b50e313418590eb113cbc4981c2.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/03/09/fc6f2b50e313418590eb113cbc4981c2.jpg",
+    "recommendedMenu": [
+      "คาเฟ",
+      "ข้าวหมูกรอ",
+      "Spicy Crispy Pork Belly with Chinese Dried Pepper"
+    ]
+  },
+  "463768TI": {
+    "name": "James Boulangerie พรานนก พุทธมณฑล",
+    "geolocation": {
+      "lat": 13.752890599999999,
+      "lng": 100.43549359999992
+    },
+    "address": "172 พรานนก - พุทธมณฑล เขตตลิ่งชัน กรุงเทพมหานคร 10170 Bang Phrom Taling Chan Bangkok 10170",
+    "phone": [
+      "0649589588"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2020/01/04/982972d5814a4dd89604adc9d64850e3.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/04/08/964947c12e5345c0b3036e4661bcc23a.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/04/08/964947c12e5345c0b3036e4661bcc23a.jpg",
+    "recommendedMenu": [
+      "Plain croissant",
+      "Chocolate Croissant",
+      "Almond Croissant"
+    ]
+  },
+  "470378AF": {
+    "name": "Red Temp Coffee",
+    "geolocation": {
+      "lat": 13.314195,
+      "lng": 100.902764
+    },
+    "address": "ถนน รอบเขาสามมุข Saen Suk Mueang Chon Buri Chon Buri ",
+    "phone": [
+      "0926646451"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/05/11/4c390459a0294b79bff82c9b07f492be.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/05/11/4c390459a0294b79bff82c9b07f492be.jpg",
+    "recommendedMenu": [
+      "New York Cheese cake.",
+      "Truffle Egg x Ham Croissant",
+      "Chocolate Cake"
+    ]
+  },
+  "247551De": {
+    "name": "Peace Oriental Teahouse สุขุมวิท 49",
+    "geolocation": {
+      "lat": 13.73199,
+      "lng": 100.576049
+    },
+    "address": "49, ซอยสุขุมวิท 49, คลองตันเหนือ, กรุงเทพมหานคร, 10110, ประเทศไทย Khlong Tan Nuea Watthana Bangkok ",
+    "phone": [
+      "0636370508"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2020/03/06/6be6be169c4f45a59aa9531276c473dd.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/06/04/85bbc8a6970943e7a2d2dfd52f891187.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/06/04/85bbc8a6970943e7a2d2dfd52f891187.jpg",
+    "recommendedMenu": [
+      "Matcha Extremist",
+      "(iced) Idealist Pastel Matcha",
+      "Pastel Houjicha (ice)"
+    ]
+  },
+  "191223Pf": {
+    "name": "Sofuto Cream หลัง มช.",
+    "geolocation": {
+      "lat": 18.79232749613501,
+      "lng": 98.9562302938657
+    },
+    "address": "9/2 Suthep Rd.Soi4 Banmailangmo Suthep Mueang Chiang Mai Chiang Mai 50200",
+    "phone": [
+      "0657050950"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/12/29/c2ccc9022cf04abbbc7355fff45c5123.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/03/01/c1f749291cd84a9e91bab1c6aa795bf4.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/03/01/c1f749291cd84a9e91bab1c6aa795bf4.jpg",
+    "recommendedMenu": [
+      "แพนเค้ก",
+      "ไดฟุกุสตอเบอรี่",
+      "Hojicha Green Tea"
+    ]
+  },
+  "301043Ca": {
+    "name": "To Die For Coffee",
+    "geolocation": {
+      "lat": 13.306213,
+      "lng": 100.90543
+    },
+    "address": "ถนน บางแสน-อ่างศิลา Saen Suk Mueang Chon Buri Chon Buri 20130",
+    "phone": [
+      "0951649571"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/12/04/8cabaec22fe54777bfd6fb677f659572.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2019/07/21/6e288c36ac364f3c9830414e3f0d0a4d.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/07/21/6e288c36ac364f3c9830414e3f0d0a4d.jpg",
+    "recommendedMenu": [
+      "O-Cheese Cake",
+      "Americano",
+      "Peanut Butter Chocolate Cake"
+    ]
+  },
+  "204714Nl": {
+    "name": "Villa De Bear",
+    "geolocation": {
+      "lat": 13.75875252874934,
+      "lng": 100.44465824769895
+    },
+    "address": "ป้ายรถประจำทาง ราชพฤกษ์ ซอย 13 แขวง บางระมาด เขต ตลิ่งชัน กรุงเทพมหานคร 10170 ประเทศไทย Bang Phrom Taling Chan Bangkok 10170",
+    "phone": [
+      "024031515",
+      "0984966245"
+    ],
+    "priceRange": {
+      "name": "501 - 1,000 baht",
+      "value": 4
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/01/28/bea8db7443444d2f871b4c5d2ec071f9.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/10/14/0f9bd9828dd74646897c92daf597d1b9.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/10/14/0f9bd9828dd74646897c92daf597d1b9.jpg",
+    "recommendedMenu": [
+      "Squid Ink Spaghetti with Crab Meat in Pink Sauce",
+      "German Pork Hock",
+      "สปาเกตตี้ปลาสลิด"
+    ]
+  },
+  "943647Cs": {
+    "name": "Craft coffee roaster",
+    "geolocation": {
+      "lat": 13.826112724902902,
+      "lng": 100.06398623041196
+    },
+    "address": "22 ทหารบก ซอย 3 ตำบลบ่อพลับ อำเภอเมืองนครปฐม นครปฐม ประเทศไทย Bo Phlap Mueang Nakhon Pathom Nakhon Pathom 73000",
+    "phone": [
+      "0806549156"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/11/11/73440e70f49f4052a230231f9be07730.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/11/11/73440e70f49f4052a230231f9be07730.jpg",
+    "recommendedMenu": [
+      "Americano",
+      "Dirty",
+      "ลาเต้เย็น"
+    ]
+  },
+  "162247Oa": {
+    "name": "La Baguette Bakery Cafe Phratamnuk Hill, Jomtien Pattaya",
+    "geolocation": {
+      "lat": 12.909466,
+      "lng": 100.868937
+    },
+    "address": "480/47 หมู่ 12 ถนนทัพพระยา ,ตำบลหนองปรือ อำเภอบางละมุง จังหวัดชลบุรี 20250 Muang Pattaya Bang Lamung Chon Buri 20250",
+    "phone": [
+      "0991026847"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/15/d67afc099d6f4e198098657dc2925a5d.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/07/20/0a9138c5fb544d8184be4b05fd5bd476.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/07/20/0a9138c5fb544d8184be4b05fd5bd476.jpg",
+    "recommendedMenu": [
+      "อัลมอนด์ครัวซอง",
+      "Almond Croissant",
+      "เครปไส้ต่างๆ"
+    ]
+  },
+  "11274NJ": {
+    "name": "The baguette Hua Hin",
+    "geolocation": {
+      "lat": 12.584779,
+      "lng": 99.952025
+    },
+    "address": "11/103-104 Phetkasem Road Hua Hin Hua Hin Prachuap Khiri Khan 77110",
+    "phone": [
+      "0897423258",
+      "032530463"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2013/06/17/944562098b3d4d4d858828b71066b1e4.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2013/06/17/944562098b3d4d4d858828b71066b1e4.jpg",
+    "recommendedMenu": [
+      "Butterfly",
+      "พาย",
+      "ครัวซอง"
+    ]
+  },
+  "376074uT": {
+    "name": "The Old School : Specialty Coffee & Patisserie",
+    "geolocation": {
+      "lat": 13.88564,
+      "lng": 100.408504
+    },
+    "address": "9/23 ถ. กาญจนาภิเษก Bang Rak Pattana Bang Bua Thong Nonthaburi ",
+    "phone": [
+      "0635296564"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/01/26/22b32a43492a449aa6fbbdc8b85efd24.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/02/14/293fbae05bc245a182ef4f06e5bfc4a4.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/02/14/293fbae05bc245a182ef4f06e5bfc4a4.jpg",
+    "recommendedMenu": [
+      "Cold Brew The Old School",
+      "Dirty",
+      "Espresso - Old School"
+    ]
+  },
+  "149430aq": {
+    "name": "Factory Coffee - Bangkok",
+    "geolocation": {
+      "lat": 13.756912638068796,
+      "lng": 100.5347312392521
+    },
+    "address": "49 ถนน พญาไท Thanon Phaya Thai Ratchathewi Bangkok ",
+    "phone": [
+      "0809588050"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/12/02/261699fed46b4060b4e4e308dcdef431.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/12/02/261699fed46b4060b4e4e308dcdef431.jpg",
+    "recommendedMenu": [
+      "Mrs. Cold",
+      "Phayathai",
+      "White Citrus"
+    ]
+  },
+  "207505CI": {
+    "name": "Toby's Sukhumvit 38",
+    "geolocation": {
+      "lat": 13.718200070315442,
+      "lng": 100.57974024479198
+    },
+    "address": "75 ซอย สุขุมวิท 38 Phra Khanong Khlong Toei Bangkok ",
+    "phone": [
+      "027121774"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/01/16/f497bd455fb544e6bd6330ab25689682.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2016/01/10/1b2f3e579edd4938b65b22945ce5ecf8.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/01/10/1b2f3e579edd4938b65b22945ce5ecf8.jpg",
+    "recommendedMenu": [
+      "Crsipy French Toast",
+      "Spaghetti Black Truffle with sundried Tomato",
+      "Complicated Avocado"
+    ]
+  },
+  "11458nw": {
+    "name": "Baan Tua Yen",
+    "geolocation": {
+      "lat": 12.579069,
+      "lng": 99.871078
+    },
+    "address": "597 หมู่ 3 ซ.วัดวังโบสถ์ ถ.หัวหิน-หนองพลับ Hin Lek Fai Hua Hin Prachuap Khiri Khan ",
+    "phone": [
+      "0626396625"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/10/30/b8c88cf555ef4ec6a81db8dd4c638ca3.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/10/30/194591371f754ba1a2ff0a4aaf631a09.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/10/30/194591371f754ba1a2ff0a4aaf631a09.jpg",
+    "recommendedMenu": [
+      "Mix beans smoothie (Original Fresh milk)",
+      "Red bean smoothie (Pistachio milk - Lactose free)"
+    ]
+  },
+  "367051tf": {
+    "name": "Walden Home Cafe",
+    "geolocation": {
+      "lat": 13.7312482,
+      "lng": 100.5057382
+    },
+    "address": "451 ถนน สมเด็จเจ้าพระยา Khlong San Khlong San Bangkok ",
+    "phone": [
+      "0944566255"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/05/03/5d99018d8a0d47299a51d81ae96b337e.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/05/05/ef051a775f03400e9aa15a82654e31cc.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/05/05/ef051a775f03400e9aa15a82654e31cc.jpg",
+    "recommendedMenu": [
+      "Dirty (COLD)",
+      "Yuzugano (COLD)",
+      "Americano (COLD)"
+    ]
+  },
+  "521408aN": {
+    "name": "Praya Dining (พระยา ไดนิ่ง) - Praya Palazzo Hotel",
+    "geolocation": {
+      "lat": 13.766068702714737,
+      "lng": 100.49350059449753
+    },
+    "address": "757/1 สมเด็จพระปิ้นเกล้า ซอย 2 แขวงบางยี่ขัน เขตบางพลัด กรุงเทพมหานคร ประเทศไทย Bang Yi Khan Bang Phlat Bangkok 10700",
+    "phone": [
+      "0814028118"
+    ],
+    "priceRange": {
+      "name": "501 - 1,000 baht",
+      "value": 4
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/03/26/daa0945e4dce4b76913476eb63f79e70.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/03/26/daa0945e4dce4b76913476eb63f79e70.jpg",
+    "recommendedMenu": []
+  },
+  "160314op": {
+    "name": "Velo Cafe' Hua Hin",
+    "geolocation": {
+      "lat": 12.576313419493886,
+      "lng": 99.95666513219476
+    },
+    "address": "43/21 ถนน แนบเคหาสน์ ตำบลหัวหิน อำเภอหัวหิน Hua Hin Hua Hin Prachuap Khiri Khan ",
+    "phone": [
+      "0632239162"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2017/08/06/0b08b6218286497a9cc67accd8ef3dbf.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2017/08/06/0b08b6218286497a9cc67accd8ef3dbf.jpg",
+    "recommendedMenu": [
+      "latte",
+      "Thai Milk tea Ice",
+      "Americano"
+    ]
+  },
+  "404721xn": {
+    "name": "Matapita.Tea",
+    "geolocation": {
+      "lat": 12.5788586,
+      "lng": 99.95669650000002
+    },
+    "address": "31 ซอยหัวหิน 51 Hua Hin Hua Hin Prachuap Khiri Khan ",
+    "phone": [
+      "0836345553"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/03/2a02ae5abd1e48c7a8d95e06dbb08ba6.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/03/2a02ae5abd1e48c7a8d95e06dbb08ba6.jpg",
+    "recommendedMenu": [
+      "บลูเบอร์รี่เลมอนชีสเค้ก",
+      "Rose & Lychee Cheese Cake",
+      "ช็อคโกแล็ต ชีส เค้ก"
+    ]
+  },
+  "420187bQ": {
+    "name": "Brioche from heaven",
+    "geolocation": {
+      "lat": 13.724098184696294,
+      "lng": 100.52954340353608
+    },
+    "address": "156 ถนนนราธิวาส Silom Bang Rak Bangkok ",
+    "phone": [
+      "0648470049"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/02/24/f4bbfcfef1bc4be69dd011bb3e93d7d1.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/02/24/f4bbfcfef1bc4be69dd011bb3e93d7d1.jpg",
+    "recommendedMenu": [
+      "Brioche from Heaven",
+      "Nutella Brioche",
+      "Yuzu Tart"
+    ]
+  },
+  "14062at": {
+    "name": "Chivit Thamma Da Coffee House",
+    "geolocation": {
+      "lat": 19.921691943504005,
+      "lng": 99.84496872872114
+    },
+    "address": "179 Moo2Rongseaten Soi 3 Rimkok Road Rop Wiang Mueang Chiang Rai Chiang Rai ",
+    "phone": [
+      "0819842925",
+      "053166967"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2016/08/17/d4f6755096c143a4ba57f633623c2e19.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/08/17/d4f6755096c143a4ba57f633623c2e19.jpg",
+    "recommendedMenu": [
+      "บานอฟฟี่",
+      "ข้าวผัดหนุ่มสาวเชียงราย",
+      "กาแฟธรรมดา"
+    ]
+  },
+  "3581OH": {
+    "name": "Hainanese Noodle thailand สะพานขาว ซ. ลูกหลวง 8",
+    "geolocation": {
+      "lat": 13.759342,
+      "lng": 100.514395
+    },
+    "address": "463/58, ซอยลูกหลวง 8, สี่แยกมหานาค, กรุงเทพมหานคร, 10300, ประเทศไทย Si Yaek Maha Nak Dusit Bangkok 10300",
+    "phone": [
+      "022810444",
+      "0868207890",
+      "0818321341"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2019/02/06/a2606d9341c645caad18796455063bb9.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/02/06/a2606d9341c645caad18796455063bb9.jpg",
+    "recommendedMenu": [
+      "ยำไทยหมู",
+      "เส้นขนมจีนน้ำเนื้อ",
+      "เส้นขนมจีนแห้งเนื้อ"
+    ]
+  },
+  "177186mc": {
+    "name": "In a Good Mood Cafe & Bistro",
+    "geolocation": {
+      "lat": 13.336597852860232,
+      "lng": 100.94572392117266
+    },
+    "address": "ถนน พระยาสัจจา ซอย นารถมนตเสวี 6 Samet Mueang Chon Buri Chon Buri ",
+    "phone": [
+      "0826492419"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2016/12/13/84446c7b20c54e659d1a2f89fb832f0c.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2016/12/13/fcf598c61861438b873a3eb27374ad8d.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/12/13/fcf598c61861438b873a3eb27374ad8d.jpg",
+    "recommendedMenu": [
+      "honey toast",
+      "สลัดแซลมอนซอสมะขาม",
+      "Caramel Latte"
+    ]
+  },
+  "152302tF": {
+    "name": "Bottomless Bottomless Flagship Store",
+    "geolocation": {
+      "lat": 13.876118048550818,
+      "lng": 100.49537759274244
+    },
+    "address": "19/14 หมู่ 1 ถนน เลี่ยงเมืองสนามบินน้ำ นนทบุรี Bang Kraso Mueang Nonthaburi Nonthaburi ",
+    "phone": [
+      "0655922945"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/03/02/4247be9ea40346428c62775cf1e616f8.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2019/08/10/da1b27386f7a4deeb933714b29dbb6de.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/08/10/da1b27386f7a4deeb933714b29dbb6de.jpg",
+    "recommendedMenu": [
+      "Iced americano",
+      "Yuzu Basque Cheesecake",
+      "Caramel Custard"
+    ]
+  },
+  "228981da": {
+    "name": "Dongmadame",
+    "geolocation": {
+      "lat": 18.789399,
+      "lng": 98.953615
+    },
+    "address": "226/37 ซอย 12 บ้านใหม่หลังมอ Suthep Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0835751373",
+      "0979265696"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2016/07/11/2d5838064d874b78abfa21d877c542a6.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/07/11/2d5838064d874b78abfa21d877c542a6.jpg",
+    "recommendedMenu": [
+      "ข้าวหมูอบโรสแมรี่",
+      "Crème Brulee",
+      "ชูครีม"
+    ]
+  },
+  "525qX": {
+    "name": "Victory Bakery งามวงศ์วาน",
+    "geolocation": {
+      "lat": 13.856911271415715,
+      "lng": 100.54094463558204
+    },
+    "address": "21/8 Moo 2 \nSoi Ngamwongwarn 31\nNgam Wong Wan Rd, Talat Khwan Mueang Nonthaburi Nonthaburi 11000",
+    "phone": [
+      "025884905",
+      "025884840"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/14/74044e1bffdc4eee8e4105cfaa1ebd17.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2019/12/13/4d5dc8d905454b6a860b75a0032a62d3.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/12/13/4d5dc8d905454b6a860b75a0032a62d3.jpg",
+    "recommendedMenu": [
+      "เอแคลร์",
+      "E'Clair",
+      "คุกกี้"
+    ]
+  },
+  "465619mP": {
+    "name": "The Attic (ดิ แอตติค)",
+    "geolocation": {
+      "lat": 13.9932842,
+      "lng": 99.5631526
+    },
+    "address": "83/1,  ปากแพรก เมืองกาญจนบุรี กาญจนบุรี Pak Phraek Mueang Kanchanaburi Kanchanaburi 71000",
+    "phone": [
+      "0625608003"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/12/19/e0a135d0014147bc9d529e3205cbec17.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/03/23/8f043e88885a43339f6a871389b2b6e8.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/03/23/8f043e88885a43339f6a871389b2b6e8.jpg",
+    "recommendedMenu": [
+      "กาแฟ และ ช็อกโกแลต",
+      "The Attic Latte",
+      "Yuzu americano"
+    ]
+  },
+  "484558kd": {
+    "name": "Camin Cuisine and Cafe Kaset-Nawamin",
+    "geolocation": {
+      "lat": 13.839901678634666,
+      "lng": 100.58246120810509
+    },
+    "address": "ประเสริฐมนูกิจ 2 Sena Nikhom Chatuchak Bangkok 10900",
+    "phone": [
+      "0956156615"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2022/04/04/766f497d620a430583393e745dcd0cd4.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/04/04/766f497d620a430583393e745dcd0cd4.jpg",
+    "recommendedMenu": [
+      "แกงส้มปลากระพง",
+      "หมูฮ้อง",
+      "ใบเหลียงผัดไข่"
+    ]
+  },
+  "798067dn": {
+    "name": "Under the tree",
+    "geolocation": {
+      "lat": 17.40786669696506,
+      "lng": 102.76898427873628
+    },
+    "address": "1 ถนน ประชารักษา ตำบล บ้านเลื่อม อำเภอเมืองอุดรธานี อุดรธานี ประเทศไทย Ban Lueam Mueang Udon Thani Udon Thani 41000",
+    "phone": [
+      "0948919723"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/03/08/2281b732bd9043bb8841856c7e65c543.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/03/08/2281b732bd9043bb8841856c7e65c543.jpg",
+    "recommendedMenu": []
+  },
+  "3534cy": {
+    "name": "Maevaree Thonglor",
+    "geolocation": {
+      "lat": 13.723917,
+      "lng": 100.579347
+    },
+    "address": "บ้านเลขที่1 ปากซอยทองหล่อ ซอยสุขุมวิท 55 Khlong Tan Nuea Watthana Bangkok 10110",
+    "phone": [
+      "023924804",
+      "0931546954"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/10/20/478ac4f1f36c44ad9e098b225ac7d423.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/02/09/abc2f1739d924527bb98f4c6461301f0.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/02/09/abc2f1739d924527bb98f4c6461301f0.jpg",
+    "recommendedMenu": [
+      "ข้าวเหนียวมะม่วง (ข้าวเหนียวขาว) วันนี้อมเปรี้ยวนะคะ",
+      "ข้าวเหนียวขาว ครึ่งกิโลกรัม",
+      "ข้าวเหนียวใบเตย ครึ่งกิโลกรัม"
+    ]
+  },
+  "272032SM": {
+    "name": "Magokoro Japanese Teahouse (มีใจให้มัทฉะ)",
+    "geolocation": {
+      "lat": 18.781249145456222,
+      "lng": 99.00123432390785
+    },
+    "address": "191/1 ถนน ศรีดอนไชย ตำบล ช้างคลาน อำเภอเมืองเชียงใหม่ Chang Khlan Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0641170781",
+      "052010204"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/09/24/590f5ed669b140ec95d8665d05a30cb0.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/05/01/4ab5dc20210f42049fec5dbce0896ed0.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/05/01/4ab5dc20210f42049fec5dbce0896ed0.jpg",
+    "recommendedMenu": [
+      "Matcha Roll",
+      "Matcha Latte 500ml. (Bottle)",
+      "Hojicha Latte 200ml. (Bottle)"
+    ]
+  },
+  "120903wT": {
+    "name": "Gallery Drip Coffee Bangkok Art and Culture Center",
+    "geolocation": {
+      "lat": 13.746938,
+      "lng": 100.530384
+    },
+    "address": "BACC939Rama 1 Rd Wang Mai Pathum Wan Bangkok 10330",
+    "phone": [
+      "0819895244",
+      "0819172131"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2016/03/16/58fe1ed14a5149a7a5aada2b0d0b90f5.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2016/08/20/2fb339b65d6f4347a2185b5d1709f680.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/08/20/2fb339b65d6f4347a2185b5d1709f680.jpg",
+    "recommendedMenu": [
+      "กาแฟดริป",
+      "Drip coffee Jelly",
+      "กาแฟวุ้น"
+    ]
+  },
+  "422068tD": {
+    "name": "Mooh Store",
+    "geolocation": {
+      "lat": 18.795598004966397,
+      "lng": 98.96848384290934
+    },
+    "address": "17, ซอยนิมมานเหมินท์ 15, Suthep Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0853392423"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/01/09/44cd4a38dbef4ad096ea906829b811d5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/01/09/44cd4a38dbef4ad096ea906829b811d5.jpg",
+    "recommendedMenu": [
+      "โดนัท Strawberry Short Cake",
+      "โดนัทครีมบรูเล่",
+      "Charcoal Banana Cream"
+    ]
+  },
+  "734710Mr": {
+    "name": "Tiengna Viennoiserie สุขุมวิท",
+    "geolocation": {
+      "lat": 13.736568,
+      "lng": 100.573007
+    },
+    "address": "3, 3-4 ซอย พร้อมศรี 1 Khlong Tan Nuea Watthana Bangkok ",
+    "phone": [
+      "0611749839"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/03/01/f210ae47601a49848114f071475eb895.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/03/01/f210ae47601a49848114f071475eb895.jpg",
+    "recommendedMenu": [
+      "Croissant pur beurre",
+      "Yuzu",
+      "Tartelette au Citron"
+    ]
+  },
+  "9517VR": {
+    "name": "Thap Thim Krop Che Uon",
+    "geolocation": {
+      "lat": 18.781343848500597,
+      "lng": 99.00187253372951
+    },
+    "address": "193/15 ถนน ศรีดอนไชย ตำบล ช้างคลาน อำเภอเมืองเชียงใหม่ Chang Khlan Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0846084848",
+      "053821094"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/05/27/dc6690a693824eef9c14bd63806a6c8b.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/05/27/dc6690a693824eef9c14bd63806a6c8b.jpg",
+    "recommendedMenu": [
+      "Tab Tim Krob Original Style",
+      "Shrimp Pad Thai",
+      "สลิ่ม"
+    ]
+  },
+  "221804wl": {
+    "name": "Agape Coffee สี่แยกประตูเชียงใหม่",
+    "geolocation": {
+      "lat": 19.907474407529563,
+      "lng": 99.823746252805
+    },
+    "address": "94/4 ถนน ราชโยธา Rop Wiang Mueang Chiang Rai Chiang Rai ",
+    "phone": [
+      "0864302593",
+      "0627755495"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/10/21/ba52fd121ef847899e1171064bd9f7ac.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/10/21/ba52fd121ef847899e1171064bd9f7ac.jpg",
+    "recommendedMenu": [
+      "อเมริกาโน่เย็น Americano (Iced)",
+      "Iced Americano",
+      "โกโก้ (Cocoa)"
+    ]
+  },
+  "338395GW": {
+    "name": "Croissant Coffee House ลาดกระบัง",
+    "geolocation": {
+      "lat": 13.72769881431155,
+      "lng": 100.77105218544602
+    },
+    "address": "3, Hottobun ลาดกระบัง ลาดกระบัง กรุงเทพมหานคร Lat Krabang Lat Krabang Bangkok 10520",
+    "phone": [
+      "0837075679"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/16/c09d9551b81e46d1a6963f746fcd6b6d.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/03/22/78fd6aa86c37475b9d0cf703a2bae590.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/03/22/78fd6aa86c37475b9d0cf703a2bae590.jpg",
+    "recommendedMenu": [
+      "โซบะสลัด หมูพิริคาระ",
+      "บันหมูตุ๋น",
+      "บันหมูพิริคาระ"
+    ]
+  },
+  "186561aZ": {
+    "name": "Patisserie Rosie",
+    "geolocation": {
+      "lat": 13.731196794970732,
+      "lng": 100.58516403660178
+    },
+    "address": "113/2 ซอยเอกมัย5 คลองตันเหนือ วัฒนา กรุงเทพฯ 10110 Khlong Tan Nuea Watthana Bangkok 10110",
+    "phone": [
+      "0925429900",
+      "027115815"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/04/27/ba31d1ab33be40b896227266a7bf2cfc.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/10/19/2e3af4be1b4b42878b6a2718715ed2c7.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/10/19/2e3af4be1b4b42878b6a2718715ed2c7.jpg",
+    "recommendedMenu": [
+      "Cherry ripe",
+      "Basque burnt cheesecake",
+      "Lady Bug"
+    ]
+  },
+  "21209wH": {
+    "name": "Creamery Boutique Ice Cream U-Center",
+    "geolocation": {
+      "lat": 13.735189767943586,
+      "lng": 100.52750056609511
+    },
+    "address": "U-Center BUILDING ซอย จุฬาลงกรณ์ 42 Wang Mai Pathum Wan Bangkok ",
+    "phone": [
+      "0987987098",
+      "0924632669"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/15/6e1e1b348c754dea9150bdf756cc984f.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/03/05/6dd29ce056304ed1a7c393de740129aa.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/03/05/6dd29ce056304ed1a7c393de740129aa.jpg",
+    "recommendedMenu": [
+      "Frozen Choc A Lot Lava Cookie",
+      "Matcha lava",
+      "Frozen Red Velvet Cream Cheese Lava Cookie"
+    ]
+  },
+  "190401As": {
+    "name": "PATA PLANTATION",
+    "geolocation": {
+      "lat": 13.946457,
+      "lng": 100.555351
+    },
+    "address": "70/70, ซอยติวานนท์-ปากเกร็ด 56, ตำบลบ้านใหม่, อำเภอปากเกร็ด, จ.นนทบุรี, 11120, ประเทศไทย Ban Mai Pak Kret Nonthaburi ",
+    "phone": [
+      "025831654",
+      "0812579600",
+      "029615544"
+    ],
+    "priceRange": {
+      "name": "501 - 1,000 baht",
+      "value": 4
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/07/69827e1fb649408eb81e34708ea076e1.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/07/69827e1fb649408eb81e34708ea076e1.jpg",
+    "recommendedMenu": [
+      "ก๋วยเตี๋ยวหลอด",
+      "พิซซ่า ร็อกเก็ตแฮม",
+      "ผักโขมอบชีส"
+    ]
+  },
+  "118180zU": {
+    "name": "Jibtai Cafe Jatujak",
+    "geolocation": {
+      "lat": 13.840891,
+      "lng": 100.556598
+    },
+    "address": "68/12 Kampaengpet 6 Rd Lat Yao Chatuchak Bangkok 10900",
+    "phone": [
+      "021580345"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2019/05/05/75710f5cc5d346068965eff7fceb6a5a.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/05/05/75710f5cc5d346068965eff7fceb6a5a.jpg",
+    "recommendedMenu": [
+      "กาแฟจิบไถ่ปั่น",
+      "Jibtai Signature Pan Fried Egg",
+      "๋Jibtai Signature Fried Rice"
+    ]
+  },
+  "184778aC": {
+    "name": "Paris Mikki สุขุมวิท 19",
+    "geolocation": {
+      "lat": 13.739651,
+      "lng": 100.559916
+    },
+    "address": "27 ซอยสุขุมวิท 19 Khlong Toei Nuea Watthana Bangkok 10110",
+    "phone": [
+      "0888700020"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/22/58b4142022b847669fcd250a879ca236.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2015/11/20/f520397237a341cf8c10ef026f08273b.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/11/20/f520397237a341cf8c10ef026f08273b.jpg",
+    "recommendedMenu": [
+      "Mille-Feuille Signature",
+      "Philip 70",
+      "St Lucia"
+    ]
+  },
+  "24829Xy": {
+    "name": "Imhouse",
+    "geolocation": {
+      "lat": 7.014103975999894,
+      "lng": 100.48796341075649
+    },
+    "address": "ซอย เพชรเกษม 11 Hat Yai Hat Yai Songkhla 90110",
+    "phone": [
+      "0835944281"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2014/07/01/93b4ddde932b44f587b689f41c8f6bb3.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2014/07/01/93b4ddde932b44f587b689f41c8f6bb3.jpg",
+    "recommendedMenu": [
+      "latte",
+      "Brownie",
+      "Green Tea Ice"
+    ]
+  },
+  "211412Vg": {
+    "name": "Tea Factory And More A La Campagne Pattaya",
+    "geolocation": {
+      "lat": 12.859669722852097,
+      "lng": 100.90809667724604
+    },
+    "address": "21/2 หมู่1 นาจอมเทียน สัตหีบ Na Chom Thian Sattahip Chon Buri ",
+    "phone": [
+      "0917838772"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2017/07/24/c93cf966350849699e5ff200b25b0aff.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2017/07/24/c93cf966350849699e5ff200b25b0aff.jpg",
+    "recommendedMenu": [
+      "ชากุหลาบ",
+      "Greentea and redbean cake",
+      "Coconut Cate"
+    ]
+  },
+  "348685Aq": {
+    "name": "Ryn - Tea Room & Cafe Authentic Tea & Slow Drop Coffee",
+    "geolocation": {
+      "lat": 7.884947,
+      "lng": 98.387191
+    },
+    "address": "8, Soi Krabi, Talat Nuea, Phuket, 83000, Thailand Talat Nuea Mueang Phuket Phuket ",
+    "phone": [
+      "0800760708",
+      "0894722495"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/08/04/ca86599977b3415ca21b4abecb0db83e.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/08/04/ca86599977b3415ca21b4abecb0db83e.jpg",
+    "recommendedMenu": [
+      "Matcha Latte [Ceremonial Grade]",
+      "Matcha Cheesecake",
+      "Houjicha Latte"
+    ]
+  },
+  "300737Au": {
+    "name": "The Village Farm To Cafe’",
+    "geolocation": {
+      "lat": 14.0486609,
+      "lng": 99.43900099999996
+    },
+    "address": "ถนน แสงชูโต Nong Bua Mueang Kanchanaburi Kanchanaburi ",
+    "phone": [
+      "034540599"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2018/11/02/2fce2bc798f04a1cb96e1efde030e555.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/11/02/2fce2bc798f04a1cb96e1efde030e555.jpg",
+    "recommendedMenu": [
+      "เต่าปังลุยสวน",
+      "ซี่โครงหมูอบ",
+      "ซุปเห็ดทรัฟเฟิล"
+    ]
+  },
+  "428505Cv": {
+    "name": "Srna",
+    "geolocation": {
+      "lat": 12.581684,
+      "lng": 99.955413
+    },
+    "address": "ซอย หัวหิน 47 Hua Hin Hua Hin Prachuap Khiri Khan ",
+    "phone": [
+      "0898162750",
+      "0944454492"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/03/02/133c552596b542228b992327af932068.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/03/02/133c552596b542228b992327af932068.jpg",
+    "recommendedMenu": []
+  },
+  "435084hh": {
+    "name": "OOObkk",
+    "geolocation": {
+      "lat": 13.774943,
+      "lng": 100.611038
+    },
+    "address": "291 ซ. ลาดพร้าว 94 Phlapphla Wang Thonglang Bangkok ",
+    "phone": [
+      "0988124649"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/06/01/4d5dde5ede5c45668035b638fbf40e8e.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/06/01/4d5dde5ede5c45668035b638fbf40e8e.jpg",
+    "recommendedMenu": [
+      "Iced  Americano",
+      "Flat White",
+      "Dirty"
+    ]
+  },
+  "120531Aa": {
+    "name": "Suchat I-Tim Tod",
+    "geolocation": {
+      "lat": 7.902747,
+      "lng": 98.377117
+    },
+    "address": "371/26 Yaowarat Road Ratsada Mueang Phuket Phuket 83000",
+    "phone": [
+      "076223820"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2016/05/25/65249dbb41f04c838ca72824483e1b9e.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/05/25/65249dbb41f04c838ca72824483e1b9e.jpg",
+    "recommendedMenu": [
+      "ไอติมทอด",
+      "ไอศกรีมทอด",
+      "ไอศกรีมไข่แข็ง"
+    ]
+  },
+  "307185yQ": {
+    "name": "Mitte Coffee, Cafe & Friends",
+    "geolocation": {
+      "lat": 13.905966519404,
+      "lng": 100.53886371793
+    },
+    "address": "96/46 หมู่บ้านเมืองทองธานีโครงการ 4 ซ.มีสุข 2 ถ.แจ้งวัฒนะ ต.บางพูด อ.ปากเกร็ด จ.นนทบุรี 11120 Bang Phut Pak Kret Nonthaburi ",
+    "phone": [
+      "0644756496"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/01/28/84edab0674e2444d990a35815a295fca.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/04/06/7531ab622e9646ed9737301da4cd1f9c.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/04/06/7531ab622e9646ed9737301da4cd1f9c.jpg",
+    "recommendedMenu": [
+      "Dirty",
+      "Mitte Pancake",
+      "Winter kyoto latte"
+    ]
+  },
+  "383385ZB": {
+    "name": "Lifehouse Cafe",
+    "geolocation": {
+      "lat": 13.7606857,
+      "lng": 101.37824120000005
+    },
+    "address": "168 ตำบล ท่าถ่าน อำเภอ พนมสารคาม ฉะเชิงเทรา Ban Song Phanom Sarakham Chachoengsao ",
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/02/11/f88d8a3e77bf42089cb8feec1fc64ed6.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2019/05/05/5e86120fd1974952ad4ebb39f1d8fc75.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/05/05/5e86120fd1974952ad4ebb39f1d8fc75.jpg",
+    "recommendedMenu": [
+      "อเมริกาโน่เย็น",
+      "Capuccino(Ice)",
+      "Strawberry Crepe Cake"
+    ]
+  },
+  "304001ta": {
+    "name": "The Creeper House",
+    "geolocation": {
+      "lat": 12.818104,
+      "lng": 101.187073
+    },
+    "address": "34/8 ม.8 ถนนสาย 11 ซอย 1 Nikhom Phatthana Nikhom Phatthana Rayong ",
+    "phone": [
+      "0969454941"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/09/03/8e73f27c12344792b8ff5a1b6d6f9b7b.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2019/09/03/817f32837cf840bbb675266d6698c578.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/09/03/817f32837cf840bbb675266d6698c578.jpg",
+    "recommendedMenu": []
+  },
+  "639684vc": {
+    "name": "NANA Coffee Roaster  Ari",
+    "geolocation": {
+      "lat": 13.782639987152852,
+      "lng": 100.54197902137659
+    },
+    "address": "24/2 ซอย อารีย์ 4 Sam Saen Nai Phayathai Bangkok ",
+    "phone": [
+      "0839082222"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2020/08/10/ae94c25ab66a4abf8b76f6c93f0e3b02.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/11/27/b95bdcd551684344884a583f1729b76c.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/11/27/b95bdcd551684344884a583f1729b76c.jpg",
+    "recommendedMenu": [
+      "Dirty",
+      "Signature KANDA*",
+      "Wake Up"
+    ]
+  },
+  "145714Gu": {
+    "name": "Simple Day Cafe THE BLOC Ratchaphruk",
+    "geolocation": {
+      "lat": 13.768264,
+      "lng": 100.444749
+    },
+    "address": "Soi Ratchaphruek 18, Ratchaphruek Road Bang Ramat Taling Chan Bangkok 10170",
+    "phone": [
+      "0865558789"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/09/26/9453ca8ebac74ba9b92e31fb9e039d84.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/11/27/bacecf10ba594d5c876fdecf43bd08a5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/11/27/bacecf10ba594d5c876fdecf43bd08a5.jpg",
+    "recommendedMenu": []
+  },
+  "1517473DO": {
+    "name": "ชาบาร์ คอฟฟี่ (ชาบาร์คอฟฟี่)",
+    "geolocation": {
+      "lat": 12.383558,
+      "lng": 99.999299
+    },
+    "address": "ปากน้ำปราณ, ปราณบุรี undefined undefined Prachuap Khiri Khan ",
+    "phone": [
+      "0866264403"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2015/02/20/d13957fb12884400a43a2a763380b71f.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/02/20/d13957fb12884400a43a2a763380b71f.jpg",
+    "recommendedMenu": []
+  },
+  "292740UU": {
+    "name": "505 Kawhom Main Kitchen",
+    "geolocation": {
+      "lat": 14.533096337329237,
+      "lng": 101.36982601135968
+    },
+    "address": "นม. 1016, หมูสี, ปากช่อง, จ.นครราชสีมา, 30130, ประเทศไทย Mu Si Pak Chong Nakhon Ratchasima ",
+    "phone": [
+      "0651213956",
+      "0973463536"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/06/22/966555a8ecfe40328da0851cf27e5fa3.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/06/22/966555a8ecfe40328da0851cf27e5fa3.jpg",
+    "recommendedMenu": [
+      "กะเพราเนื้อน่องลาย",
+      "ไข่เจียวธรรมดาแต่อร่อย",
+      "หมูกรอบผัดพริกเกลือ"
+    ]
+  },
+  "166774rY": {
+    "name": "Little Hideout Patisserie Ratchaphruek",
+    "geolocation": {
+      "lat": 13.784073,
+      "lng": 100.443057
+    },
+    "address": "172 Chimplee Rd. Kwang Chimplee Khet Talingchan Bangkok Thailand 10170, , ,  10170 Chim Phli Taling Chan Bangkok 10170",
+    "phone": [
+      "0818218795"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2019/12/31/d59626ef3a80475881403f2da0b0085f.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/12/31/d59626ef3a80475881403f2da0b0085f.jpg",
+    "recommendedMenu": [
+      "Browndary garden",
+      "The cube",
+      "All of me"
+    ]
+  },
+  "117841dY": {
+    "name": "othungnayki",
+    "geolocation": {
+      "lat": 13.106572153175,
+      "lng": 99.943694975227
+    },
+    "address": "ถนนราชดำเนิน Khlong Kra Saeng Mueang Phetchaburi Phetchaburi ",
+    "phone": [
+      "0818523350"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/11/04/f737d5c1737349008f7d2273b5aa0b0a.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/11/04/f737d5c1737349008f7d2273b5aa0b0a.jpg",
+    "recommendedMenu": []
+  },
+  "7021TY": {
+    "name": "Bake a wish Japanese Homemade Cake Suksawat 19",
+    "geolocation": {
+      "lat": 13.681409,
+      "lng": 100.494755
+    },
+    "address": "363/40Soi Suksawat 19 Suksawat Road Bang Pakok Rat Burana Bangkok 10140",
+    "phone": [
+      "024273120"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/14/2850803cce884016b3a1cc7f01685fd9.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/06/19/f9004b047e2f4b49b277219c61e3aea5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/06/19/f9004b047e2f4b49b277219c61e3aea5.jpg",
+    "recommendedMenu": [
+      "ชูครีมเเป้งนุ่มเเบบกล่อง",
+      "Melt In The Mouth.",
+      "Chocolate Cake"
+    ]
+  },
+  "948919tG": {
+    "name": "Kopihub Kopihub",
+    "geolocation": {
+      "lat": 13.335651,
+      "lng": 100.942048
+    },
+    "address": "207/94 หมู่ 3 ตำบลเสม็ด อำเภอเมืองชลบุรี จังหวัดชลบุรี Samet Mueang Chon Buri Chon Buri ",
+    "phone": [
+      "0925553225"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/06/09/bedf15f638d143aab38a0a86cf4989e4.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/09/13/e9797d39f46a44cbbb95e84396399504.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/09/13/e9797d39f46a44cbbb95e84396399504.jpg",
+    "recommendedMenu": [
+      "ติ่ม",
+      "ฮะเก๋าทรัฟเฟิล",
+      "ปลากระพง"
+    ]
+  },
+  "193562qW": {
+    "name": "Tieng Na coffee and bakery farm",
+    "geolocation": {
+      "lat": 16.910202136357988,
+      "lng": 99.11944456506444
+    },
+    "address": "ถนน พหลโยธิน Mai Ngam Mueang Tak Tak 63000",
+    "phone": [
+      "0968050363"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/07/24/15654e0d0a7b4f72ad1c0da808de4c7d.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/02/07/bc54b8313add45419964f35c69ad5ba1.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/02/07/bc54b8313add45419964f35c69ad5ba1.jpg",
+    "recommendedMenu": [
+      "Croissant",
+      "Salted Caramel Magnum",
+      "ข้าวกระเพราโคขุนไข่ข้น"
+    ]
+  },
+  "14527nw": {
+    "name": "Portobello & Désiré",
+    "geolocation": {
+      "lat": 13.829255,
+      "lng": 100.621427
+    },
+    "address": "40 Prasertmanukij RoadPrasertmanukij 22, Kaset Navamin. Lat Phrao Lat Phrao Bangkok 10230",
+    "phone": [
+      "029077528",
+      "0982898703"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/01/2174914b091246fdb8bb2a6ccf24993e.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2017/10/27/49e77c1e4f174f239f12b60bf704662a.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2017/10/27/49e77c1e4f174f239f12b60bf704662a.jpg",
+    "recommendedMenu": [
+      "Pizza Parma Ham",
+      "Fusilli Truffle",
+      "Scone"
+    ]
+  },
+  "363310aP": {
+    "name": "Red Diamond Cafe Thonglor",
+    "geolocation": {
+      "lat": 13.732842180279565,
+      "lng": 100.58235136080214
+    },
+    "address": "320 สุขุมวิท แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพมหานคร 10110 Khlong Tan Nuea Watthana Bangkok ",
+    "phone": [
+      "0638351956"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/05/10/777a7a82e4fe4a9484eca2c71f27dae7.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/08/14/8a38a3bd6f5c436aae90e3a804332a76.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/08/14/8a38a3bd6f5c436aae90e3a804332a76.jpg",
+    "recommendedMenu": [
+      "Virgin Dirty (Iced)",
+      "Iced Matcha (Without Milk)",
+      "Kid Cacao"
+    ]
+  },
+  "27080Bz": {
+    "name": "Little Tree Garden Ban Mai",
+    "geolocation": {
+      "lat": 13.689028373047424,
+      "lng": 100.25146172948001
+    },
+    "address": "43 หมู่ 5 ต.บ้านใหม่ อ.สามพราน จ.นครปฐม 73110 Ban Mai Sam Phran Nakhon Pathom ",
+    "phone": [
+      "0818244119",
+      "0816946090"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/05/24/2c12ea56ccfb42559e940b056d4cd80d.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2016/06/21/7691e8ee24dc4c058a405dfdf08833a3.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/06/21/7691e8ee24dc4c058a405dfdf08833a3.jpg",
+    "recommendedMenu": [
+      "ลิ้นจี่กุหลาบ เย็น",
+      "เค้กช็อกโกเลตแมคคาเดเมีย",
+      "เมี่ยงดอกไม้"
+    ]
+  },
+  "152948lv": {
+    "name": "Pancake Corner",
+    "geolocation": {
+      "lat": 7.883073487895301,
+      "lng": 98.39071788883466
+    },
+    "address": "51/2 ถนน ภูเก็ต Talat Yai Mueang Phuket Phuket ",
+    "phone": [
+      "0824195445"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2019/11/10/b8ccfe68520b40cab9fde6a7b99828a0.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/11/10/b8ccfe68520b40cab9fde6a7b99828a0.jpg",
+    "recommendedMenu": [
+      "Chocolate pancake Lava",
+      "Butter Maple Pancake",
+      "Mango bingsu"
+    ]
+  },
+  "120321po": {
+    "name": "Nakara Jardin Bistro & Salon de Thé",
+    "geolocation": {
+      "lat": 18.779468,
+      "lng": 99.005654
+    },
+    "address": "ซอยเจริญประเทศ 9 Chang Khlan Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0613706466"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2015/11/01/09836e88bf1e48ecbd494618f4081fdc.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/11/01/09836e88bf1e48ecbd494618f4081fdc.jpg",
+    "recommendedMenu": [
+      "Scone (2 pcs)",
+      "Scones",
+      "Raisin Scones with Cream and Strawberry-Raspberry Preserve"
+    ]
+  },
+  "254149YR": {
+    "name": "BRIX Dessert Bar สยามพารากอน",
+    "geolocation": {
+      "lat": 13.7472694,
+      "lng": 100.5344641
+    },
+    "address": "991 ถนนพระราม 1 Pathum Wan Pathum Wan Bangkok ",
+    "phone": [
+      "021294836"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/09/27/f601cfb9bce54e5786f0fc67eb5c3335.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/04/17/0d03a558ce7043e0812a62d5c7536d7f.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/04/17/0d03a558ce7043e0812a62d5c7536d7f.jpg",
+    "recommendedMenu": [
+      "BLACK SUGAR BUBBLE MILK TEA",
+      "Raspberry Almond Croissant",
+      "Fresh Milk Black Sugar Bubble"
+    ]
+  },
+  "125319nr": {
+    "name": "Farm to Table Organic cafe",
+    "geolocation": {
+      "lat": 13.743644880212559,
+      "lng": 100.4961057404928
+    },
+    "address": "179 ถนนอัษฎางค์ Wang Burapha Phirom Phra Nakhon Bangkok 10200",
+    "phone": [
+      "021152625"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/15/823d0840b42d40488303e56eaef3141f.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/06/06/1189dafd528d421fbcb4c5d6f9658a35.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/06/06/1189dafd528d421fbcb4c5d6f9658a35.jpg",
+    "recommendedMenu": [
+      "บราวนี่ชาเขียวเข้มข้น",
+      "ชาไทยโบราณ",
+      "Iced Lime Honey + Espresso"
+    ]
+  },
+  "213776jD": {
+    "name": "Luka Sathorn",
+    "geolocation": {
+      "lat": 13.721639,
+      "lng": 100.523855
+    },
+    "address": "64, 3 ถนนปั้น Silom Bang Rak Bangkok ",
+    "phone": [
+      "0918868717"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2016/03/22/520f513d930a4ee1bebaf6386eef14ab.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/03/22/520f513d930a4ee1bebaf6386eef14ab.jpg",
+    "recommendedMenu": [
+      "Luka Breakfast Burrito",
+      "Savoury 'Bacon & Butter' French Toast",
+      "Salted Caramel Latte"
+    ]
+  },
+  "503536zw": {
+    "name": "Chuanpisamai Cafe Phaholyothin 11",
+    "geolocation": {
+      "lat": 13.786366,
+      "lng": 100.538693
+    },
+    "address": "179 พหลโยธิน 11 เจริญพร 1, สามเสนใน, กรุงเทพมหานคร, 10400, ประเทศไทย Sam Saen Nai Phayathai Bangkok ",
+    "phone": [
+      "0955540638"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/24/8ee22b2f12bc4867ac9f304e76df29fb.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/24/8ee22b2f12bc4867ac9f304e76df29fb.jpg",
+    "recommendedMenu": [
+      "สปาเกตตีกุ้งกระเทียมสเปน",
+      "Mia Mia",
+      "Be My Passion"
+    ]
+  },
+  "218426up": {
+    "name": "Farm to Table Hideout",
+    "geolocation": {
+      "lat": 13.743744,
+      "lng": 100.496857
+    },
+    "address": "15 ซอย ท่ากลาง Wang Burapha Phirom Phra Nakhon Bangkok 10200",
+    "phone": [
+      "020048771"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/15/823d0840b42d40488303e56eaef3141f.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/06/03/92c52f1b92954e30ab8d5901d7e892e0.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/06/03/92c52f1b92954e30ab8d5901d7e892e0.jpg",
+    "recommendedMenu": [
+      "ข้าวไก่อบซอสเสาวรส",
+      "สลัดผักออร์แกนิค (ไข่ต้ม) น้ำสลัดข้าวกล้องกระชายดำ",
+      "ขนมข้าวตอกตั้ง+เจลาโต้มะพร้าวอัญชัน"
+    ]
+  },
+  "386165Sq": {
+    "name": "Perfect Strangers Bangkok",
+    "geolocation": {
+      "lat": 13.790598688587398,
+      "lng": 100.5440291193376
+    },
+    "address": "196/6 ตึกดำ ประดิพัทธ์ Sam Saen Nai Phayathai Bangkok ",
+    "phone": [
+      "0813540069",
+      "0822348432"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/03/04/17f38157a4584a8b8099d82527f94526.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/03/04/17f38157a4584a8b8099d82527f94526.jpg",
+    "recommendedMenu": [
+      "Opps!!",
+      "Apple A Day Keep Doctor Away",
+      "My mine's a mess"
+    ]
+  },
+  "26924lP": {
+    "name": "Copee ข้างศาลากลาง",
+    "geolocation": {
+      "lat": 8.420431105912634,
+      "lng": 99.96380274981834
+    },
+    "address": "ซอย นางงาม Nai Muang Mueang Nakhon Si Thammarat Nakhon Si Thammarat ",
+    "phone": [
+      "0894319999"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/10/16/721ac666973e4249a38d6eb7e496047e.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2017/11/21/d038901c4ef047768848eb8f6cd0c96f.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2017/11/21/d038901c4ef047768848eb8f6cd0c96f.jpg",
+    "recommendedMenu": [
+      "บะกุ๊ดเต๋",
+      "Thai Tea Latte",
+      "กาแฟเย็น"
+    ]
+  },
+  "153286Kv": {
+    "name": "Polar Boulangerie and Patisserie Chianglai",
+    "geolocation": {
+      "lat": 19.908465594704637,
+      "lng": 99.78287322999313
+    },
+    "address": "366-366/1 Trairat Road Rop Wiang Mueang Chiang Rai Chiang Rai 57000",
+    "phone": [
+      "0873669366"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/06/19/325104e0cdbc4e419f1f4f1912de0a2e.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/01/15/f3c8253cbbe4402fbe0dbe457ff1c037.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/01/15/f3c8253cbbe4402fbe0dbe457ff1c037.jpg",
+    "recommendedMenu": [
+      "ชูครีม",
+      "ช็อกโกแลตทรัฟเฟิลเค้ก",
+      "chocolate truffle cake"
+    ]
+  },
+  "118295AD": {
+    "name": "Café Kantary Chiang Mai",
+    "geolocation": {
+      "lat": 18.79589906909888,
+      "lng": 98.96564765889548
+    },
+    "address": "44, 44/1-2 Soi 12 Nimmanhaemin Road Suthep Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "053222111",
+      "053400877"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/02/002218cd932843109991c94bf51e2f71.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/06/30/a9fbdb3117df4b9c8fda0a04f1096064.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/06/30/a9fbdb3117df4b9c8fda0a04f1096064.jpg",
+    "recommendedMenu": [
+      "honey toast",
+      "Banana in black crepe",
+      "เครปเค้ก"
+    ]
+  },
+  "381145Mm": {
+    "name": "I C I",
+    "geolocation": {
+      "lat": 13.736697909488928,
+      "lng": 100.56518023896358
+    },
+    "address": "24 ซอย สุขุมวิท 27 Khlong Toei Nuea Watthana Bangkok ",
+    "phone": [
+      "020073113",
+      "0917245534"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2022/02/12/f7a472a62ed74717b11b9de9822ea876.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/02/12/f7a472a62ed74717b11b9de9822ea876.jpg",
+    "recommendedMenu": [
+      "Yuzu Soda",
+      "Chocolate-Praline Tart 195฿",
+      "My Cheese Cake"
+    ]
+  },
+  "11596bA": {
+    "name": "La Baguette Bakery Cafe Naklua, Pattaya",
+    "geolocation": {
+      "lat": 12.952116,
+      "lng": 100.887771
+    },
+    "address": "164/1 หมู่ที่ 5 ถนน พัทยา-นาเกลือ อำเภอบางละมุง Na Kluea Bang Lamung Chon Buri 20150",
+    "phone": [
+      "0839467711"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/15/d67afc099d6f4e198098657dc2925a5d.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/07/26/131b626be26743dcba66e73c91befd16.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/07/26/131b626be26743dcba66e73c91befd16.jpg",
+    "recommendedMenu": [
+      "Almond Croissant Box Set",
+      "อัลมอนด์ครัวซอง",
+      "La Baguette Cake LB1"
+    ]
+  },
+  "340254eK": {
+    "name": "Ha Tian Cafe",
+    "geolocation": {
+      "lat": 13.74505622173993,
+      "lng": 100.4917653202724
+    },
+    "address": "ถนน มหาราช Phra Borom Maha Ratchawang Phra Nakhon Bangkok ",
+    "phone": [
+      "0813020651"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2018/08/09/7bd9d36ce22344ee980975c11b135b49.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/08/09/7bd9d36ce22344ee980975c11b135b49.jpg",
+    "recommendedMenu": [
+      "ลาเต้กุหลาบ",
+      "carrot cake",
+      "Americano Yuzu"
+    ]
+  },
+  "291154xA": {
+    "name": "LungChom's ice cream",
+    "geolocation": {
+      "lat": 19.89796,
+      "lng": 99.830086
+    },
+    "address": " Tha Sai Mueang Chiang Rai Chiang Rai ",
+    "phone": [
+      "053756931",
+      "0871888077"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2016/07/19/b10811b86d8246fd8d99ab2e339fa876.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/07/19/b10811b86d8246fd8d99ab2e339fa876.jpg",
+    "recommendedMenu": [
+      "ไอศกรีมกะทิ",
+      "ไอศกรีมชาเขียว",
+      "ไอศครีมชนิดต่างๆ"
+    ]
+  },
+  "275785mK": {
+    "name": "Red Diamond Cafe ลาดพร้าว 71 (เลียบทางด่วนรามอินทรา)",
+    "geolocation": {
+      "lat": 13.794761418754657,
+      "lng": 100.6118344814814
+    },
+    "address": "733 ถนนสังคมสงเคราะห์ Saphansong Wang Thonglang Bangkok ",
+    "phone": [
+      "0658936287"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/09/08/af00ab2730734a2cb0da06ceb8d0a9e8.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/04/20/4b36e34313434c1c95aba32ae9c1aec8.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/04/20/4b36e34313434c1c95aba32ae9c1aec8.jpg",
+    "recommendedMenu": [
+      "Hot Caffe Latte",
+      "Iced Caffe Latte",
+      "Old School 250g"
+    ]
+  },
+  "120304pF": {
+    "name": "THINK CAFE & EATERY THE BLOC Ratchaphruk",
+    "geolocation": {
+      "lat": 13.76841017957542,
+      "lng": 100.44492741571725
+    },
+    "address": "ถนนราชพฤกษ์ Bang Ramat Taling Chan Bangkok 10170",
+    "phone": [
+      "0865558789"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2022/02/23/34f9cb352f2941b7a9d2e0c6d00bb6e8.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/02/21/d81cc6033d5f4c9cb8b79d4b26e77437.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/02/21/d81cc6033d5f4c9cb8b79d4b26e77437.jpg",
+    "recommendedMenu": [
+      "TEDDY CAKE",
+      "Panda cake",
+      "Iced THINK Chocolate Signature"
+    ]
+  },
+  "181469fu": {
+    "name": "Sila Coffee & Bistro",
+    "geolocation": {
+      "lat": 13.32911,
+      "lng": 100.936394
+    },
+    "address": "55/33, Soi Muban Phattara Phon, Ang Sila, Amphoe Mueang Chon Buri, Chonburi, 20000, Thailand Ang Sila Mueang Chon Buri Chon Buri 20000",
+    "phone": [
+      "0910038258"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/11/23/17752afcc28647a999d6d38a21c62cdf.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/11/23/17752afcc28647a999d6d38a21c62cdf.jpg",
+    "recommendedMenu": [
+      "Deep fried pork knuckle",
+      "Spicy Spaghetti with Seafood",
+      "Baked Spinach And Cheese"
+    ]
+  },
+  "22882dx": {
+    "name": "TINPRESSO",
+    "geolocation": {
+      "lat": 13.684802899999987,
+      "lng": 100.6200589999999
+    },
+    "address": "ซอยวชิรธรรมสาธิต 21 Bang Chak Phra Khanong Bangkok 10260",
+    "phone": [
+      "0816369531"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2016/06/22/cfb8b7e1e1ba4a029b695f0e2929b506.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/06/05/79d3a42f636f437682cc878fc4c1da58.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/06/05/79d3a42f636f437682cc878fc4c1da58.jpg",
+    "recommendedMenu": [
+      "Doppio Ristretto Cafe Latte (Hot) (Regular)",
+      "Cafe Latte (Regular)",
+      "Doppio Ristretto (Regular)"
+    ]
+  },
+  "244837Na": {
+    "name": "VOODOO CAFE voodoo cafe",
+    "geolocation": {
+      "lat": 13.8653,
+      "lng": 100.852755
+    },
+    "address": "เลขที่ 44/7 หมู่ 10 Nong Chok Nong Chok Bangkok ",
+    "phone": [
+      "021707900"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/09/11/7c93d1b425c34627b4ccf1f81f8b9976.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/03/06/9786effd3765408998fecdc377ad144e.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/03/06/9786effd3765408998fecdc377ad144e.jpg",
+    "recommendedMenu": [
+      "อเมริกาโน่ (เย็น)",
+      "ข้าวหมกไก่",
+      "ช็อคโกแลต (เย็น)"
+    ]
+  },
+  "375233Yk": {
+    "name": "Kathi baanahaanthai",
+    "geolocation": {
+      "lat": 13.782287552740831,
+      "lng": 100.44724769890308
+    },
+    "address": "14 ถนน บรมราชชนนี Chim Phli Taling Chan Bangkok ",
+    "phone": [
+      "0917706928"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/05/26/5a7469cf0ad740b2a61e4c2f84cf52ea.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/05/26/5a7469cf0ad740b2a61e4c2f84cf52ea.jpg",
+    "recommendedMenu": [
+      "น้ำพริกไข่เค็ม",
+      "ยำไหลบัว",
+      "หมูโสร่ง"
+    ]
+  },
+  "9545oH": {
+    "name": "Anya's Place Salaya",
+    "geolocation": {
+      "lat": 13.797378,
+      "lng": 100.330479
+    },
+    "address": "152 หมู่ 5 ถ.ปิ่นเกล้า-นครไชยศรี ต.ศาลายา อ.พุทธมณฑล จ.นครปฐม Salaya Phutthamonthon Nakhon Pathom 10170",
+    "phone": [
+      "028003533",
+      "0819395567"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/05/29/daa8bde4b98c44e68396988572aadcd5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/05/29/daa8bde4b98c44e68396988572aadcd5.jpg",
+    "recommendedMenu": [
+      "น้ำพริกคุณยาย",
+      "สปาเก็ตตี้ไข่กุ้ง",
+      "ไข่ระเบิด"
+    ]
+  },
+  "882574Mh": {
+    "name": "อะคัพอะเค้ก",
+    "geolocation": {
+      "lat": 13.7993333,
+      "lng": 100.6066715
+    },
+    "address": "71 ถ. นาคนิวาส แขวง ลาดพร้าว เขตลาดพร้าว กรุงเทพมหานคร ประเทศไทย Lat Phrao Lat Phrao Bangkok 10230",
+    "phone": [
+      "0961644232"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/08/18/497f0889b189420f917c8a84cca7f685.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/08/18/497f0889b189420f917c8a84cca7f685.jpg",
+    "recommendedMenu": []
+  },
+  "413734uD": {
+    "name": "Sheeva Cafe Pattaya",
+    "geolocation": {
+      "lat": 12.917869,
+      "lng": 100.898193
+    },
+    "address": "ซอยสุขุมวิทพัทยา 75 หมู่13 , อ.บางละมุง, ตำบล .หนืองปรือ จ.ชลบุรี, 20150, ประเทศไทย Muang Pattaya Bang Lamung Chon Buri ",
+    "phone": [
+      "0817823099"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/09/ab1c3342be8344da80dc9e64c66b5139.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/09/ab1c3342be8344da80dc9e64c66b5139.jpg",
+    "recommendedMenu": [
+      "Dark choc",
+      "อเมริกาโน่",
+      "Espresso"
+    ]
+  },
+  "329058xm": {
+    "name": "Mali Cakery Homemade ขอนแก่น",
+    "geolocation": {
+      "lat": 16.462312,
+      "lng": 102.836517
+    },
+    "address": "488, Soi Mittraphap 15, Nai Mueang, Mueang Khon Kaen, Khon Kaen, 40000, Thailand Nai Mueang Mueang Khon Kaen Khon Kaen 40000",
+    "phone": [
+      "0906989900"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2022/03/19/f2f74205c43546db999db77fbced5863.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/03/19/f2f74205c43546db999db77fbced5863.jpg",
+    "recommendedMenu": [
+      "ทาร์ตลิ้นจี้กุหลาบ",
+      "ชีสเค้กเบอร์รี่",
+      "ชามะลิ"
+    ]
+  },
+  "291950fP": {
+    "name": "Seenbangkok",
+    "geolocation": {
+      "lat": 13.734734,
+      "lng": 100.395161
+    },
+    "address": "พุทธมลฑลสาย 2 ปากซอย 11 เขต บางแค กรุงเทพมหานคร 10160 Bang Phai Bang Khae Bangkok ",
+    "phone": [
+      "020021100"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/05/22/6fd78e2df3764eceb4a715ddcdb22828.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2019/06/27/0336e67cbf1349c3a395ed7fa7f3152a.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/06/27/0336e67cbf1349c3a395ed7fa7f3152a.jpg",
+    "recommendedMenu": [
+      "Chocolate Signature",
+      "Matcha Bomb",
+      "ขนมปังไชยาไข่ย้อย"
+    ]
+  },
+  "379677DG": {
+    "name": "NAMKEE CAFE",
+    "geolocation": {
+      "lat": 6.993207,
+      "lng": 100.48281
+    },
+    "address": "117-119 ถนน โชติวิทยกุล 1 Hat Yai Hat Yai Songkhla ",
+    "phone": [
+      "0803955454"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/02/20/674cc4050951440f8ca04235494d4fa4.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/02/23/d3e12d8d318c43f4832db4ca880ab44b.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/02/23/d3e12d8d318c43f4832db4ca880ab44b.jpg",
+    "recommendedMenu": [
+      "Basque burnt cheesecake",
+      "Foi thong cake",
+      "Iced Latte"
+    ]
+  },
+  "247840xd": {
+    "name": "BROWN",
+    "geolocation": {
+      "lat": 12.391764,
+      "lng": 99.987585
+    },
+    "address": "6/42 ม.2 ต.ปากน้ำปราณ อ.ปราณบุรี จ.ประจวบคีรีขันธ์ 77220 Pak Nam Pran Pran Buri Prachuap Khiri Khan 77220",
+    "phone": [
+      "0616563222"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/08/05/9fcc8b328b4745389955fe13387c3083.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2016/09/13/e5dfccbe4f304ecd94edd7df358a36b3.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/09/13/e5dfccbe4f304ecd94edd7df358a36b3.jpg",
+    "recommendedMenu": [
+      "Spinach with cheese",
+      "Coconut cake",
+      "Ice Hojicha latte"
+    ]
+  },
+  "486713Pc": {
+    "name": "Bucolic",
+    "geolocation": {
+      "lat": 14.513712,
+      "lng": 101.449787
+    },
+    "address": "นม. 3052, Mu Si, Pak Chong, Nakhon Ratchasima, 30130, Thailand Mu Si Pak Chong Nakhon Ratchasima ",
+    "phone": [
+      "0656695497"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/02/22/4e20cc857011482aa5be794997f35f3c.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/02/22/4e20cc857011482aa5be794997f35f3c.jpg",
+    "recommendedMenu": [
+      "Red Velvet Cake",
+      "Croissant Butter",
+      "Iced Cappuccino"
+    ]
+  },
+  "305176sh": {
+    "name": "November Cafe",
+    "geolocation": {
+      "lat": 13.758737,
+      "lng": 100.395538
+    },
+    "address": "ถนนพุทธมณฑลสาย 2 Thawi Watthana Thawi Watthana Bangkok ",
+    "phone": [
+      "0982263626",
+      "0941484563"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/01/11/162eb9e21cc5438a8fa2e249b23b0591.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/01/11/a7fb21ad464f4598a60d56f409ca8240.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/01/11/a7fb21ad464f4598a60d56f409ca8240.jpg",
+    "recommendedMenu": [
+      "black cocoa 85 บาท",
+      "ออเดิร์ฟเหนือ",
+      "แกงปูใบชะพลู+ขนมจีน"
+    ]
+  },
+  "629489nV": {
+    "name": "IVORY COAST ALMOND Sena - Ratchayotin",
+    "geolocation": {
+      "lat": 13.831876,
+      "lng": 100.580144
+    },
+    "address": "330 ซอย เสนานิคม 1 ซอย 12 แยก 5 จันทรเกษม Chan Kasem Chatuchak Bangkok ",
+    "phone": [
+      "0993655455"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/01/05/966fe8ea9dc449b6ae0e55f91280fd1e.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/18/94b6421038a04a65b48c1c849f3bb536.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/18/94b6421038a04a65b48c1c849f3bb536.jpg",
+    "recommendedMenu": [
+      "Matcha latte",
+      "(A04) Fish and Chip"
+    ]
+  },
+  "925929Pj": {
+    "name": "The Baristro Asian Style Suan Dok-Back of Chiang Mai University Area",
+    "geolocation": {
+      "lat": 18.78992665631942,
+      "lng": 98.95162314176561
+    },
+    "address": "200 ถนน สุเทพ ตำบลสุเทพ อำเภอเมืองเชียงใหม่ เชียงใหม่ ประเทศไทย 50200 Suthep Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0924553647"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/08/09/c9d69d0a558c4b9992b9ba616dfac283.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/08/09/c9d69d0a558c4b9992b9ba616dfac283.jpg",
+    "recommendedMenu": [
+      "Hojicha Uji",
+      "Haruka Shizuoka"
+    ]
+  },
+  "302235ey": {
+    "name": "Eureka Coffee Tap Saladaeng ศาลาแดง",
+    "geolocation": {
+      "lat": 13.726736572491058,
+      "lng": 100.54160551012751
+    },
+    "address": "14/7 ถนน สาทรเหนือ  สาทร ซอย  2 Silom Bang Rak Bangkok ",
+    "phone": [
+      "0924499895"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/10/09/6aaf6308676f4244a0c9d6257bd297cd.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/10/06/2bae25deb2594ddca3d746df721edaa9.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/10/06/2bae25deb2594ddca3d746df721edaa9.jpg",
+    "recommendedMenu": [
+      "Kai Kem Latte",
+      "Nitro Cold Brew Coffee",
+      "Hot Americano"
+    ]
+  },
+  "393080Lx": {
+    "name": "One Two Two Coffee Bar ชลบุรี",
+    "geolocation": {
+      "lat": 13.340257778079518,
+      "lng": 100.95073893595388
+    },
+    "address": "ถนนอบจ.ชลบุรี, เสม็ด, อ.เมืองชลบุรี, จ.ชลบุรี, 20000, ประเทศไทย Samet Mueang Chon Buri Chon Buri ",
+    "phone": [
+      "0825389095"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/01/07/ba624905680345c09c45d706c4f8f508.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/10/27/28cfab836e244b41baa00a6d84c47826.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/10/27/28cfab836e244b41baa00a6d84c47826.jpg",
+    "recommendedMenu": [
+      "Butter Croissant",
+      "Iced Thai Tea",
+      "Iced Americano"
+    ]
+  },
+  "203230ZD": {
+    "name": "Conkey's Bakery Ekkamai 22",
+    "geolocation": {
+      "lat": 13.733032,
+      "lng": 100.59064
+    },
+    "address": "72 ซอย เอกมัย 22 Khlong Tan Nuea Watthana Bangkok 10110",
+    "phone": [
+      "0830405911"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/09/16/c61c4f098aa14ade9a6cc156456a32bd.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/01/08/a902a15b37e94626b94bfed0f61095b3.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/01/08/a902a15b37e94626b94bfed0f61095b3.jpg",
+    "recommendedMenu": [
+      "Plain Croissant",
+      "Sausage Roll .",
+      "Raspberry Croissant"
+    ]
+  },
+  "139044Jz": {
+    "name": "PHUKETIQUE",
+    "geolocation": {
+      "lat": 7.8834294141486,
+      "lng": 98.387218221767
+    },
+    "address": "ถนนระนอง Talat Nuea Mueang Phuket Phuket ",
+    "phone": [
+      "0819741559"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/08/05/f19dfa431ca8420f84aa9ceccecd113f.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/08/05/f19dfa431ca8420f84aa9ceccecd113f.jpg",
+    "recommendedMenu": []
+  },
+  "301356Nq": {
+    "name": "Wallflowers Cafe",
+    "geolocation": {
+      "lat": 13.7397971,
+      "lng": 100.5142575
+    },
+    "address": "31-33 ซอย นานา Pom Prap Pom Prap Sattru Phai Bangkok ",
+    "phone": [
+      "0909938653"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/06/02/a4c0df34601647c29079f30c9e1a271e.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/06/02/81f7ca4c2d34448485e80522b0fd6bcf.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/06/02/81f7ca4c2d34448485e80522b0fd6bcf.jpg",
+    "recommendedMenu": [
+      "Dark Beer Cake",
+      "ลาเต้ร้อน",
+      "Red Velvet Cake"
+    ]
+  },
+  "367679Xx": {
+    "name": "Tora Yakiniku X Cafe Lasalle’s Avenue",
+    "geolocation": {
+      "lat": 13.65704,
+      "lng": 100.623877
+    },
+    "address": "บางนา, กรุงเทพมหานคร, 10260, ประเทศไทย Bang Na Bang Na Bangkok ",
+    "phone": [
+      "0909862991"
+    ],
+    "priceRange": {
+      "name": "Above 1,000 baht",
+      "value": 5
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2019/08/13/bcc00fe9fbfd49488bb55188bc3cbe64.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/08/13/bcc00fe9fbfd49488bb55188bc3cbe64.jpg",
+    "recommendedMenu": [
+      "มันปูย่าง",
+      "เนื้อวัว",
+      "Hotate Salmon Yuzu Roll"
+    ]
+  },
+  "14925TE": {
+    "name": "Lom Yen uttaradit",
+    "geolocation": {
+      "lat": 17.593248752074,
+      "lng": 100.13059373132
+    },
+    "address": "173 หมู่5 ถนน พิษณุโลก-เด่นชัย, ป่าเซ่า, เมืองอุตรดิตถ์, อุตรดิตถ์ 53000, ป่าเซ่า, เมืองอุตรดิตถ์, อุตรดิตถ์ 53000 Pa Sao Mueang Uttaradit Uttaradit 53000",
+    "phone": [
+      "0996355141",
+      "0979194198",
+      "055817902"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2016/06/04/92bac6b8d51d42148e1be1ede0e2b027.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/06/04/92bac6b8d51d42148e1be1ede0e2b027.jpg",
+    "recommendedMenu": [
+      "น้ำพริกกะปิ (กระปุก)",
+      "ปลาทอดสมุนไพร",
+      "กาแฟพรีเมี่ยม เย็น"
+    ]
+  },
+  "189773qv": {
+    "name": "Flowerpot Cafe'",
+    "geolocation": {
+      "lat": 13.760729,
+      "lng": 100.603565
+    },
+    "address": "ซอยรามคำแหง 21 แยก 10 Phlapphla Wang Thonglang Bangkok 10312",
+    "phone": [
+      "0999594615"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/08/14/48de5686187b4df09b15d463fe120f9f.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/08/14/48de5686187b4df09b15d463fe120f9f.jpg",
+    "recommendedMenu": [
+      "MATCHA LATTE'",
+      "Basque burnt cheesecake"
+    ]
+  },
+  "457579vT": {
+    "name": "Midnight Madness",
+    "geolocation": {
+      "lat": 13.770936263108544,
+      "lng": 100.60694629034707
+    },
+    "address": "226/3, ร้่าน Midnight Madness อาคารสีดำ พลับพลา วังทองหลาง กรุงเทพมหานคร Phlapphla Wang Thonglang Bangkok 10310",
+    "phone": [
+      "0888820014",
+      "0814022234"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2022/03/16/db17a47ad6f142588748e907e636f139.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/03/16/db17a47ad6f142588748e907e636f139.jpg",
+    "recommendedMenu": [
+      "The Beast",
+      "Before Sunrise",
+      "Femme Fatale"
+    ]
+  },
+  "140414PU": {
+    "name": "Choui Fong Tea Chiangrai",
+    "geolocation": {
+      "lat": 20.199098,
+      "lng": 99.818005
+    },
+    "address": "97 Moo 8 Pasang, Phahonyothin Road Si Kham Mae Chan Chiang Rai 57110",
+    "phone": [
+      "053771563",
+      "0637795999"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2016/11/13/2bf64f54c8374bbaa3de31a7ad5a0144.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/11/13/2bf64f54c8374bbaa3de31a7ad5a0144.jpg",
+    "recommendedMenu": [
+      "Green Tea Frappe",
+      "Green Tea Ice",
+      "Green Tea Cake"
+    ]
+  },
+  "309149wN": {
+    "name": "Sway Gray Coffee",
+    "geolocation": {
+      "lat": 13.655158,
+      "lng": 100.424867
+    },
+    "address": "48 พระรามที่ 2 ซอย 60 Samae Dam Bang Khun Thian Bangkok 10150",
+    "phone": [
+      "0818193020"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/02/11/ccbfab6c50924853b73aa3cbdf9de0d9.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/06/29/71de278bfa4f48bda9ce290377b60be8.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/06/29/71de278bfa4f48bda9ce290377b60be8.jpg",
+    "recommendedMenu": [
+      "Hot Hand Drip",
+      "Hot Cafe Latte",
+      "Piccolo"
+    ]
+  },
+  "132340ge": {
+    "name": "Mek Ice Cream Chonburi",
+    "geolocation": {
+      "lat": 13.365391,
+      "lng": 100.987519
+    },
+    "address": "807/8 ถ.เจตจำนงค์ ต.บางปลาสร้อย อ.เมือง จ.ชลบุรี Bang Pla Soi Mueang Chon Buri Chon Buri 20000",
+    "phone": [
+      "038279874"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/06/27/319277c442754ff4a14bdaaf1a2ffcce.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/01/13/ed226be6dfa441eabda296e965a3a78a.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/01/13/ed226be6dfa441eabda296e965a3a78a.jpg",
+    "recommendedMenu": [
+      "ไอศกรีมรสทุเรียน",
+      "ไอติมข้าวหลาม",
+      "ทุกรส"
+    ]
+  },
+  "2559ZT": {
+    "name": "Mont Nomsod Dinsor Road",
+    "geolocation": {
+      "lat": 13.754081384406483,
+      "lng": 100.50117150849205
+    },
+    "address": "156/3, Thanon Dinso, Sao Chingcha, Bangkok, 10200, Thailand Sao Chingcha Phra Nakhon Bangkok ",
+    "phone": [
+      "022241989",
+      "022241147"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/14/4801c823a1d144709603643fb69a6efd.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2019/06/24/787a63a3bf324419a19828630ba62e10.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/06/24/787a63a3bf324419a19828630ba62e10.jpg",
+    "recommendedMenu": [
+      "ขนมปังสังขยาใบเตย (ชุดปิ่นโต)",
+      "ขนมปังปิ้งเนยนม",
+      "นมสด"
+    ]
+  },
+  "281256zz": {
+    "name": "บ้านนอกคอกนา",
+    "geolocation": {
+      "lat": 14.684719621601602,
+      "lng": 101.61324142824174
+    },
+    "address": "469 หมู่ที่ 7 Khlong Muang Pak Chong Nakhon Ratchasima ",
+    "phone": [
+      "0830952199"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2018/07/19/ca25b8d3fe744947a059a7449699c213.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/07/19/ca25b8d3fe744947a059a7449699c213.jpg",
+    "recommendedMenu": [
+      "บ้านนอกลาเต้",
+      "ผัดหมี่โคราช",
+      "บราวน์นี่อบร้อน"
+    ]
+  },
+  "508924LA": {
+    "name": "Uncle House Bangsaen",
+    "geolocation": {
+      "lat": 13.311517,
+      "lng": 100.931759
+    },
+    "address": "ถนนมิตรสัมพันธ์ ซอย 16, อ่างศิลา, อ.เมืองชลบุรี, จ.ชลบุรี, 20000, ประเทศไทย Ang Sila Mueang Chon Buri Chon Buri 20130",
+    "phone": [
+      "0657460449"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/03/20/2a7fdb1e483d45ab81a62f4365d15fd2.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/03/20/2a7fdb1e483d45ab81a62f4365d15fd2.jpg",
+    "recommendedMenu": [
+      "Blueberry Cheese Pie",
+      "Earl Grey Yuzu",
+      "espresso"
+    ]
+  },
+  "879760iN": {
+    "name": "FAVOUR CAFE'",
+    "geolocation": {
+      "lat": 13.754439766524467,
+      "lng": 100.48926366493106
+    },
+    "address": "78/29 ถ. มหาราช แขวงพระบรมมหาราชวัง เขตพระนคร กรุงเทพมหานคร ประเทศไทย Phra Borom Maha Ratchawang Phra Nakhon Bangkok 10200",
+    "phone": [
+      "0909096751"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/30/ecfcadbfe36c4d388a467e55bdf560e5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/30/ecfcadbfe36c4d388a467e55bdf560e5.jpg",
+    "recommendedMenu": [
+      "panna cotta",
+      "ชานม",
+      "โกโก้ร้อน"
+    ]
+  },
+  "330391xd": {
+    "name": "Barn Naa Cafe",
+    "geolocation": {
+      "lat": 17.475549569777353,
+      "lng": 102.76780297162985
+    },
+    "address": "ถนนมิตรภาพ Mu Mon Mueang Udon Thani Udon Thani ",
+    "phone": [
+      "0954264624"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/09/05/a51455a515704f979778eccdd19bc8f2.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/09/05/a51455a515704f979778eccdd19bc8f2.jpg",
+    "recommendedMenu": [
+      "เค้กมะพร้าวอ่อน",
+      "ทาร์ตเบอร์รี่",
+      "เค้กต่างๆ"
+    ]
+  },
+  "210378oU": {
+    "name": "Rosetta Padriew เทพคุณากร",
+    "geolocation": {
+      "lat": 13.669583,
+      "lng": 101.056185
+    },
+    "address": "1108/15-16 ถ.เทพคุณากร ต.หน้าเมือง อ.เมือง จ.ฉะเชิงเทรา 24000 Sothon Mueang Chachoengsao Chachoengsao 24000",
+    "phone": [
+      "0994176826",
+      "0989636445"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/05/05/6b27b9c98e8e48d5914860a5e8f7c7d7.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/05/05/6b27b9c98e8e48d5914860a5e8f7c7d7.jpg",
+    "recommendedMenu": [
+      "อเมริกาโน่",
+      "ICED DIRTY",
+      "Lemon Tea"
+    ]
+  },
+  "400137gh": {
+    "name": "ORBiT espresso BKK พหลโยธิน35",
+    "geolocation": {
+      "lat": 13.831455810753255,
+      "lng": 100.57024989798289
+    },
+    "address": "ร้าน ORBiT espresso BKK ห้อง2508   16-16/1 ซ.พหลโยธิน35 ถ.พหลโยธิน Lat Yao Chatuchak Bangkok ",
+    "phone": [
+      "0955195762"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2020/02/18/391c7e7294e942408ecf962abd050734.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/10/25/2644c5cda27843d0a7a8ca86ea35f41b.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/02/18/391c7e7294e942408ecf962abd050734.jpg",
+    "recommendedMenu": [
+      "Iced Americano",
+      "พิสมัย",
+      "Iced Matcha Latte"
+    ]
+  },
+  "205735Ws": {
+    "name": "Ristr8to Lab นิมมานเหมินทร์ ซอย 3",
+    "geolocation": {
+      "lat": 18.79901,
+      "lng": 98.968642
+    },
+    "address": "Nimmana Haeminda Road Lane 3 Suthep Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0855305360"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/04/23/546bf1d45c214fa8870cb3453fdfb2c5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/04/23/546bf1d45c214fa8870cb3453fdfb2c5.jpg",
+    "recommendedMenu": [
+      "flat white",
+      "latte",
+      "doppio ristretto"
+    ]
+  },
+  "12338nK": {
+    "name": "Wandamrong",
+    "geolocation": {
+      "lat": 13.765577272719563,
+      "lng": 100.60220129613191
+    },
+    "address": "573/115 ซอยรามคำแหง39 ซอยย่อย27 ถ.ประดิษฐ์มนูธรรม Phlapphla Wang Thonglang Bangkok ",
+    "phone": [
+      "025590676",
+      "0818184476",
+      "025593134"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/19/a43ed32ac7a54b3c8a47a63d50ab25cc.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/19/a43ed32ac7a54b3c8a47a63d50ab25cc.jpg",
+    "recommendedMenu": [
+      "ขนมชั้น",
+      "ตะโก้",
+      "ขนมเปียกปูน"
+    ]
+  },
+  "433937ba": {
+    "name": "ZONGTER",
+    "geolocation": {
+      "lat": 13.742563,
+      "lng": 100.50942
+    },
+    "address": "เลขที่ 111 ตรอกอิศรานุภาพ แขวงสัมพัธวงศ์\nเขตสัมพันธวงศ์ กรุงเทพมหานคร 10100 Samphanthawong Samphanthawong Bangkok ",
+    "phone": [
+      "022224490"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/06/06/88363f3b7f8a48eebc8e73f1300d12c5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/06/06/88363f3b7f8a48eebc8e73f1300d12c5.jpg",
+    "recommendedMenu": [
+      "Olive Pickled Green Mustard With Shiitake Mushroom",
+      "Deep fired chives dumplings serve with spicy sauce",
+      "Chivas, Radish Dumplings And Taro Dumplings."
+    ]
+  },
+  "438547LS": {
+    "name": "Ministry of Roasters สุขุมวิท101/1      (อยุ่ติดกับโลตัส)",
+    "geolocation": {
+      "lat": 13.68460425289505,
+      "lng": 100.61732238158584
+    },
+    "address": "1, Soi Wachira Tham Sathit 9, Bang Chak, Bangkok, 10260, Thailand Bang Chak Phra Khanong Bangkok ",
+    "phone": [
+      "0966975060"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/06/30/5252f5c2764d423cae4002bc653bb0d0.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/06/30/5252f5c2764d423cae4002bc653bb0d0.jpg",
+    "recommendedMenu": [
+      "Dirty Coffee",
+      "black orange",
+      "black yellow"
+    ]
+  },
+  "200579DZ": {
+    "name": "The Hidden Pôt Bakery & Café",
+    "geolocation": {
+      "lat": 7.944242954105955,
+      "lng": 98.3961721190491
+    },
+    "address": "Thep Kasat Tri Road Ko Kaeo Mueang Phuket Phuket ",
+    "phone": [
+      "0949874546",
+      "0624624198"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2015/07/11/ae5eb915a6e04ef581b5921f17e4a191.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/07/11/ae5eb915a6e04ef581b5921f17e4a191.jpg",
+    "recommendedMenu": [
+      "ข้าวไข่ข้น",
+      "Greentea Lava Cake",
+      "Honey Lemon Lava Cheese Cake"
+    ]
+  },
+  "147098DK": {
+    "name": "Dhara Dhevi Patisserie Maya Chiangmai",
+    "geolocation": {
+      "lat": 18.802453298390027,
+      "lng": 98.96727245767215
+    },
+    "address": "55 Moo 5 Huay Kaew Road Chang Phueak Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "052081550"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2015/11/05/929a190b2e364cbdb654e7c5d925cf7a.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2015/11/05/3b9ceff91f0f4c69aa6533b9ac89cb32.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/11/05/3b9ceff91f0f4c69aa6533b9ac89cb32.jpg",
+    "recommendedMenu": [
+      "มาการองชาไทย",
+      "มาการองข้าวเหนียวมะม่วง"
+    ]
+  },
+  "334163QR": {
+    "name": "The oqposite",
+    "geolocation": {
+      "lat": 13.759319428531425,
+      "lng": 100.5099163390696
+    },
+    "address": "68 The oqposite,  วัดโสมนัส ป้อมปราบศัตรูพ่าย กรุงเทพมหานคร Wat Sommanat Pom Prap Sattru Phai Bangkok 10100",
+    "phone": [
+      "0615565597"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2018/06/14/1e7a36ef71244f22928be73a41f290cf.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/06/14/1e7a36ef71244f22928be73a41f290cf.jpg",
+    "recommendedMenu": [
+      "ข้าวมันกุ้ง",
+      "Caramel Pudding",
+      "สปาเกตตี้ผัดพริกกระเทียม เบคอน"
+    ]
+  },
+  "150040ZQ": {
+    "name": "Baan-Kao-Nhom",
+    "geolocation": {
+      "lat": 14.3487283,
+      "lng": 100.5736005
+    },
+    "address": "2/10 ก. ถ.อู่ทอง Pratu Chai Phra Nakhon Si Ayutthaya Phra Nakhon Si Ayutthaya ",
+    "phone": [
+      "0979219465"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/07/14/9a8e647031ef4176945e91fba758e284.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/07/14/9a8e647031ef4176945e91fba758e284.jpg",
+    "recommendedMenu": [
+      "ขนมไทย",
+      "ขนมใส่ไส้",
+      "กาแฟบ้านข้าวหนม"
+    ]
+  },
+  "414154Nu": {
+    "name": "Memory House",
+    "geolocation": {
+      "lat": 12.454188,
+      "lng": 99.972408
+    },
+    "address": "43/56 ซ.หมู่บ้านเขาเต่า Nong Kae Hua Hin Prachuap Khiri Khan ",
+    "phone": [
+      "0956632901"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2020/01/15/01b173d6345b45bfb0abb421dc9669e0.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/01/15/c8bb0eaeb8084d53b875b8f90b45a68e.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/01/15/c8bb0eaeb8084d53b875b8f90b45a68e.jpg",
+    "recommendedMenu": [
+      "ชานมพ่นไฟ",
+      "เค้กมะพร้าว",
+      "กาแฟพ่นไฟ"
+    ]
+  },
+  "146798qi": {
+    "name": "Icecream Khokung",
+    "geolocation": {
+      "lat": 16.808483758072224,
+      "lng": 100.25770179456424
+    },
+    "address": "ถนน บรมไตรโลกนารถ Nai Mueang Mueang Phitsanulok Phitsanulok 65000",
+    "phone": [
+      "0815333066"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2015/06/01/922fcc24d1314a2cb8ab262653ddab86.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/06/01/922fcc24d1314a2cb8ab262653ddab86.jpg",
+    "recommendedMenu": [
+      "ไอติมใส่เครื่อง",
+      "ไอติมใส่ไข่",
+      "ไอศกรีมรวมมิตร"
+    ]
+  },
+  "1124JM": {
+    "name": "Samsen Villa Phayathai - Original",
+    "geolocation": {
+      "lat": 13.780686,
+      "lng": 100.531767
+    },
+    "address": "49/2, ถนน เศรษฐศิริ สามเสนใน พญาไท กรุงเทพมหานคร Sam Saen Nai Phayathai Bangkok 10400",
+    "phone": [
+      "0897958801"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2014/02/21/12086fe234de4199997cbd4301c81ec8.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/04/19/46840d99a0034fb2875dce1ab94e4e25.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/04/19/46840d99a0034fb2875dce1ab94e4e25.jpg",
+    "recommendedMenu": [
+      "ข้าวเหนียวมะม่วง",
+      "หมูสะเต๊ะชาววัง",
+      "หลนเนื้อปู"
+    ]
+  },
+  "192583FL": {
+    "name": "Walk In Cafe",
+    "geolocation": {
+      "lat": 14.35845622447809,
+      "lng": 100.57038974956798
+    },
+    "address": "19/40 หมู่ 1 ถนน นเรศวร ตำบลประตูชัย Tha Wasukri Phra Nakhon Si Ayutthaya Phra Nakhon Si Ayutthaya 13000",
+    "phone": [
+      "0872896536"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/01/10/e55ca740211544088130244d63662ae7.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/01/06/007b78ad5ab1462aa97bc99ceec947cb.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/01/06/007b78ad5ab1462aa97bc99ceec947cb.jpg",
+    "recommendedMenu": [
+      "บิงซูผลไม้รวม",
+      "Creamy Omelet with Shrimp over Rice",
+      "ข้าวผัดอเมริกัน"
+    ]
+  },
+  "255739IW": {
+    "name": "Kopihub",
+    "geolocation": {
+      "lat": 13.285329144108152,
+      "lng": 100.91969608656018
+    },
+    "address": "418-420 ถ.ลงหาดบางแสน Saen Suk Mueang Chon Buri Chon Buri ",
+    "phone": [
+      "0878937435"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/08/24/31afc90493b54b64bea0749b478912be.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/05/02/b856ce7dce074edca26055495a33e4eb.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/05/02/b856ce7dce074edca26055495a33e4eb.jpg",
+    "recommendedMenu": [
+      "โกปี๊ฮับ ( กาแฟ + โกโก้ )",
+      "ชาชัก",
+      "Steamed shrimp roll dumpling"
+    ]
+  },
+  "251872NC": {
+    "name": "By Chef (Bakery & Bistro)",
+    "geolocation": {
+      "lat": 13.91949859757685,
+      "lng": 100.45157225802541
+    },
+    "address": "83, ถนนราชพฤกษ์, ตำบลบางพลับ, อำเภอปากเกร็ด, จ.นนทบุรี, 11120, ประเทศไทย Bang Phlap Pak Kret Nonthaburi 11120",
+    "phone": [
+      "021502122",
+      "0817486266",
+      "0817117165"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/01/28/abde7ab0ee4a4ea1957575e5be81f465.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/08/22/8f137920d23c4bceb639d3ad8e031a0f.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/08/22/8f137920d23c4bceb639d3ad8e031a0f.jpg",
+    "recommendedMenu": [
+      "Chef salad",
+      "Brownie",
+      "Spicy seafood"
+    ]
+  },
+  "7644dC": {
+    "name": "Buttercup",
+    "geolocation": {
+      "lat": 13.748029,
+      "lng": 100.584775
+    },
+    "address": "36 Amari ResidencesSoi Phetchaburi 47 (Soonvijai)Phetchaburi Road Bang Kapi Huai Khwang Bangkok ",
+    "phone": [
+      "023199630"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2017/01/31/71b09ef6e08f41ebb23afc1228e73403.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2017/01/31/71b09ef6e08f41ebb23afc1228e73403.jpg",
+    "recommendedMenu": [
+      "Scone Butter",
+      "Spaghetti Ebiko Cream Sauce",
+      "Panna Cotta"
+    ]
+  },
+  "501616cy": {
+    "name": "โกอั๋น",
+    "geolocation": {
+      "lat": 13.334920543419852,
+      "lng": 100.93196573450761
+    },
+    "address": "134/47,Moo 1,Angsila-Saensuk Road Ang Sila Mueang Chon Buri Chon Buri ",
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/28/08672c6e4e674db791a1b4a864e3cdd9.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/28/08672c6e4e674db791a1b4a864e3cdd9.jpg",
+    "recommendedMenu": [
+      "ติ่มซำทุกอย่าง",
+      "บักกุดเต๋"
+    ]
+  },
+  "501989Gi": {
+    "name": "GROON Chiang Mai",
+    "geolocation": {
+      "lat": 18.795162,
+      "lng": 98.971157
+    },
+    "address": "Groon , 6 soi 7 Sirimangkalajarn.,Rd Suthep, Muang, Chiang Mai, Thailand Suthep Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0615824490"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/09/21/178c6771e6364568909935586d2192ea.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/09/21/178c6771e6364568909935586d2192ea.jpg",
+    "recommendedMenu": [
+      "Groon Morning",
+      "Natural Yeast Bread Set",
+      "MOON ON MIND"
+    ]
+  },
+  "214718Dr": {
+    "name": "Baanrak Guichai & Padthai",
+    "geolocation": {
+      "lat": 12.558310949708,
+      "lng": 99.955064021051
+    },
+    "address": "6/365 ถ.เลียบทางรถไฟฝั่งตะวันตก ซ.หัวหิน 94 Hua Hin Hua Hin Prachuap Khiri Khan 77110",
+    "phone": [
+      "0865095330"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2017/06/20/8869f9d4ecf5450c9ed90975eb4d4e73.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2017/06/20/8869f9d4ecf5450c9ed90975eb4d4e73.jpg",
+    "recommendedMenu": [
+      "กุ้ยช่ายไส้รวม",
+      "กุ้ยช่ายไส้ผัก",
+      "กุ้ยช่ายดั้งเดิม"
+    ]
+  },
+  "10035Hw": {
+    "name": "Baan Nai Suan",
+    "geolocation": {
+      "lat": 13.751619839962054,
+      "lng": 100.63741916790605
+    },
+    "address": "ถนนหัวหมาก, หัวหมาก, กรุงเทพมหานคร, 10240, ประเทศไทย Hua Mak Bang Kapi Bangkok 10240",
+    "phone": [
+      "0862326456",
+      "0626395565",
+      "0874222236"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/05/25/1cd628e5c1744e14be87a8d8ed508a7b.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/05/25/1cd628e5c1744e14be87a8d8ed508a7b.jpg",
+    "recommendedMenu": [
+      "Spicy Noodles",
+      "Chicken with lemon sauce",
+      "Fried rice with salted fish and kale"
+    ]
+  },
+  "224971FM": {
+    "name": "The Chocolate Factory Restaurant Pattaya",
+    "geolocation": {
+      "lat": 12.921132327144152,
+      "lng": 100.85928931832314
+    },
+    "address": "12 Soi Rajchawaroon,Pratamnuk Road Muang Pattaya Bang Lamung Chon Buri ",
+    "phone": [
+      "0924678884"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/15/78823a3107ce4070991515b6927b4532.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/03/23/45aa5e6141bd495184efa2d6eb907232.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/03/23/45aa5e6141bd495184efa2d6eb907232.jpg",
+    "recommendedMenu": [
+      "ช็อกโกแลต เย็น",
+      "ดาร์กช็อกโกแลตลาวา",
+      "White Chocolate Lava"
+    ]
+  },
+  "318770uM": {
+    "name": "Something To Feel",
+    "geolocation": {
+      "lat": 12.80118,
+      "lng": 99.969934
+    },
+    "address": "Cha-am, Cha-am, Phetchaburi, 76120, Thailand Cha-am Cha-am Phetchaburi ",
+    "phone": [
+      "0927636233",
+      "0826858584"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2018/03/09/be3b76173e1e4de197f823db810b4e2d.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/03/09/be3b76173e1e4de197f823db810b4e2d.jpg",
+    "recommendedMenu": [
+      "Ras-Merry",
+      "rosewood"
+    ]
+  },
+  "206895iq": {
+    "name": "Masaru Shabu & Sushi Buffet คริสตัล ดีไซน์ เซ็นเตอร์",
+    "geolocation": {
+      "lat": 13.802276,
+      "lng": 100.61858
+    },
+    "address": "คลองจั่น, กรุงเทพมหานคร, 10240, ประเทศไทย Khlong Chan Bang Kapi Bangkok ",
+    "phone": [
+      "0970161888"
+    ],
+    "priceRange": {
+      "name": "501 - 1,000 baht",
+      "value": 4
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/09/22/b249feb1b8224b5998332e76daf3bb74.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/02/28/0fc85a74d2974faf9f8780fba7e5b9fb.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/02/28/0fc85a74d2974faf9f8780fba7e5b9fb.jpg",
+    "recommendedMenu": [
+      "ข้าวหน้าปลาไหล 2 ที่ ฟรียำ 1 ที่",
+      "สันคอวัวออสเตรเลีย",
+      "ชาบู ซูชิ"
+    ]
+  },
+  "174798eS": {
+    "name": "Standtall Coffee",
+    "geolocation": {
+      "lat": 13.2851968,
+      "lng": 100.9188772
+    },
+    "address": "450 ถนน ลงหาดบางแสน Saen Suk Mueang Chon Buri Chon Buri ",
+    "phone": [
+      "0642265982"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2022/02/28/cca7c847b1af42b49e907954c51b20f6.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/02/28/cca7c847b1af42b49e907954c51b20f6.jpg",
+    "recommendedMenu": [
+      "Latte",
+      "Americano",
+      "Coldbrew แบบขวด"
+    ]
+  },
+  "256034vX": {
+    "name": "Just Follow The Goat (ตามแพะมาคาเฟ่)",
+    "geolocation": {
+      "lat": 16.452901066996098,
+      "lng": 102.79744634404778
+    },
+    "address": "251, 11 บ้านเป็ด เมืองขอนแก่น ขอนแก่น Ban Pet Mueang Khon Kaen Khon Kaen 4000",
+    "phone": [
+      "0962421729"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/02/25/5d9b5e8b05c941068ba98d2afece22fa.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/02/25/5d9b5e8b05c941068ba98d2afece22fa.jpg",
+    "recommendedMenu": [
+      "คาปูชิโน่ร้อน",
+      "Iced chocolate",
+      "ชาเขียวเย็น"
+    ]
+  },
+  "464324uM": {
+    "name": "COF ESCAPE TU TERMINAL",
+    "geolocation": {
+      "lat": 14.066883,
+      "lng": 100.60842
+    },
+    "address": "TU TERMINAL, Thammasat University Rangsit Campus \r\nSanya Dharmasakti Rd (null),Khlong Nueng,Khlong Luang district, Chang Wat Pathum Thani 12120 Khlong Nueng Khlong Luang Pathum Thani ",
+    "phone": [
+      "0979907148"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/12/10/cb1b2a4f668e4476b37994ffb69307f9.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/12/02/bcae89649a144cc5bd836738ed4a0859.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/12/02/bcae89649a144cc5bd836738ed4a0859.jpg",
+    "recommendedMenu": [
+      "dirty coffee",
+      "ICED CAFFE LATTE",
+      "ROKU"
+    ]
+  },
+  "20716dQ": {
+    "name": "Café Kantary Ayutthaya",
+    "geolocation": {
+      "lat": 14.345794768318244,
+      "lng": 100.60698889843604
+    },
+    "address": "ซอยโรจนะ 2 Thanu Uthai Phra Nakhon Si Ayutthaya 13210",
+    "phone": [
+      "0806266848",
+      "035337177"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/11/02/002218cd932843109991c94bf51e2f71.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/02/28/09340c8bdce04f9ea0e363601bedb39e.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/02/28/09340c8bdce04f9ea0e363601bedb39e.jpg",
+    "recommendedMenu": [
+      "Banana in black crepe",
+      "Oh, Lah La Honey Toast",
+      "Berry Berry Crepe"
+    ]
+  },
+  "19227lJ": {
+    "name": "Cho Sornkaew",
+    "geolocation": {
+      "lat": 13.815439,
+      "lng": 100.596652
+    },
+    "address": "33/499, โชคชัย 4 ซอย 54, ลาดพร้าว, กรุงเทพมหานคร, 10230, ประเทศไทย Lat Phrao Lat Phrao Bangkok 10230",
+    "phone": [
+      "0994147182",
+      "029310000",
+      "029310005"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2019/03/08/e85c36d9cdc0465c9a2524a3d1e9ae9e.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/03/08/e85c36d9cdc0465c9a2524a3d1e9ae9e.jpg",
+    "recommendedMenu": [
+      "ข้าวเหนียวมะม่วง",
+      "ข้าวเหนียวมูน",
+      "ข้าวเหนียวมูน 9 สี"
+    ]
+  },
+  "422730IZ": {
+    "name": "Rintaro",
+    "geolocation": {
+      "lat": 13.714097,
+      "lng": 100.593231
+    },
+    "address": "W District 1599 ถนนสุขุมวิท ซอยปรีดีพนมยงค์ 3 Phra Khanong Khlong Toei Bangkok ",
+    "phone": [
+      "0924641644"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/09/03/201056e8ca744698876edca45f7849cb.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/09/03/201056e8ca744698876edca45f7849cb.jpg",
+    "recommendedMenu": [
+      "วาฟเฟิลโคน เมเบิ้ล",
+      "Waffle Cone",
+      "คัมเบอร์แบร"
+    ]
+  },
+  "341401xN": {
+    "name": "GANSDAL.AMPHAWA",
+    "geolocation": {
+      "lat": 13.411530849650068,
+      "lng": 99.98239975422621
+    },
+    "address": "ทางหลวงแผ่นดินหมายเลข 325 Ban Prok Mueang Samut Songkhram Samut Songkhram ",
+    "phone": [
+      "0823632880"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/01/25/4597ab9d0efe42f190ce7c7118eb2600.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/01/25/4597ab9d0efe42f190ce7c7118eb2600.jpg",
+    "recommendedMenu": [
+      "Iced Americano",
+      "Ham Cheese",
+      "ครัวซองครีมส้มยูซุ"
+    ]
+  },
+  "5678PW": {
+    "name": "Puritan",
+    "geolocation": {
+      "lat": 13.779204909493725,
+      "lng": 100.53827108465578
+    },
+    "address": "46/1 Soi Ari 5,Phaya Thai Road Sam Saen Nai Phayathai Bangkok ",
+    "phone": [
+      "023571099",
+      "0805456445"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2015/10/02/8caeedde33bc46c382da63bef693597b.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/10/02/8caeedde33bc46c382da63bef693597b.jpg",
+    "recommendedMenu": [
+      "เค๊กอร่อยเกือบทุกอย่าง",
+      "Chocolate Cake",
+      "Very blueberry cheese roullade"
+    ]
+  },
+  "246246fE": {
+    "name": "The Jim's Cafe",
+    "geolocation": {
+      "lat": 14.356444,
+      "lng": 100.57989
+    },
+    "address": "11-12 ถ.บางเอียน ซ.บัวหวาน หอรัตนไชย Hua Ro Phra Nakhon Si Ayutthaya Phra Nakhon Si Ayutthaya 13000",
+    "phone": [
+      "0968578875"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2018/04/19/2bd82a293d6b4f11a6d3da2347094358.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/04/19/2bd82a293d6b4f11a6d3da2347094358.jpg",
+    "recommendedMenu": [
+      "Latte Hot",
+      "ชีสเค้กบราวนี่",
+      "Premium Dark Chocolate"
+    ]
+  },
+  "467803dt": {
+    "name": "Mulberry Mellow กาญจนบุรี 1",
+    "geolocation": {
+      "lat": 13.99836,
+      "lng": 99.515882
+    },
+    "address": "3209, Ko Samrong, Mueang Kanchanaburi, Kanchanaburi, 71000, Thailand Ban Nuea Mueang Kanchanaburi Kanchanaburi ",
+    "phone": [
+      "0819331871"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/09/24/1d782700c1f445f893173d671cf616f8.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/09/24/1d782700c1f445f893173d671cf616f8.jpg",
+    "recommendedMenu": [
+      "Pock basil fried rice",
+      "Sparkling Mulberry",
+      "Pock ball with Chinese kale"
+    ]
+  },
+  "209607mO": {
+    "name": "RowHou8e Cafe' HuaHin106",
+    "geolocation": {
+      "lat": 12.542044,
+      "lng": 99.962278
+    },
+    "address": "10/376, ซอยหัวหิน 106, หนองแก, หัวหิน, จ.ประจวบคีรีขันธ์, 77110, ประเทศไทย Nong Kae Hua Hin Prachuap Khiri Khan 77110",
+    "phone": [
+      "0884595656",
+      "032510665"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/02/02/7870abffb8b948d794b0f2a7f5a0906e.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/02/02/7870abffb8b948d794b0f2a7f5a0906e.jpg",
+    "recommendedMenu": [
+      "ฮันนี่โทสตฺ",
+      "โกโก้บราวนี่",
+      "Rowhouse Coffee"
+    ]
+  },
+  "1082685jC": {
+    "name": "Rilak Cafe\"",
+    "geolocation": {
+      "lat": 18.762764559480438,
+      "lng": 98.9780674003522
+    },
+    "address": "209/1 บ้านเฟื่องฟ้า ซอย ๕ ตำบลป่าแดด อำเภอเมืองเชียงใหม่ เชียงใหม่ ประเทศไทย Pa Daet Mueang Chiang Mai Chiang Mai 50100",
+    "phone": [
+      "0948304486"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2015/04/11/b4a790c25e0045fda961de5c8cfe8067.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/04/11/b4a790c25e0045fda961de5c8cfe8067.jpg",
+    "recommendedMenu": [
+      "สปาเก็ตตี้เบคอนเผ็ด",
+      "Hazelnut Latte",
+      "มักกาโรนีอบชีส"
+    ]
+  },
+  "24111ch": {
+    "name": "Glomglorm ศาลายา",
+    "geolocation": {
+      "lat": 13.795952043218236,
+      "lng": 100.32850278025242
+    },
+    "address": "ศาลายา ซอย ๙ ตำบล ศาลายา อำเภอ พุทธมณฑล นครปฐม 73170 ประเทศไทย Salaya Phutthamonthon Nakhon Pathom ",
+    "phone": [
+      "0830005125"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2018/04/15/dccc09eadf864a7395f0b3009937b589.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/04/15/dccc09eadf864a7395f0b3009937b589.jpg",
+    "recommendedMenu": []
+  },
+  "22214aZ": {
+    "name": "Roti Saimai Abeedeen+Pranom Sangaroon",
+    "geolocation": {
+      "lat": 14.342961,
+      "lng": 100.560978
+    },
+    "address": "29/2, Thanon U-Thong, Pratu Chai, Ayutthaya, Phra Nakhon Si Ayutthaya, 13000, Thailand Samphao Lom Phra Nakhon Si Ayutthaya Phra Nakhon Si Ayutthaya 13000",
+    "phone": [
+      "0890059948"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2015/06/29/554359504f664137bdd5e3de0a96136a.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/06/29/554359504f664137bdd5e3de0a96136a.jpg",
+    "recommendedMenu": [
+      "โรตีสายไหม",
+      "โรตี แป้งใบเตย",
+      "โรตีสายไหม ชุดเล็ก"
+    ]
+  },
+  "259037yn": {
+    "name": "SATI Handcraft Ari",
+    "geolocation": {
+      "lat": 13.7792569214892,
+      "lng": 100.53745231893356
+    },
+    "address": "ระหว่างซอย อารีย์สัมพันธ์ 5 และ 6 Sam Saen Nai Phayathai Bangkok ",
+    "phone": [
+      "0651654266"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/07/20/dac885ba67264d32a0556fb17e1ba80c.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/01/07/0bf2a446f45d466b803f7443e69fcb11.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/01/07/0bf2a446f45d466b803f7443e69fcb11.jpg",
+    "recommendedMenu": [
+      "Iced Masala Chai Latte",
+      "Hot Americano",
+      "Spaghetti Aglio Olio Bacon"
+    ]
+  },
+  "417284wH": {
+    "name": "foreste café by Anna-nava",
+    "geolocation": {
+      "lat": 13.913927917554206,
+      "lng": 100.52002624842737
+    },
+    "address": "36/156, ซอยสหกรณ์ 4 Bang Phut Pak Kret Nonthaburi ",
+    "phone": [
+      "0819094031"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2019/10/17/cc512523b6d346ff854b49226f3f585f.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/10/17/cc512523b6d346ff854b49226f3f585f.jpg",
+    "recommendedMenu": [
+      "Espresso (Ice)",
+      "French fires + Nuggets",
+      "Spaghetti green curry chicken"
+    ]
+  },
+  "183860CE": {
+    "name": "Pino Latte Resort & Cafe",
+    "geolocation": {
+      "lat": 16.794811266191413,
+      "lng": 101.0418920233135
+    },
+    "address": "ทางหลวงแผ่นดินหมายเลข 12 สายแม่สอด (เขตแดน)–มุกดาหาร 232 หมู่ 5 ต.แคมป์สน อ.เข้าค้อ จ.เพชรบุรี 67280 Khaem Son Khao Kho Phetchabun 67280",
+    "phone": [
+      "0870994497",
+      "0621844497"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2017/07/02/83f061eb8e02468db6f82535919d56d5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2017/07/02/83f061eb8e02468db6f82535919d56d5.jpg",
+    "recommendedMenu": [
+      "Green Tea Frappe",
+      "Pino Latte",
+      "Chocolate Cake"
+    ]
+  },
+  "509983On": {
+    "name": "Proof.",
+    "geolocation": {
+      "lat": 18.779419810097732,
+      "lng": 98.94956354051828
+    },
+    "address": "207 ซอยกาแล1 ต.สุเทพ อ.เมือง จ.เชียงใหม่ Suthep Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0994976993"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/09/26/b8927ba4d1524f6f9a795f6a831ca8fa.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/09/26/b8927ba4d1524f6f9a795f6a831ca8fa.jpg",
+    "recommendedMenu": [
+      "ครัวซองค์เลม่อนเมอแรงค์",
+      "ครัวซองค์ช็อกโกแลตมูส"
+    ]
+  },
+  "503974aA": {
+    "name": "สรินทร์ทิพย์ ขนมเบื้องไทย ตลาดพลู ตลาดเดินเล่น",
+    "geolocation": {
+      "lat": 13.713187,
+      "lng": 100.477209
+    },
+    "address": "ซอย เทอดไท 33 เขตธนบุรี กรุงเทพมหานคร 10600 Talat Phlu Thon Buri Bangkok ",
+    "phone": [
+      "0985545585"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/03/08/e3adc628ce60431fb6ae780228ca9782.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/03/08/e3adc628ce60431fb6ae780228ca9782.jpg",
+    "recommendedMenu": [
+      "ใส่ไข่-เค็ม (1 ชิ้น)",
+      "ใส่ไข่-หวาน (ชุดใหญ่ 7 ชิ้น)",
+      "ใส่ไข่-เค็ม (ชุดเล็ก 4 ชิ้น)"
+    ]
+  },
+  "346224Yw": {
+    "name": "Handmaker Coffee & Co. ราชพฤกษ์",
+    "geolocation": {
+      "lat": 13.84377,
+      "lng": 100.46147
+    },
+    "address": "98/9 หมู่ 9 ถนนบางศรีเมือง-วัดโบสถ์ Bang Krang Mueang Nonthaburi Nonthaburi ",
+    "phone": [
+      "0623651653"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/11/16/1e7c25e481b84844b98d478669957d01.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/03/08/0714e9816aa04ed9949052a7e1ffd036.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/03/08/0714e9816aa04ed9949052a7e1ffd036.jpg",
+    "recommendedMenu": [
+      "Espresso Orange",
+      "Croissant",
+      "Hot Drip Coffee"
+    ]
+  },
+  "676522kD": {
+    "name": "Castello Di Bellagio Khao Chi Chan",
+    "geolocation": {
+      "lat": 12.753323899999986,
+      "lng": 100.96585750000006
+    },
+    "address": "Castello Di Bellagio Pattaya, ตำบล นาจอมเทียน อำเภอสัตหีบ ชลบุรี ประเทศไทย Na Chom Thian Sattahip Chon Buri ",
+    "phone": [
+      "0646946699",
+      "0641949292"
+    ],
+    "priceRange": {
+      "name": "Above 1,000 baht",
+      "value": 5
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2022/04/15/50769b6af63e4fe1a82d0e77f5fe188c.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/08/04/43e05140d5554eddb9abaa3792cfd373.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/08/04/43e05140d5554eddb9abaa3792cfd373.jpg",
+    "recommendedMenu": []
+  },
+  "1057270dH": {
+    "name": "POON",
+    "geolocation": {
+      "lat": 13.282099137622,
+      "lng": 100.93808976933
+    },
+    "address": "27 , แสนสุขซอย 1 แสนสุข เมืองชลบุรี ชลบุรี Saen Suk Mueang Chon Buri Chon Buri 20130",
+    "phone": [
+      "0966628936"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2022/02/28/7053018b0a224234a6328aaeb96f3ef5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/02/28/7053018b0a224234a6328aaeb96f3ef5.jpg",
+    "recommendedMenu": [
+      "ICED CHOCOLATE",
+      "ICED MATCHA LATTE",
+      "HOT CAPPUCCINO"
+    ]
+  },
+  "123405bp": {
+    "name": "Konruksuancoffee",
+    "geolocation": {
+      "lat": 13.607224,
+      "lng": 99.761738
+    },
+    "address": "เขาแร้ง, อำเภอเมืองราชบุรี, จ.ราชบุรี, 70000, ประเทศไทย Khao Raeng Mueang Ratchaburi Ratchaburi ",
+    "phone": [
+      "0852634848",
+      "0816381909",
+      "0822422092"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2019/04/22/1b79af9c352f4d7f9d1532af2db245f9.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/04/22/1b79af9c352f4d7f9d1532af2db245f9.jpg",
+    "recommendedMenu": [
+      "กาแฟคนรักษ์สวน ถือว่าเด็ด",
+      "Coconut cake",
+      "Iced cappuccino"
+    ]
+  },
+  "13014DS": {
+    "name": "MANGKUD CAFÉ Chim Phli",
+    "geolocation": {
+      "lat": 13.795968,
+      "lng": 100.450409
+    },
+    "address": "Soi Ramintra 51 Chim Phli Taling Chan Bangkok ",
+    "phone": [
+      "0818431598"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/02/24/fefc925f4ccc44cdbd18c351c3e28a9d.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/05/05/3b0608572c334f549c52649bfa4abd9b.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/05/05/3b0608572c334f549c52649bfa4abd9b.jpg",
+    "recommendedMenu": [
+      "แกงเขียวหวานลำใย",
+      "ข้าวคลุกปลาทูคุณยาย",
+      "Roast duck in red curry."
+    ]
+  },
+  "452626Dx": {
+    "name": "Losotokyowestgatebangyai Losotokyowestgatebangyai",
+    "geolocation": {
+      "lat": 13.867168,
+      "lng": 100.416853
+    },
+    "address": "Soi Wat Sao Thong Hin, Sao Thong Hin, Bang Yai, Nonthaburi, 11140, Thailand Sao Thong Hin Bang Yai Nonthaburi ",
+    "phone": [
+      "0898108651",
+      "0918760789",
+      "0824268744"
+    ],
+    "priceRange": {
+      "name": "Above 1,000 baht",
+      "value": 5
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/01/26/fbd9c8badac1415fb57bdc83cc1d629a.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/11/08/93622a2e40c04df2b1cb6de0f597b1ca.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/11/08/93622a2e40c04df2b1cb6de0f597b1ca.jpg",
+    "recommendedMenu": [
+      "ซุปเปอร์โตเกียว พริกเผา + ไก่หยอง + ปูอัดเต็มคำ  (ชิ้นใหญ่  อิ่มอร่อย)",
+      "แบบ 3 ถุง กล้วยหอมอบกรอบ  อบ ระบบสูญญากาศ",
+      "ซุปเปอร์โตเกียว พริกเผา+ ไข่นก + ปูอัด + แฮม   ชิ้นใหญ่  อิ่มได้ใจ"
+    ]
+  },
+  "17730BW": {
+    "name": "Chakangraw Noodle",
+    "geolocation": {
+      "lat": 7.884414,
+      "lng": 98.3825157
+    },
+    "address": "ถนนปฏิพัทธิ์ Talat Nuea Mueang Phuket Phuket ",
+    "phone": [
+      "0869091829"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2014/12/22/bae628fac5764148a64b84f9e8da80b5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2014/12/22/bae628fac5764148a64b84f9e8da80b5.jpg",
+    "recommendedMenu": [
+      "Kimchi",
+      "TomYum noodles soup"
+    ]
+  },
+  "295427Tj": {
+    "name": "Coffee No.9 A-One Ari",
+    "geolocation": {
+      "lat": 13.780037,
+      "lng": 100.543924
+    },
+    "address": "A-1 Ari ซอย อารีย์ 1 เขตพญาไท กรุงเทพมหานคร 10400 Sam Saen Nai Phayathai Bangkok ",
+    "phone": [
+      "0639962827"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2017/10/16/9796fe0b63a54287b556793ce63547b8.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/08/11/fddc561447284e328d5de7c7a1971da9.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/08/11/fddc561447284e328d5de7c7a1971da9.jpg",
+    "recommendedMenu": [
+      "Iced Coffee No.9(Thai style coffee)",
+      "Matcha Latte",
+      "Iced caramel macchiato"
+    ]
+  },
+  "242794JV": {
+    "name": "Tissue Papers Cafe",
+    "geolocation": {
+      "lat": 15.697302,
+      "lng": 100.122754
+    },
+    "address": "65/8, Thanon Wongsawan, Pak Nam Pho, Mueang Nakhonsawan, Nakhon Sawan, 60000, Thailand Pak Nam Pho Mueang Nakhon Sawan Nakhon Sawan ",
+    "phone": [
+      "0909952707"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2017/05/25/bdc345838fc946e7ad71d2ca53ceb064.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2017/05/25/bdc345838fc946e7ad71d2ca53ceb064.jpg",
+    "recommendedMenu": [
+      "lemon americano .",
+      "คาราเมลมัคคีเอโต้",
+      "ลาเต้ เฮอเซลนัท"
+    ]
+  },
+  "762288CP": {
+    "name": "Ryoku Cafe りょくカフェ สุขุมวิท 35",
+    "geolocation": {
+      "lat": 13.735719,
+      "lng": 100.5701
+    },
+    "address": "28 Soi Sukhumvit 35, Khlong Tan Nuea, Bangkok, 10110, Thailand Khlong Tan Nuea Watthana Bangkok ",
+    "phone": [
+      "0927726000"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/30/57a66126a77b49b09593b47af959f167.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/30/57a66126a77b49b09593b47af959f167.jpg",
+    "recommendedMenu": [
+      "YUZU Mojito",
+      "Berry Berry Berry",
+      "เรียวกุ พรีเมี่ยม"
+    ]
+  },
+  "362755rZ": {
+    "name": "The Creek @Khao Yai",
+    "geolocation": {
+      "lat": 14.7074369,
+      "lng": 101.42247050000003
+    },
+    "address": "104/4 ถ.มิตรภาพ ซอยเทศบาล 26 Pak Chong Pak Chong Nakhon Ratchasima ",
+    "phone": [
+      "0899453125",
+      "0804649333"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2018/10/27/5e04e3be41ac4347af247e58a6c79b1c.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/10/27/5e04e3be41ac4347af247e58a6c79b1c.jpg",
+    "recommendedMenu": [
+      "Vanilla Custard Pudding",
+      "Scone Set",
+      "ลาเต้ร้อน"
+    ]
+  },
+  "13192aE": {
+    "name": "The Baking Bureau Phayathai",
+    "geolocation": {
+      "lat": 13.75498949999993,
+      "lng": 100.52620329999998
+    },
+    "address": "188 ถนนเพชรบุรี แขวงเพชรบุรี เขตราชเทวี กรุงเทพมหานคร Thanon Phaya Thai Ratchathewi Bangkok 10400",
+    "phone": [
+      "0649345645"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/02/14/da22c2e464064f568f3be9e90afcfa99.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/10/06/ca8fb52cfdcb4a06a87a7bf30299538e.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/10/06/ca8fb52cfdcb4a06a87a7bf30299538e.jpg",
+    "recommendedMenu": [
+      "Lemon tart.",
+      "Carrot Cake",
+      "Butterfly 5 pcs"
+    ]
+  },
+  "1023013UH": {
+    "name": "Caffeine Thepsadej",
+    "geolocation": {
+      "lat": 13.871921283659038,
+      "lng": 100.41818814352155
+    },
+    "address": "50/156, เกล้ารัตนา ซ. 3 เสาธงหิน บางใหญ่ นนทบุรี Sao Thong Hin Bang Yai Nonthaburi 11140",
+    "phone": [
+      "0982620709"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2022/04/20/aa0a5775b9e944c7b5a7d216a9272b78.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/04/20/aa0a5775b9e944c7b5a7d216a9272b78.jpg",
+    "recommendedMenu": [
+      "อเมริกาโน่-น้ำผึ้ง เย็น",
+      "Drip",
+      "[ขายดี] มัคคิอาโต้ เย็น"
+    ]
+  },
+  "1044271pH": {
+    "name": "อาหารตามสั่งสระบุรี บ้านสีม่วง",
+    "geolocation": {
+      "lat": 14.508626,
+      "lng": 100.9034069
+    },
+    "address": "GW53+F85 บ้านเลขที่ 29/65 ซอย 5 เส้นหลัก ตำบลโคกสว่าง อำเภอเมืองสระบุรี สระบุรี ประเทศไทย Pak Khao San Mueang Saraburi Saraburi 18000",
+    "phone": [
+      "0853422497"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/08/06/844c317f420a4cc28a8ed11aa9d17499.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/08/06/844c317f420a4cc28a8ed11aa9d17499.jpg",
+    "recommendedMenu": [
+      "ผัดกระเพรากุ้งราดข้าว",
+      "หมูกรอบผัดกระเพรา(กับข้าว)",
+      "ข้าวหมูทอดกระเทียม"
+    ]
+  },
+  "1275885tP": {
+    "name": "Velo Cafe x Rock'n Roast สมอโพรง",
+    "geolocation": {
+      "lat": 12.595550644426552,
+      "lng": 99.94449047388126
+    },
+    "address": "33/189 บ้านเรือ สมอโพรง ถ.คันคลอง สะพาน7, ตำบลหัวหิน อำเภอหัวหิน ประจวบคีรีขันธ์, Thailand Hua Hin Hua Hin Prachuap Khiri Khan 77110",
+    "phone": [
+      "+66947826669"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2020/07/10/24f3d3073ace4af2b2b648039d066b37.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/07/10/24f3d3073ace4af2b2b648039d066b37.jpg",
+    "recommendedMenu": []
+  },
+  "182530YE": {
+    "name": "Woo Cafe Art Gallery Lifestyle Shop",
+    "geolocation": {
+      "lat": 18.791791490957262,
+      "lng": 99.00304217790983
+    },
+    "address": "80 Charoenrat Road Chang Moi Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "052003717"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2015/09/05/868259ccbde64f66b28ae81dca716c27.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/09/05/868259ccbde64f66b28ae81dca716c27.jpg",
+    "recommendedMenu": [
+      "อร่อยทุกอย่าง",
+      "Mandarin Orange Cake",
+      "Iced cappuccino"
+    ]
+  },
+  "641834CC": {
+    "name": "Taitoonbaan ช้างม่อย",
+    "geolocation": {
+      "lat": 18.79166699478051,
+      "lng": 98.9954786002636
+    },
+    "address": "1 ถนน ช้างม่อยเก่า Si Phum Mueang Chiang Mai Chiang Mai ",
+    "phone": [
+      "0864075460"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/02/12/cd4327da94d44583816e135cc852b166.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/02/12/cd4327da94d44583816e135cc852b166.jpg",
+    "recommendedMenu": [
+      "ขนมปังไข่ชีส",
+      "ไข่กระทะ",
+      "ขนมปังปิ้งสังขยา"
+    ]
+  },
+  "378560my": {
+    "name": "Karo Coffee HQ",
+    "geolocation": {
+      "lat": 13.72592601990481,
+      "lng": 100.59983731233137
+    },
+    "address": "52, ปรีดีพนมยงค์ 26 Phra Khanong Nuea Watthana Bangkok Phra Khanong Nuea Watthana Bangkok 10110",
+    "phone": [
+      "0618589191"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/02/22/8ac1eb83c03b4e31824813daf4391346.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/01/14/5a72512ef4d04765aa7d810c5814591f.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/01/14/5a72512ef4d04765aa7d810c5814591f.jpg",
+    "recommendedMenu": [
+      "Dirty coffee",
+      "Espresso",
+      "Drip coffee"
+    ]
+  },
+  "299084Sm": {
+    "name": "Brown Sugar",
+    "geolocation": {
+      "lat": 13.87050666724781,
+      "lng": 100.49567883834243
+    },
+    "address": "ถนนเลี่ยงเมืองนนทบุรี, บางกระสอ, นนทบุรี, จ.นนทบุรี, 11000, ประเทศไทย Bang Kraso Mueang Nonthaburi Nonthaburi ",
+    "phone": [
+      "0636653924",
+      "0916326559"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2018/03/10/207ee1a55cd4489e8970aca0da7ad6a6.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2019/10/17/11b4ed20c0524511a27521ca6f922ef8.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2019/10/17/11b4ed20c0524511a27521ca6f922ef8.jpg",
+    "recommendedMenu": [
+      "Matcha Bingsu",
+      "บิงซูซุปเปอร์ฟรุ๊ตเบอรี่ BINGSU SUPER FRUITBERRY",
+      "ลาเต้เย็นซิกเนเจอร์ Latte signature"
+    ]
+  },
+  "8325VJ": {
+    "name": "Coffee in garden กาแฟในสวน",
+    "geolocation": {
+      "lat": 18.804004677624853,
+      "lng": 99.11246333374255
+    },
+    "address": "188, หมู่ 3 ตลาดใหญ่ ดอยสะเก็ด เชียงใหม่ Talat Yai Doi Saket Chiang Mai 50220",
+    "phone": [
+      "0987586850",
+      "0850290960"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2018/07/17/fdec64119fbf45f0ac29ca066d8d339f.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/07/17/fdec64119fbf45f0ac29ca066d8d339f.jpg",
+    "recommendedMenu": [
+      "พายมะพร้าวอ่อน",
+      "พายมะพร้าว",
+      "บลูเบอรี่ชีสเค้ก"
+    ]
+  },
+  "123402TY": {
+    "name": "Brooklyn Baker",
+    "geolocation": {
+      "lat": 13.732718,
+      "lng": 100.548444
+    },
+    "address": "ซอย โปโล Lumphini Pathum Wan Bangkok 10330",
+    "phone": [
+      "0818557090"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/05/30/d080bd0cbfca483ca0377cb3c1d2b232.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/01/22/27015ec3446d4dbaabc34aaad5bd9b70.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/01/22/27015ec3446d4dbaabc34aaad5bd9b70.jpg",
+    "recommendedMenu": [
+      "Baker Rice Bowl",
+      "Mud Pie",
+      "Egg Rothko"
+    ]
+  },
+  "375252HZ": {
+    "name": "Sarnies Bangkok",
+    "geolocation": {
+      "lat": 13.72107,
+      "lng": 100.514792
+    },
+    "address": "Sarnies Old Town Co., Ltd 101-103 ซอยเจริญกรุง 44 แขวงบางรัก เขตบางรัก กรุงเทพมหานคร 10500 Bang Rak Bang Rak Bangkok 10500",
+    "phone": [
+      "021029407"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2020/03/15/1454fc10ac2e445aaa26aeeeb6cf4de2.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/08/02/ad4caa2ea6574baba7945a156a843a4a.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/08/02/ad4caa2ea6574baba7945a156a843a4a.jpg",
+    "recommendedMenu": [
+      "Orange mocha",
+      "Brownie-Chocolate",
+      "Tom Yum Eggs Benedict"
+    ]
+  },
+  "354024Mu": {
+    "name": "PRANG VIEW Ayutthaya",
+    "geolocation": {
+      "lat": 14.358344843506792,
+      "lng": 100.5687720735369
+    },
+    "address": "22/13 ถนนนเรศวร Tha Wasukri Phra Nakhon Si Ayutthaya Phra Nakhon Si Ayutthaya ",
+    "phone": [
+      "0898010138",
+      "0851599944"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2021/12/07/e9944fba32814687841a1baf4257a567.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/12/07/e9944fba32814687841a1baf4257a567.jpg",
+    "recommendedMenu": [
+      "กาแฟสายไหม",
+      "Coconut Pv",
+      "Orange Coffee Soda"
+    ]
+  },
+  "717675tK": {
+    "name": "กู โรตีชาชัก ม.เทคโนโลยีเจ้าคุณทหาร ลาดกระบัง",
+    "geolocation": {
+      "lat": 13.723008,
+      "lng": 100.78016
+    },
+    "address": "15-31 ถนน ฉลองกรุง เขตลาดกระบัง กรุงเทพมหานคร 10520 Lat Krabang Lat Krabang Bangkok ",
+    "phone": [
+      "0655147852"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2022/04/19/bd9dbf92426846a7b9dd1886e5c95da2.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/04/19/bd9dbf92426846a7b9dd1886e5c95da2.jpg",
+    "recommendedMenu": [
+      "โรตีกล้วย+ไมโล"
+    ]
+  },
+  "415782YK": {
+    "name": "Nana Coffee Roasters เลียบทางด่วน/ประดิษฐ์มนูธรรม ซอย3",
+    "geolocation": {
+      "lat": 13.776383,
+      "lng": 100.606471
+    },
+    "address": "445/8 ถนน ประดิษฐ์มนูธรรม เขตวังทองหลาง กรุงเทพมหานคร 10310 Wang Thonglang Wang Thonglang Bangkok ",
+    "phone": [
+      "0885554724"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2020/08/10/ae94c25ab66a4abf8b76f6c93f0e3b02.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/09/03/14e72f0196ef4f7fbee0d712eb94af1a.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/09/03/14e72f0196ef4f7fbee0d712eb94af1a.jpg",
+    "recommendedMenu": [
+      "DIRTY",
+      "Wake Up",
+      "Signature KANDA*"
+    ]
+  },
+  "393424cA": {
+    "name": "Ba Hao Tian Mi Yaowarat",
+    "geolocation": {
+      "lat": 13.74094,
+      "lng": 100.511134
+    },
+    "address": "12, ถนนผดุงด้าว, สัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย Samphanthawong Samphanthawong Bangkok ",
+    "phone": [
+      "0979954543"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/06/10/74f56dd6e14942c1a88f77173689bd3f.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/01/22/6040f62d5ef749ef8d5da8abb1fe549d.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/01/22/6040f62d5ef749ef8d5da8abb1fe549d.jpg",
+    "recommendedMenu": [
+      "Black Sesame Pudding",
+      "Bubble Milk Tea Pudding",
+      "Goji Berry Pudding"
+    ]
+  },
+  "8267gI": {
+    "name": "Bualoi Kaikem Korn Sarn",
+    "geolocation": {
+      "lat": 13.728806,
+      "lng": 100.509806
+    },
+    "address": "ซอย เจริญนคร 1 Khlong Ton Sai Khlong San Bangkok ",
+    "phone": [
+      "0816975971"
+    ],
+    "priceRange": {
+      "name": "Under 100 baht",
+      "value": 1
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2015/01/18/1f0aafeeb19b4c63bba006b5d08648b8.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2015/01/18/1f0aafeeb19b4c63bba006b5d08648b8.jpg",
+    "recommendedMenu": [
+      "บัวลอยไข่เค็ม",
+      "บัวลอยไข่หวาน",
+      "บัวลอยไข่เค็ม+ไข่หวาน"
+    ]
+  },
+  "332617hP": {
+    "name": "Lhong Tou Cafe chinatown",
+    "geolocation": {
+      "lat": 13.739276,
+      "lng": 100.51161
+    },
+    "address": "542, ถนนเยาวราช, สัมพันธวงศ์, กรุงเทพมหานคร, 10100, ประเทศไทย Samphanthawong Samphanthawong Bangkok ",
+    "phone": [
+      "0649356499"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2020/04/22/7c59529f116b40debfc03904eadf71b6.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2018/09/15/6a7331255af94eec8899e5c744bf1fbf.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2018/09/15/6a7331255af94eec8899e5c744bf1fbf.jpg",
+    "recommendedMenu": [
+      "ซาลาเปาลาวา",
+      "มินิเปาหมูแดง",
+      "Egg Lava Bun"
+    ]
+  },
+  "358486kn": {
+    "name": "Gontran Cherrier Singha Complex",
+    "geolocation": {
+      "lat": 13.748442,
+      "lng": 100.564445
+    },
+    "address": "Gontran Cherrier Singha Complex ถ.เพรชบุรีตัดใหม่ Makkasan Ratchathewi Bangkok ",
+    "phone": [
+      "0909918999"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2019/01/16/64ff7e38381d4aabaaedca4979a5135d.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2022/02/23/b188eeb2d6da487fa93c988bc559d0fd.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/02/23/b188eeb2d6da487fa93c988bc559d0fd.jpg",
+    "recommendedMenu": [
+      "Plain Croissant",
+      "Almond Croissant",
+      "Croissant Ham and Cheese"
+    ]
+  },
+  "373337Jy": {
+    "name": "Kenn’s Coffee & Croissant Narathiwat Ratchanakarin",
+    "geolocation": {
+      "lat": 13.721136,
+      "lng": 100.531812
+    },
+    "address": "163/2 ซอยนราธิวาสราชนครินทร์ 5 ถนนสาธรใต้ Thung Maha Mek Sathon Bangkok ",
+    "phone": [
+      "0661495451"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2021/10/08/03c8680612a544d5adb8e08bb1059d74.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/04/22/e5ee6ad19d064754a8e188b4fabfa02d.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/04/22/e5ee6ad19d064754a8e188b4fabfa02d.jpg",
+    "recommendedMenu": [
+      "Almond MAX",
+      "Choco Marnier",
+      "Americano"
+    ]
+  },
+  "9239nT": {
+    "name": "D'Eiffel",
+    "geolocation": {
+      "lat": 13.801808477577556,
+      "lng": 100.33187214285135
+    },
+    "address": "Soi Sala Thammasop 64, Sala Thammasop, Bangkok, 10170, Thailand Sala Thammasop Thawi Watthana Bangkok ",
+    "phone": [
+      "0926955034",
+      "0929074236",
+      "0909101917"
+    ],
+    "priceRange": {
+      "name": "501 - 1,000 baht",
+      "value": 4
+    },
+    "cover": "https://img.wongnai.com/p/1920x0/2022/04/13/b1d3b182337a4414ba335e6ecb24a50b.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2022/04/13/b1d3b182337a4414ba335e6ecb24a50b.jpg",
+    "recommendedMenu": [
+      "Snow Fish with Dry Cherry and Shallots",
+      "Beef steak",
+      "Foie Gros"
+    ]
+  },
+  "506668EG": {
+    "name": "Toby’s Saladaeng",
+    "geolocation": {
+      "lat": 13.726051301504976,
+      "lng": 100.54182306395435
+    },
+    "address": "Saladaeng Thanon Sathon Nuea, Silom Bang Rak Bangkok ",
+    "phone": [
+      "021214954"
+    ],
+    "priceRange": {
+      "name": "251 - 500 baht",
+      "value": 3
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2020/03/17/57e8754f67ab43a7a4840e1e38b17157.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2020/04/28/9eff065e609d4f9ea21cc36a0a3b8a45.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2020/04/28/9eff065e609d4f9ea21cc36a0a3b8a45.jpg",
+    "recommendedMenu": [
+      "Spaghetti Black Truffle with sundried Tomato",
+      "Egg Mikado",
+      "Breakfast Board"
+    ]
+  },
+  "188291yz": {
+    "name": "1000Sook Food and Farm at ชะอำ",
+    "geolocation": {
+      "lat": 12.859321195106498,
+      "lng": 99.92154227116396
+    },
+    "address": "ถนน เพชรเกษม Don Khun Huai Cha-am Phetchaburi 76120",
+    "phone": [
+      "0953942322",
+      "0652239425",
+      "0619426442"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2016/09/13/2c7fbab240b04564b63079ebebc33223.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2016/09/29/af5713163cf942cdadd699f1ffb3aab2.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2016/09/29/af5713163cf942cdadd699f1ffb3aab2.jpg",
+    "recommendedMenu": [
+      "สปาเก็ตตี้คาโบนาร่าต้มยำทะเลไข่เยิ้ม",
+      "เสต็กพอร์คช้อป",
+      "สปาเก็ตตี้เส้นดำผัดพริกไทยไส้กรอก"
+    ]
+  },
+  "298437pQ": {
+    "name": "Kinu Donut Ari",
+    "geolocation": {
+      "lat": 13.781831,
+      "lng": 100.540751
+    },
+    "address": "23 ชอย อารีย์ 5 ฝั่งใต้ แขวงเขตพญาไท กรุงเทพมหานคร 10400 Sam Saen Nai Phayathai Bangkok 10400",
+    "phone": [
+      "0874626666"
+    ],
+    "priceRange": {
+      "name": "101 - 250 baht",
+      "value": 2
+    },
+    "logo": "https://img.wongnai.com/p/1920x0/2020/02/10/8e81cfb8217a4b0f8b41511583eb2534.jpg",
+    "cover": "https://img.wongnai.com/p/1920x0/2021/06/17/6e023f07fd8d4f4cadf343991b3935a5.jpg",
+    "primaryImage": "https://img.wongnai.com/p/1920x0/2021/06/17/6e023f07fd8d4f4cadf343991b3935a5.jpg",
+    "recommendedMenu": [
+      "Original Donut with Icing Sugar",
+      "Plain Donut",
+      "คินุโดนัท โรยผงซินนามอน Kinu with Cinnamon"
+    ]
+  }
+}
